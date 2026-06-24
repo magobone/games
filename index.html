@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Playstation Games Catalog</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="data/games.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <div>
+          <p class="eyebrow">Libreria personale</p>
+          <h1>Playstation Games Catalog</h1>
+        </div>
+        <div class="stats" aria-live="polite">
+          <span id="visibleCount">0</span>
+          <span>risultati</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="filters" aria-label="Filtri catalogo">
+        <label class="field search-field" for="searchInput">
+          <span>Nome gioco</span>
+          <input id="searchInput" type="search" placeholder="Cerca nella libreria..." autocomplete="off">
+        </label>
+
+        <label class="field" for="playersFilter">
+          <span>Giocatori locali</span>
+          <select id="playersFilter">
+            <option value="">Tutti</option>
+            <option value="SI">SI</option>
+            <option value="NO">NO</option>
+            <option value="N.A.">N.A.</option>
+          </select>
+        </label>
+
+        <label class="field" for="genreFilter">
+          <span>Genere</span>
+          <select id="genreFilter">
+            <option value="">Tutti</option>
+          </select>
+        </label>
+
+        <button class="clear-button" id="clearFilters" type="button">Reset</button>
+      </section>
+
+      <section class="result-bar">
+        <p id="resultSummary">Caricamento catalogo...</p>
+      </section>
+
+      <section class="games-grid" id="gamesGrid" aria-live="polite"></section>
+
+      <section class="empty-state" id="emptyState" hidden>
+        <h2>Nessun risultato</h2>
+        <p>Modifica ricerca o filtri per visualizzare altri giochi.</p>
+      </section>
+    </main>
+
+    <div class="image-modal" id="imageModal" aria-hidden="true" role="dialog" aria-label="Anteprima immagine">
+      <button class="modal-close" id="modalClose" type="button" aria-label="Chiudi anteprima">?</button>
+      <figure class="modal-figure">
+        <img id="modalImage" alt="">
+        <figcaption id="modalCaption"></figcaption>
+      </figure>
+    </div>
+  </body>
+</html>
