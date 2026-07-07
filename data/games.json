@@ -3946,5 +3946,59 @@
       "url": "https://www.youtube.com/watch?v=lkyBdsfCqZc"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA00232_00-NBALIVE14EASPRTS"
+  },
+  {
+    "id": 267,
+    "title": "Call of Duty: Modern Warfare III",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png?w=1920&thumb=false",
+    "genre": "Shooter",
+    "localPlayers": "SI",
+    "description": "Sparatutto militare in prima persona con campagna, multiplayer competitivo e modalita Zombies. Il giocatore affronta missioni tattiche e combattimenti rapidi usando armi, equipaggiamento e progressione online.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202507/1020/f457ebb444a2f9d1d70949733f482d28f852a9acc0c047f3.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202507/1020/68e06f0df85c70a118b1c19875959c7911e5adbb413d64b7.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202507/1020/4d01c3673132ec5578e28bdcc8fc7618d368088e6c32e24f.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Call of Duty: Modern Warfare III - Gameplay Reveal Trailer | PS5 & PS4 Games",
+      "url": "https://www.youtube.com/watch?v=i3IsLrPeZG8"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA07950_00-CODMW3CROSSGEN01"
+  },
+  {
+    "id": 268,
+    "title": "For the King 2",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1911/63df63b06043c219ccc61bd06de3c11b15e687e12224b347.jpg?w=1920&thumb=false",
+    "genre": "RPG",
+    "localPlayers": "SI",
+    "description": "RPG strategico roguelite con combattimenti a turni e mappa procedurale. Il giocatore guida un gruppo di avventurieri, gestisce equipaggiamento e rischi, e cerca di completare missioni in un regno fantasy.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202604/2908/7cbfb21110e41944431015651eb368df5028bf1103590be7.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202604/2908/20704ba57e5bb3e10228585d3e9d7a2d60d7d39c318b0f7b.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202604/2908/81dd4277ec5a225cc8b46ed0562286f59c6c9c2bf3945102.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Meglio dell'originale?! - Recensione di For The King 2 (PS5)",
+      "url": "https://www.youtube.com/watch?v=3izXh7c4AtQ"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP4395-PPSA23123_00-FORTHEKING200000"
+  },
+  {
+    "id": 269,
+    "title": "CrossCode",
+    "cover": "https://image.api.playstation.com/vulcan/img/rnd/202106/2407/KDzw5fnafjWWPxMLmldzeN6b.png?w=1920&thumb=false",
+    "genre": "RPG",
+    "localPlayers": "NO",
+    "description": "Action RPG in pixel art ambientato in un finto MMO futuristico. Il giocatore controlla Lea, esplora dungeon, risolve puzzle e combatte in tempo reale con attacchi ravvicinati, proiettili ed elementi.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202006/1809/1hZAsS4FCQQJG8oGdszwAtQL.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202006/1809/k2uqR6D6lpjOpI6s35HV63X0.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202006/1809/OVmK6UQ0PKbfRCefdbjghAin.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "CrossCode PS4 Gameplay - No commentary",
+      "url": "https://www.youtube.com/watch?v=VPKlNZ5KYA8"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP0900-PPSA03234_00-6784308825320418"
   }
 ]
