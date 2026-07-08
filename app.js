@@ -95,8 +95,9 @@ function screenshotsMarkup(game) {
 }
 
 function linksMarkup(game) {
+  const gameplayLabel = game.gameplay?.duration ? `Gameplay (${game.gameplay.duration})` : "Gameplay";
   const gameplay = game.gameplay
-    ? `<a href="${escapeAttribute(game.gameplay.url)}" target="_blank" rel="noopener">Gameplay</a>`
+    ? `<a href="${escapeAttribute(game.gameplay.url)}" target="_blank" rel="noopener">${escapeHtml(gameplayLabel)}</a>`
     : `<span>Gameplay N.A.</span>`;
   const store = game.storeUrl
     ? `<a class="secondary" href="${escapeAttribute(game.storeUrl)}" target="_blank" rel="noopener">Store</a>`
