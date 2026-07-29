@@ -1,6 +1,44 @@
 window.PLAYSTATION_GAMES = [
   {
-    "id": 1,
+    "title": "Dying Light 2 Stay Human: Reloaded Edition",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/420630164b84387c4355bacfe7fbd3a684716e703d573876.png?w=1920&thumb=false",
+    "genre": "Survival",
+    "localPlayers": "NO",
+    "description": "Action survival open world in prima persona ambientato in una citta post-apocalittica invasa dagli infetti. Il giocatore usa parkour, combattimenti corpo a corpo e scelte narrative per sopravvivere e influenzare le fazioni della citta.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202402/1512/a497ccb34258945adc81ab4fcaf1f0f670934afaa5abb6f8.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202402/2319/bcae9c69b9f4c54f97c15301b57e8a80ab3dbf910a217a68.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202306/0213/7487053e5278c69b1df855214c9992fc30568ae3e0e976b4.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "DYING LIGHT 2 STAY HUMAN: RELOADED EDITION playthrough (PS5 Live) - Part 1",
+      "url": "https://www.youtube.com/watch?v=yYebOuciq0g",
+      "duration": "3:06:03"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP2911-PPSA02262_00-DL2GAME0000000EU",
+    "id": 1
+  },
+  {
+    "title": "Big Walk",
+    "cover": "https://walk.game/img/BigWalk_Screenshot_May25_01-sm.webp",
+    "genre": "Avventura",
+    "localPlayers": "NO",
+    "description": "Avventura cooperativa online in cui si esplora un grande mondo insieme agli amici. Il giocatore cammina, comunica, usa strumenti e affronta piccole sfide di collaborazione e orientamento.",
+    "screenshots": [
+      "https://walk.game/img/BigWalk_Screenshot_May25_02-sm.webp",
+      "https://walk.game/img/BigWalk_Screenshot_May25_03-sm.webp",
+      "https://walk.game/img/BigWalk_Screenshot_May25_04-sm.webp"
+    ],
+    "gameplay": {
+      "title": "We Played BIG WALK and it's Wonderful - Exclusive Gameplay Demo",
+      "url": "https://www.youtube.com/watch?v=Y-0rj_BcYsI",
+      "duration": "19:40"
+    },
+    "storeUrl": "https://walk.game/",
+    "id": 2
+  },
+  {
+    "id": 3,
     "title": "Call of Duty: Modern Warfare III",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -19,7 +57,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA07950_00-CODMW3CROSSGEN01"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "For the King 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1911/63df63b06043c219ccc61bd06de3c11b15e687e12224b347.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -38,7 +76,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4395-PPSA23123_00-FORTHEKING200000"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "CrossCode",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202106/2407/KDzw5fnafjWWPxMLmldzeN6b.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -57,7 +95,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0900-PPSA03234_00-6784308825320418"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Warhammer 40,000: Darktide",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1318/e4166ac31937b2571c1383851375dbb6aa9cd6561f673551.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -75,7 +113,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4122-PPSA21255_00-0888672453602469"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Grounded",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2217/6b3b5b78a07f9adceed94929c1a862b0e2fe69bc5161002e.png?w=1920&thumb=false",
     "genre": "Survival",
@@ -93,7 +131,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6311-PPSA17008_00-OGUNQUIT00000000"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Nickelodeon All-Star Brawl 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1614/7f93021860b777be82c38de9938a439a3236fd530f4b0f79.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -111,7 +149,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0281-PPSA16745_00-NALLSTARBRAWLTWO"
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Nine Sols",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1604/0eb2b17b49201c6cc2368e0d141dac58918ed1365f26f0b1.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -129,7 +167,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/JP4443-PPSA25414_00-0905368681809535"
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "WUCHANG: Fallen Feathers",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2515/07e4e686e7c5ef400a23d66e3896be80011cd132491a6e70.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -143,7 +181,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA09519_00-WUCHANGPS5000000"
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "EA SPORTS FC 26",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0422/b3c742691a15b90c027701c43fd09157a838bb510292b6bb.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -161,7 +199,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/UP0006-PPSA27360_00-26STANDARDBUNDLE"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "Roblox",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202604/0801/6157a74f216f5fd380f33d326132130e6d1d7578291da74c.png?w=1920&thumb=false",
     "genre": "In Evidenza",
@@ -179,7 +217,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/UP1821-PPSA10990_00-1887411884729257"
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "Piece Out : Chess Mate",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1610/d48d173d73210ad3bda621db027b4f1263b2dfce1834e9dc.jpg?w=1920&thumb=false",
     "genre": "Puzzle",
@@ -197,7 +235,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/UB0928-PPSA36466_00-0275873473146060"
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "SWORD ART ONLINE Fractured Daydream",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1105/5079e59bb0f5f7bbd0041f6711370c8b42443c43c59656e3.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -215,7 +253,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA06568_00-SWORDARTONLINE07"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Tomb Raider I-III Remastered Starring Lara Croft",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0822/eb89fd4a4868d0aa7305ad169e2564c696ea11e0d5f7872a.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -227,13 +265,13 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202602/2600/8536db36a1e8ec1989391f6b16e1e8f5311bc96258d4c394.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Tomb Raider I–III Remastered (PS5) 4K 60FPS HDR Gameplay - (All 3 Games)",
+      "title": "Tomb Raider I-III Remastered (PS5) 4K 60FPS HDR Gameplay - (All 3 Games)",
       "url": "https://www.youtube.com/watch?v=e0E182ALF6M"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1875-PPSA16902_00-TOMBRAIDER123224"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Lords of the Fallen",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2307/c1e14c520612a5dc5e0b1905c8f4ecbbc23f139462f17acb.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -251,7 +289,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4321-PPSA03641_00-0026114790873430"
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Slime Rancher 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0820/bef1ddb38255f88b12add7336303d52fbe86bddc789c0637.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -269,7 +307,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2149-PPSA20153_00-0225081361902222"
   },
   {
-    "id": 16,
+    "id": 18,
     "title": "PGA TOUR® 2K25",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1901/c75d7d778e6aa56e0fddb80ba6cd901e9982476c60cd33bb.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -287,7 +325,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/UP1001-PPSA17952_00-PGATOUR2K25GBL00"
   },
   {
-    "id": 17,
+    "id": 19,
     "title": "Monster Hunter Rise",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1604/4a9eb65fab7fe53754fffeff3165f1e09ee3bc0bf1072edc.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -305,7 +343,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0102-PPSA08035_00-FULLGAME000000EU"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "The Elder Scrolls Online: Tamriel Unlimited",
     "cover": "",
     "genre": "N.A.",
@@ -319,7 +357,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-PPSA02018_00-PENSTDFULL000000"
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "The Elder Scrolls Online",
     "cover": "",
     "genre": "N.A.",
@@ -333,7 +371,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-PPSA02018_00-PENSTDFULL000000"
   },
   {
-    "id": 20,
+    "id": 22,
     "title": "Call of Duty®: Black Ops 4",
     "cover": "",
     "genre": "Shooter",
@@ -347,7 +385,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA12446_00-CODBO4GAMEPSPLUS"
   },
   {
-    "id": 21,
+    "id": 23,
     "title": "Tony Hawk's Pro Skater 1 + 2",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202102/2420/xhklOuxSIdAFfZ1bvKt8zrZZ.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -365,7 +403,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02177_00-TH12RTHEGAME0001"
   },
   {
-    "id": 22,
+    "id": 24,
     "title": "Crash Bandicoot™ 4: It's About Time",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/KCAVdtaQZGg2niu8lz5vmB1D.jpg?w=1920&thumb=false",
     "genre": "Platform",
@@ -377,13 +415,13 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/4SB7ChaNGMFe7xrO5sroeq5H.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Crash Bandicoot 4: It’s About Time – Gameplay Launch Trailer | PS4",
+      "title": "Crash Bandicoot 4: It’s About Time - Gameplay Launch Trailer | PS4",
       "url": "https://www.youtube.com/watch?v=375dqL15O9E"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02433_00-CB4THEGAME000001"
   },
   {
-    "id": 23,
+    "id": 25,
     "title": "Call of Duty®: Black Ops Cold War",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1200/QsgOeKSwiREmIfS63uLks5kT.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -401,7 +439,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02050_00-CODCWTHEGAME0001"
   },
   {
-    "id": 24,
+    "id": 26,
     "title": "Diablo IV",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3123/4168ef9b8695981a2e53f4a548319c27a32e320535a938ec.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -419,7 +457,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA08595_00-DIVBASEGAME00000"
   },
   {
-    "id": 25,
+    "id": 27,
     "title": "Tony Hawk's™ Pro Skater™ 1 + 2",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202102/2420/xhklOuxSIdAFfZ1bvKt8zrZZ.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -437,7 +475,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02177_00-TH12RTHEGAME0001"
   },
   {
-    "id": 26,
+    "id": 28,
     "title": "Crash Bandicoot 4: It's About Time",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/KCAVdtaQZGg2niu8lz5vmB1D.jpg?w=1920&thumb=false",
     "genre": "Platform",
@@ -455,7 +493,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02433_00-CB4THEGAME000001"
   },
   {
-    "id": 27,
+    "id": 29,
     "title": "Battlefield™ V",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/CMyTUxgeMmcaJFJvnYltXzG7.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -469,7 +507,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA08670_00-BATTLEFIELDV0000"
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "Plants vs. Zombies: Battle for Neighborville™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/YqtHzD5Y5ke84S23rF4ssKHu.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -487,7 +525,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA10852_00-PVZGW3BASEGAME00"
   },
   {
-    "id": 29,
+    "id": 31,
     "title": "STAR WARS Jedi: Fallen Order™",
     "cover": "",
     "genre": "N.A.",
@@ -501,7 +539,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA12529_00-RESPAWNSWBIRDDOG"
   },
   {
-    "id": 30,
+    "id": 32,
     "title": "EA SPORTS™ UFC® 4",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1709/c41c1a0497cf70d21ef44dd614bf5dfbc0b7a763c26db2b5.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -515,7 +553,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA14209_00-EASPORTSUFC4GAME"
   },
   {
-    "id": 31,
+    "id": 33,
     "title": "Need for Speed™ Heat",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/KWPE2EWFVWqpyWpO33wgi20f.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -533,7 +571,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA15090_00-NEEDFORSPEED2020"
   },
   {
-    "id": 32,
+    "id": 34,
     "title": "It Takes Two",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/UkFiVyReEoiV28rXgyHYKhfS.png?w=1920&thumb=false",
     "genre": "In Evidenza",
@@ -551,7 +589,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA02343_00-ITTAKESTWORETAIL"
   },
   {
-    "id": 33,
+    "id": 35,
     "title": "RocketArena",
     "cover": "",
     "genre": "N.A.",
@@ -565,7 +603,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA18700_00-ROCKETARENAMATCH"
   },
   {
-    "id": 34,
+    "id": 36,
     "title": "Mass Effect™ Legendary Edition",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202102/0118/Ls1Bvpx6CbOayoFte2GGiu4m.png?w=1920&thumb=false",
     "genre": "In Evidenza",
@@ -583,7 +621,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA19515_00-METR000000000000"
   },
   {
-    "id": 35,
+    "id": 37,
     "title": "Battlefield™ 2042",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2515/a34d5dadfc7c63020fcf025fefc74a254855c920899ba0b4.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -601,7 +639,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA01465_00-KINGSTONGAME0000"
   },
   {
-    "id": 36,
+    "id": 38,
     "title": "Need For Speed™ Hot Pursuit Remastered",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/txVKaQ8ow2Eu0f7yZUTdIpEt.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -619,7 +657,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA23265_00-NEEDFORSPEEDHPR0"
   },
   {
-    "id": 37,
+    "id": 39,
     "title": "GRID Legends",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2213/Hnfsex947uCn2TAviF7ohVZe.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -633,7 +671,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA03864_00-GRIDLEGPS5GAME00"
   },
   {
-    "id": 38,
+    "id": 40,
     "title": "F1® 23",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2816/436a00b90f26ab3b92cbdcf96b680b1bca9cfc75d8d9e10a.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -651,7 +689,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA09802_00-F12023PS5GAME000"
   },
   {
-    "id": 39,
+    "id": 41,
     "title": "EA SPORTS FC 24",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0817/0c6b54b16335e07b3a50d135999842fe03124f1247c562b9.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -669,7 +707,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA13385_00-24STANDARDBUNDLE"
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "FIFA 22",
     "cover": "",
     "genre": "Sport",
@@ -683,7 +721,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA03176_00-FIFAFOOTBALL2022"
   },
   {
-    "id": 41,
+    "id": 43,
     "title": "EA SPORTS™ WRC",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/3014/2997a64b74a383b2367bc15d005c54349d46d730c5573dc3.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -701,7 +739,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA06092_00-WRC2023PS5GAME00"
   },
   {
-    "id": 42,
+    "id": 44,
     "title": "Immortals of Aveum",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3011/7115eb457d32992315a0ad9ad515b10c6bd98f4ec01879f7.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -715,7 +753,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA08237_00-ARTEMISGAME00000"
   },
   {
-    "id": 43,
+    "id": 45,
     "title": "NHL 24",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2612/1b81ba17398ca16daedb0410e21ce023f091c64bebae056f.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -729,7 +767,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA11194_00-NHLPS5HOCKEY2024"
   },
   {
-    "id": 44,
+    "id": 46,
     "title": "FINAL FANTASY VII REMAKE",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0723/vDLeyNzrJdGwabFlEo44GkEZ.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -747,7 +785,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA07187_00-FFVIIREMAKE00000"
   },
   {
-    "id": 45,
+    "id": 47,
     "title": "Shadow of the Tomb Raider",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0823/JMUrhnDCKHirq6XLl4KN9R2e.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -761,7 +799,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA10872_00-SHADOWTOMBRAIDER"
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0323/W36VtAj8kJN1m49nhVbw0Ahi.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -775,7 +813,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-PPSA04490_00-TMNTCOWABUNGAXXX"
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "Killing Floor 3",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0616/ee68773b19e3f00cf1701029463f28d116fb53a17ae13c3f.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -789,7 +827,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0114-PPSA08427_00-KF3GAME000000001"
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "Team Sonic Racing",
     "cover": "https://image.api.playstation.com/cdn/EP0177/CUSA11115_00/RrupjGpXJr0DpIwiRr9DGyXOmQwifZ6D.jpg?w=1920&thumb=false",
     "genre": "Corse",
@@ -803,7 +841,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA11115_00-TEAMSONICRACING1"
   },
   {
-    "id": 49,
+    "id": 51,
     "title": "Sonic Colours: Ultimate",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1823/FdDadkM3teXl6cn9qLP1slok.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -821,7 +859,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA19351_00-SONICCOLORSULTIM"
   },
   {
-    "id": 50,
+    "id": 52,
     "title": "Virtua Fighter 5 Ultimate Showdown",
     "cover": "",
     "genre": "Picchiaduro",
@@ -835,7 +873,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA27066_00-8130680201060660"
   },
   {
-    "id": 51,
+    "id": 53,
     "title": "Tunic",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1417/QedUO44dsAv8mc5TCOpFfYzk.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -853,7 +891,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0403-PPSA03055_00-8262565741901804"
   },
   {
-    "id": 52,
+    "id": 54,
     "title": "THE KING OF FIGHTERS XV",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202108/2400/1HPmXwn7z6sQ4ldQOUmEQvsc.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -871,7 +909,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0576-PPSA02214_00-KOF15PS5000000EU"
   },
   {
-    "id": 53,
+    "id": 55,
     "title": "Five Nights at Freddy's: Security Breach",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202112/0804/PAw2w50vib1r42swjSZrxaCd.png?w=1920&thumb=false",
     "genre": "Horror",
@@ -889,7 +927,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0634-PPSA04677_00-9725862811759774"
   },
   {
-    "id": 54,
+    "id": 56,
     "title": "Little Nightmares",
     "cover": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA05955_00/1/i_5d1dabe62154263422fbe31e6dbd1ea23887d571f018de165e4a99e0fb99d9d5/i/icon0.png?w=54&thumb=true",
     "genre": "Platform",
@@ -903,7 +941,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA05952_00-LITTLENIGHTMARES"
   },
   {
-    "id": 55,
+    "id": 57,
     "title": "CODE VEIN",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/rRxnkGjxTToWISJBm6lAU6LM.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -921,7 +959,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA10246_00-CODEVEIN00000000"
   },
   {
-    "id": 56,
+    "id": 58,
     "title": "MY HERO ONE'S JUSTICE 2",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0915/h83YMoURliRJznLOc01cFU8i.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -939,7 +977,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA16171_00-HEROGAME00000000"
   },
   {
-    "id": 57,
+    "id": 59,
     "title": "PAC-MAN WORLD Re-PAC",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0414/7QP8lmR72NtTQ1ts8kJUmR9p.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -957,7 +995,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA06398_00-PACMANWORLDRE007"
   },
   {
-    "id": 58,
+    "id": 60,
     "title": "SYNDUALITY Echo of Ada",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1313/8153bff468efd3ca97092020276f044226f1a1f9e53c5920.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -975,7 +1013,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA07140_00-SYNDUALITYADA000"
   },
   {
-    "id": 59,
+    "id": 61,
     "title": "Borderlands® 3",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0603/D8bqTJ9i0USuwiHsb3ssfNXY.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -993,7 +1031,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA01463_00-0000000OAKNGSIEE"
   },
   {
-    "id": 60,
+    "id": 62,
     "title": "WWE 2K Battlegrounds",
     "cover": "",
     "genre": "Sport",
@@ -1007,7 +1045,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA16911_00-WWEBATTLEGROUNDS"
   },
   {
-    "id": 61,
+    "id": 63,
     "title": "Mafia: Definitive Edition",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/zqKtuo708PVfe00zPXlyaixZ.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1025,7 +1063,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA18100_00-MAFIAONEREMASTER"
   },
   {
-    "id": 62,
+    "id": 64,
     "title": "PGA TOUR 2K21",
     "cover": "",
     "genre": "Corse",
@@ -1039,7 +1077,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA19467_00-00000PGATOUR2K21"
   },
   {
-    "id": 63,
+    "id": 65,
     "title": "Assalto alla Rocca del Drago di Tiny Tina: Un'avventura unica nelle Wonderlands",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2902/oIastte0MMQVcrV3UVbYsDnf.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -1053,7 +1091,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA30036_00-000PAWPAWSIEEPS4"
   },
   {
-    "id": 64,
+    "id": 66,
     "title": "NBA 2K23",
     "cover": "",
     "genre": "Sport",
@@ -1067,7 +1105,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA07170_00-NBA2K23CROSSBUY0"
   },
   {
-    "id": 65,
+    "id": 67,
     "title": "NBA 2K25",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0623/f8f6ab8b26cf457674ffae29a286b998df5ab255e0665102.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -1081,7 +1119,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA22121_00-NBA2K25STANDARD0"
   },
   {
-    "id": 66,
+    "id": 68,
     "title": "Fallout 76",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2616/5b3403fe4c832f295f8c823be67caaee4e3f578941129c91.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -1095,7 +1133,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA12054_00-PRJMTN0000000000"
   },
   {
-    "id": 67,
+    "id": 69,
     "title": "Mortal Kombat X",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/3022/vqhm1VUKL1MO3oKA8HiTgxVS.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -1109,7 +1147,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00970_00-MORTALKOMBATX000"
   },
   {
-    "id": 68,
+    "id": 70,
     "title": "Injustice 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2822/qWKmaOpyeibmiuEbzPxRYCVl.png?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -1123,7 +1161,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA05459_00-INJUSTICE2000000"
   },
   {
-    "id": 69,
+    "id": 71,
     "title": "LEGO® Harry Potter™ Collection",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202410/0720/8b7077e13877e2a09c5236d0e0e7c17df21e322531e8c89c.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1137,7 +1175,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA05935_00-HARRYPOTTER17000"
   },
   {
-    "id": 70,
+    "id": 72,
     "title": "LEGO® DC Super-Villains",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/zHu3tLsbAVgM7fRURgPpVHVs.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1151,7 +1189,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA11550_00-LEGODCVILLAINS00"
   },
   {
-    "id": 71,
+    "id": 73,
     "title": "LEGO® Star Wars™: La Saga Degli Skywalker",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/huLsTFyulvj2fC0nbRaVUChw.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1165,7 +1203,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-PPSA01865_00-LEGOSWTSS0000000"
   },
   {
-    "id": 72,
+    "id": 74,
     "title": "Suicide Squad: Kill the Justice League",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1700/4dd30030931c8d9d72e7fa60a2f5576352bddaa7177f07ff.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -1179,7 +1217,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-PPSA03913_00-SUICIDESQUADKTJL"
   },
   {
-    "id": 73,
+    "id": 75,
     "title": "Alan Wake 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/2b117db6108244a85769f8009df39f8006b226d8a2831b3a.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1193,7 +1231,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-PPSA02572_00-ALANWAKE20000000"
   },
   {
-    "id": 74,
+    "id": 76,
     "title": "Operation Tango",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1614/MDl6mcJ4t4F68siIVlOmspgI.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1211,7 +1249,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1482-PPSA03315_00-3899031076458834"
   },
   {
-    "id": 75,
+    "id": 77,
     "title": "Lies of P",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2308/d946b9bae05aad7d8b289a9bcee0fb9fd215090b85d34540.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -1225,7 +1263,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1672-PPSA10621_00-9137597337715830"
   },
   {
-    "id": 76,
+    "id": 78,
     "title": "Remnant: From the Ashes",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202105/1019/EUNRiOJa7MadQcQ249c3kUPY.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -1239,7 +1277,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1965-CUSA13830_00-REMNANTEU0000001"
   },
   {
-    "id": 77,
+    "id": 79,
     "title": "Nobody Saves the World",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0916/ecee1f0f05dd3a788598c4b565dbfd94e92b589fa8bd9d26.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1257,7 +1295,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2145-PPSA03333_00-9677515631057326"
   },
   {
-    "id": 78,
+    "id": 80,
     "title": "Stardew Valley",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202102/1922/ajZXwKlWvBPfznci6hSGZoOr.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -1271,7 +1309,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2319-CUSA26625_00-2010147637670638"
   },
   {
-    "id": 79,
+    "id": 81,
     "title": "Stray",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/UogbMjgPOJrYBn5QvUmuR7G9.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1289,7 +1327,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA02101_00-STRAYSIEE0000000"
   },
   {
-    "id": 80,
+    "id": 82,
     "title": "Cocoon",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/cbfca01d60096c201fa98b544c26d3f2a522ec4a6c1fa6c5.png?w=1920&thumb=false",
     "genre": "Puzzle",
@@ -1307,7 +1345,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA08766_00-COCOONSIEE000000"
   },
   {
-    "id": 81,
+    "id": 83,
     "title": "Neon White",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0919/Goqvez1ZsOeM4dcHrWxxbHca.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -1325,7 +1363,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA09865_00-NEONWHITESIEE000"
   },
   {
-    "id": 82,
+    "id": 84,
     "title": "Jurassic World Evolution 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2717/6kocG7zxW91SotaqXs1bgQ1E.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -1343,7 +1381,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2377-PPSA03286_00-JWEVOLUTION2AAAA"
   },
   {
-    "id": 83,
+    "id": 85,
     "title": "Planet Coaster",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0810/Z0fFihgvWxVA9UFjaeWB5rft.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -1361,7 +1399,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2377-PPSA01735_00-PLANETCOASTER000"
   },
   {
-    "id": 84,
+    "id": 86,
     "title": "DayZ",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/9oKyhaUOZTJYI6Pk6yNPKvGS.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -1379,7 +1417,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2601-CUSA05645_00-DAYZ000000000001"
   },
   {
-    "id": 85,
+    "id": 87,
     "title": "High on Life",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202307/1223/ec2eb1c6fc39a68b8287e889ec5a058a0a4ad7e952444338.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -1397,7 +1435,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2886-PPSA15389_00-0937721911272224"
   },
   {
-    "id": 86,
+    "id": 88,
     "title": "Arcadegeddon",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1417/2400503b6eb2990f684e9ad1402c07b6e21084380eaf30fc.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1411,7 +1449,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2954-PPSA04022_00-8279782818643551"
   },
   {
-    "id": 87,
+    "id": 89,
     "title": "Totally Accurate Battle Simulator",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2914/ea2d28dfc2efee1f30572751961693394b28a558bb7de09a.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -1429,7 +1467,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3316-PPSA06082_00-3954245925658330"
   },
   {
-    "id": 88,
+    "id": 90,
     "title": "The Stanley Parable Ultra Deluxe",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2023/KENLDOFbmPUBPsNlW5UfhRlZ.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1443,7 +1481,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3470-PPSA06655_00-9027839365467214"
   },
   {
-    "id": 89,
+    "id": 91,
     "title": "The Stanley Parable: Ultra Deluxe",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2023/KENLDOFbmPUBPsNlW5UfhRlZ.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1461,7 +1499,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3470-PPSA06655_00-9027839365467214"
   },
   {
-    "id": 90,
+    "id": 92,
     "title": "Trek to Yomi",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2518/gRNeIugu1CKHchsthH9cQ8k8.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -1475,7 +1513,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA02629_00-6357334589461052"
   },
   {
-    "id": 91,
+    "id": 93,
     "title": "Death's Door",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2601/02b4fshjEdKP7XBssxl4TLcx.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1493,7 +1531,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA05304_00-6835793700949814"
   },
   {
-    "id": 92,
+    "id": 94,
     "title": "Trek To Yomi",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2518/gRNeIugu1CKHchsthH9cQ8k8.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -1507,7 +1545,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA02629_00-6357334589461052"
   },
   {
-    "id": 93,
+    "id": 95,
     "title": "HITMAN™ 2",
     "cover": "",
     "genre": "N.A.",
@@ -1521,7 +1559,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3969-CUSA12414_00-HITMANSTANDARD00"
   },
   {
-    "id": 94,
+    "id": 96,
     "title": "DIRT 5™",
     "cover": "",
     "genre": "Corse",
@@ -1535,7 +1573,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA16194_00-FULLGAME00000000"
   },
   {
-    "id": 95,
+    "id": 97,
     "title": "DIRT5",
     "cover": "",
     "genre": "Corse",
@@ -1549,7 +1587,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA16194_00-FULLGAME00000000"
   },
   {
-    "id": 96,
+    "id": 98,
     "title": "Tennis World Tour 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3014/LHGnaCETROwxivgtOIXe4Eq5.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -1566,7 +1604,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA23445_00-TWT2SIEE00000000"
   },
   {
-    "id": 97,
+    "id": 99,
     "title": "Control",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1116/4FquGajrp1LiTYr2ujJNlVpb.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1584,7 +1622,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA11454_00-CONTROLUEBUNDLE0"
   },
   {
-    "id": 98,
+    "id": 100,
     "title": "Ghostrunner",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2600/rV1c3Rd0qASTPUcyLAbjhgHM.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1598,7 +1636,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA03685_00-GHOSTRUNNERPS500"
   },
   {
-    "id": 99,
+    "id": 101,
     "title": "Ghostrunner 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/b8c685da41fe9e1573879c83ede4b2e15eca3c20d407fe22.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -1616,7 +1654,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA09912_00-GHOSTRUNNER2EU00"
   },
   {
-    "id": 100,
+    "id": 102,
     "title": "Worms Rumble",
     "cover": "",
     "genre": "N.A.",
@@ -1630,7 +1668,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-CUSA23465_00-WORMSRUMBLE00000"
   },
   {
-    "id": 101,
+    "id": 103,
     "title": "Overcooked! All You Can Eat",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202109/2814/KBjM7tWNPQIy2nca7OhRRwlf.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -1648,7 +1686,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-PPSA01528_00-0538983162460184"
   },
   {
-    "id": 102,
+    "id": 104,
     "title": "Curse of the Dead Gods",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0815/8vaSGftSzIqYajz5yXpu8xwS.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1662,7 +1700,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-CUSA19401_00-0000000CURSEGAME"
   },
   {
-    "id": 103,
+    "id": 105,
     "title": "Evil West",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202112/1000/L9QBPtJzks52QblFqdBNm1K6.jpg?w=1920&thumb=false",
     "genre": "Shooter",
@@ -1680,7 +1718,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02371_00-EVILWESTGAME0000"
   },
   {
-    "id": 104,
+    "id": 106,
     "title": "A Plague Tale: Innocence",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/ZAIadbeOcklw9LD0PQKUzIcJ.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1698,7 +1736,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02387_00-APLAGUETALEGAME0"
   },
   {
-    "id": 105,
+    "id": 107,
     "title": "A Plague Tale: Requiem",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/KJvdh38WMEDQQJFEUnmqwSt0.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1712,7 +1750,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02785_00-APLAGUEOUTBURST0"
   },
   {
-    "id": 106,
+    "id": 108,
     "title": "Oddworld: Soulstorm Enhanced Edition",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202111/1114/wQfv0SAiwFs6sv14MHOAZkri.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1730,7 +1768,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4134-PPSA02259_00-4683460980396423"
   },
   {
-    "id": 107,
+    "id": 109,
     "title": "HOT WHEELS UNLEASHED™",
     "cover": "",
     "genre": "Corse",
@@ -1744,7 +1782,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4356-PPSA02325_00-HWUPSPLUS0000000"
   },
   {
-    "id": 108,
+    "id": 110,
     "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1610/58e6bad48016d93a3598c3df0681f8b80ec9330a1c29c799.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -1762,7 +1800,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED"
   },
   {
-    "id": 109,
+    "id": 111,
     "title": "Biomutant",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0418/PUORZ4vlyiiMU86Ok6Bzc0YC.jpg?w=1920&thumb=false",
     "genre": "In Evidenza",
@@ -1776,7 +1814,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA06254_00-BIOMUTANTEUPS500"
   },
   {
-    "id": 110,
+    "id": 112,
     "title": "Kingdoms of Amalur: Re-Reckoning",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/3Qv8BYadCG9vOx8FqKAvmZea.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -1790,7 +1828,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-CUSA17245_00-KOARECKONINGDEEU"
   },
   {
-    "id": 111,
+    "id": 113,
     "title": "Wreckfest",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1215/rBG2J4Wo3S4kgWiAe0gfqZUd.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -1804,7 +1842,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA03309_00-WRECKFESTPS5EU00"
   },
   {
-    "id": 112,
+    "id": 114,
     "title": "Alone in the Dark",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1716/313939119e4f414b879d24caeddaaea50c7b39f55e7ad8f2.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1818,7 +1856,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA08135_00-ALONEINTHEDARKEU"
   },
   {
-    "id": 113,
+    "id": 115,
     "title": "Minecraft Dungeons",
     "cover": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18811_00/4/i_df61cb64d6924c3ba58def73853b96b556823c4bbaf9312054b47acd66975e7a/i/pic0.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -1836,7 +1874,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-CUSA18797_00-DUNGEONSPS400000"
   },
   {
-    "id": 114,
+    "id": 116,
     "title": "Minecraft: Legends",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2018/GMXm533aVo9ZNp5l6ofFV6oD.jpg?w=1920&thumb=false",
     "genre": "Survival",
@@ -1854,7 +1892,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-PPSA05510_00-1296939562310362"
   },
   {
-    "id": 115,
+    "id": 117,
     "title": "Minecraft Legends",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2018/GMXm533aVo9ZNp5l6ofFV6oD.jpg?w=1920&thumb=false",
     "genre": "Survival",
@@ -1872,7 +1910,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-PPSA05510_00-1296939562310362"
   },
   {
-    "id": 116,
+    "id": 118,
     "title": "The Outlast Trials",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1014/49be99983b69f35bcf99795d60cb9fbc6825106b1a2bca77.png?w=1920&thumb=false",
     "genre": "Survival",
@@ -1886,7 +1924,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4467-PPSA05004_00-3353269409144813"
   },
   {
-    "id": 117,
+    "id": 119,
     "title": "Endling",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1310/5dGCU1DsO9gtahGsJGRUuUeT.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1904,7 +1942,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4539-PPSA08509_00-9431509967463596"
   },
   {
-    "id": 118,
+    "id": 120,
     "title": "Deep Rock Galactic",
     "cover": "",
     "genre": "N.A.",
@@ -1918,7 +1956,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4837-CUSA15094_00-DRGFULLGAME00000"
   },
   {
-    "id": 119,
+    "id": 121,
     "title": "Goat Simulator 3",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1410/dqPwqJEqMpdRjSEgMpWSHTMX.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -1936,7 +1974,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4837-PPSA04158_00-GS3MAINGAMEPACK0"
   },
   {
-    "id": 120,
+    "id": 122,
     "title": "Viewfinder",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1712/a111d405ce33332db2ef2bd3fac33a46e31654d89d7fad7d.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -1954,7 +1992,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP5360-CUSA36827_00-VIEWFINDER0004EU"
   },
   {
-    "id": 121,
+    "id": 123,
     "title": "Psychonauts 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1417/HM9fBpwxGcon3lbajBIpHcWk.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1972,7 +2010,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6311-CUSA27146_00-PSYCHONAUTS2SIEE"
   },
   {
-    "id": 122,
+    "id": 124,
     "title": "ENDER LILIES : Quietus of the Knights",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2013/LM47ulV5zj6i9WxyTsp0akwD.png?w=1920&thumb=false",
     "genre": "Azione",
@@ -1986,7 +2024,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6491-CUSA26116_00-5324402993694470"
   },
   {
-    "id": 123,
+    "id": 125,
     "title": "Steelrising",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0208/0623e9d572d7f6690abc76ff57976f6c885443b0e1d70b56.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -2000,7 +2038,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6665-PPSA05063_00-STR0000000000000"
   },
   {
-    "id": 124,
+    "id": 126,
     "title": "TOEM",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1213/xAGTMkeWyIgst8RHjKZxToB5.jpeg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2014,7 +2052,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6986-PPSA04353_00-1052093850159805"
   },
   {
-    "id": 125,
+    "id": 127,
     "title": "Among Us",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202107/0115/5iLw9lBy189EBYfNTPSjOFC9.jpg?w=1920&thumb=false",
     "genre": "Party",
@@ -2028,7 +2066,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP7028-PPSA03596_00-AMONGUS5SIEE0001"
   },
   {
-    "id": 126,
+    "id": 128,
     "title": "Jusant",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0109/c780d45fe308020ea741873f73ff8ed882cf92254447dd6c.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2042,7 +2080,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP8091-PPSA10264_00-4648066903011525"
   },
   {
-    "id": 127,
+    "id": 129,
     "title": "L’arena dei cacciatori - Leggende",
     "cover": "",
     "genre": "N.A.",
@@ -2056,7 +2094,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP8266-PPSA02692_00-2168430897232498"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "Dreams™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2913/ef20XXS2F4j43N3XsZB2E3mS.png?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -2070,7 +2108,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA04301_00-DREAMS0000000000"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "Sackboy: Una grande avventura",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/0cIplfX36tBQTF5GFoHnRStF.png?w=1920&thumb=false",
     "genre": "Platform",
@@ -2084,7 +2122,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
   {
-    "id": 130,
+    "id": 132,
     "title": "DAYS GONE",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1118/sQPqzvzBsYoCq5MEkAc7v1Rs.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2098,7 +2136,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE"
   },
   {
-    "id": 131,
+    "id": 133,
     "title": "Concrete Genie",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/8AuS4olAZ8CpCii6D4nHjHit.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2112,7 +2150,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA11875_00-CONCRETEGENIE000"
   },
   {
-    "id": 132,
+    "id": 134,
     "title": "Nioh 2",
     "cover": "",
     "genre": "N.A.",
@@ -2126,7 +2164,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA15526_00-NIOH2EU100000000"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "Sackboy: A Big Adventure",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/0cIplfX36tBQTF5GFoHnRStF.png?w=1920&thumb=false",
     "genre": "Platform",
@@ -2140,7 +2178,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
   {
-    "id": 134,
+    "id": 136,
     "title": "Sackboy™: Una grande avventura",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/0cIplfX36tBQTF5GFoHnRStF.png?w=1920&thumb=false",
     "genre": "Platform",
@@ -2154,7 +2192,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
   {
-    "id": 135,
+    "id": 137,
     "title": "Nioh 2 Remastered",
     "cover": "",
     "genre": "N.A.",
@@ -2168,7 +2206,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA15526_00-NIOH2EU100000000"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "LEGO® Horizon Adventures™",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2013/fd196fe908df78dd56dc9de7d537b4879571b9b73bda6972.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2182,7 +2220,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA14632_00-LEGOHZNADVENTURE"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Dragon Age™: The Veilguard",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2418/c85c86687c5d5921cc5a487e85abe6cdc6d27621018679be.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2196,7 +2234,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/UP0006-PPSA01390_00-DRAGON4STANDBUND"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Infinity Nikki",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202512/2210/96413b2c6e31fe3c47e52e8e3a88f34997270b4d2872d9c8.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -2210,7 +2248,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/HB0901-PPSA26357_00-PRODUCTIONGLOBAL"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Stellar Blade Demo",
     "cover": "",
     "genre": "Demo",
@@ -2224,7 +2262,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA18488_00-STELLARBLADEDEMO"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "FINAL FANTASY VII REBIRTH DEMO",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/4a13ce96b9aee645c5e513658e93d7a19da511e7ef3501d9.png?w=1920&thumb=false",
     "genre": "Demo",
@@ -2238,7 +2276,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-PPSA08668_00-0886721485938168"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "eFootball™",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0204/f18bb3eef1cb28d037f3458342becb366d9f0a82b16ffe70.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -2252,7 +2290,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-PPSA03073_00-EFOOTBALL0000000"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Horizon Forbidden West",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/SqRcyLjZbpK26ej6TnWf43xp.jpg?w=1920&thumb=false",
     "genre": "Azione",
@@ -2270,7 +2308,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01521_00-FORBIDDENWESTPS5"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Rise of the Tomb Raider",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1618/0PRx6kuqW0qRZmGhDV3tzEj3.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2284,7 +2322,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA05716_00-RISEOFTOMBRAIDER"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Assassin's Creed® Origins",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2908/8b0ee99ae1a1c537005ae18cdc6fe0363114119a4aa5dfa3.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2298,7 +2336,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA05625_00-GAMEACEMPIRE0000"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "The Witcher 3: Wild Hunt",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/IW5r8hLVZzf0ApOyiOuRnKUe.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2312,7 +2350,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4497-PPSA10408_00-00000000000000N1"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Red Dead Redemption 2",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2330,7 +2368,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1004-CUSA08519_00-REDEMPTIONFULL02"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "The Dark Pictures Anthology: Man of Medan",
     "cover": "",
     "genre": "N.A.",
@@ -2344,7 +2382,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA14102_00-SMGDARKPICTURESA"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Fall Guys: Ultimate Knockout",
     "cover": "",
     "genre": "N.A.",
@@ -2358,7 +2396,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA29237_00-FALLGUYS00000000"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Fall Guys",
     "cover": "",
     "genre": "N.A.",
@@ -2372,7 +2410,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA29237_00-FALLGUYS00000000"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Rayman® Legends",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0920/kaMRvnAFAPo9dpzHPfMhczfJ.jpg?w=1920&thumb=false",
     "genre": "Platform",
@@ -2386,7 +2424,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00031_00-RAYMANLEGENDS001"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Grand Theft Auto V",
     "cover": "",
     "genre": "N.A.",
@@ -2400,7 +2438,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1004-CUSA00411_00-PREMIUMPACKOGGW1"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "God of War",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/KAmUQWQ5V9QF3XDzmty1VkKj.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2414,7 +2452,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07410_00-0000000GODOFWARN"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Sid Meier's Civilization VI",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/2R657ReZEg5m4EqEyn8n9sE2.jpg?w=1920&thumb=false",
     "genre": "Simulazione",
@@ -2428,7 +2466,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA15381_00-CIV6BASE00000000"
   },
   {
-    "id": 154,
+    "id": 156,
     "title": "Genshin Impact",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2110/588720a686e20fc3d0ed0fa5d42b10d0981341dde320e3c6.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2442,7 +2480,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP6261-PPSA02584_00-OSRELSIEEGENSHIN"
   },
   {
-    "id": 155,
+    "id": 157,
     "title": "New Football Game Online Performance Test",
     "cover": "",
     "genre": "Sport",
@@ -2456,7 +2494,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA26885_00-NFGOPT0000000000"
   },
   {
-    "id": 156,
+    "id": 158,
     "title": "Capcom Arcade Stadium",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2107/4pEHgJ17sqz9OorC1AzwG5fD.png?w=1920&thumb=false",
     "genre": "Arcade",
@@ -2470,7 +2508,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0102-CUSA26272_00-CAS0000000000001"
   },
   {
-    "id": 157,
+    "id": 159,
     "title": "The Art of Horizon Zero Dawn™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2488,7 +2526,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10211_00-HRZCE00000000000"
   },
   {
-    "id": 158,
+    "id": 160,
     "title": "Horizon Zero Dawn™: Complete Edition",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png?w=1920&thumb=false",
     "genre": "RPG",
@@ -2506,7 +2544,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10211_00-HRZCE00000000000"
   },
   {
-    "id": 159,
+    "id": 161,
     "title": "The Witness",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/0113/7vYXtqyamKbkP8eVDomtB1FI.png?w=1920&thumb=false",
     "genre": "Puzzle",
@@ -2520,7 +2558,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP8932-CUSA04263_00-THEWITNESSPS4PS4"
   },
   {
-    "id": 160,
+    "id": 162,
     "title": "Enter the Gungeon",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/uJ0hEeWKTBNI6d5zxr7f3aEx.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2534,7 +2572,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-CUSA01659_00-0000000000000000"
   },
   {
-    "id": 161,
+    "id": 163,
     "title": "Ratchet & Clank™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/g7QavKoff0uAngWn4Hiytel9.png?w=1920&thumb=false",
     "genre": "Platform",
@@ -2548,7 +2586,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA01073_00-RCPS400000000000"
   },
   {
-    "id": 162,
+    "id": 164,
     "title": "Spirit of the North",
     "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307z01jeqkstcVLNGhx0_zTfoEOGXiEfATyJ_3Nv56R1fYunBQzfAp2x-4xizh0sBzd-oSZ6MQ5Y4JraDOxtjLEq8KXVD4.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2562,7 +2600,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP3751-CUSA17576_00-SPIRITNORTH00001"
   },
   {
-    "id": 163,
+    "id": 165,
     "title": "Micro Machines World Series",
     "cover": "",
     "genre": "N.A.",
@@ -2576,7 +2614,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA07400_00-MICROMACHINES000"
   },
   {
-    "id": 164,
+    "id": 166,
     "title": "Sherlock Holmes: The Devil's Daughter",
     "cover": "",
     "genre": "Avventura",
@@ -2590,7 +2628,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA03773_00-SHERLOCKHOLMESDD"
   },
   {
-    "id": 165,
+    "id": 167,
     "title": "Disney+",
     "cover": "",
     "genre": "App",
@@ -2601,7 +2639,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1006-CUSA15362_00-0000000000000000"
   },
   {
-    "id": 166,
+    "id": 168,
     "title": "eFootball PES 2021 SEASON UPDATE",
     "cover": "",
     "genre": "Sport",
@@ -2615,7 +2653,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA18740_00-PES2021CLE004PRE"
   },
   {
-    "id": 167,
+    "id": 169,
     "title": "Rocket League®",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0221/1fc30d378e00fcf23ebaec113be7b5dc3a1d1000b8a8d1d6.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -2629,7 +2667,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01"
   },
   {
-    "id": 168,
+    "id": 170,
     "title": "KINGDOM HEARTS Ⅲ DEMO Version",
     "cover": "https://image.api.playstation.com/vulcan/img/cfn/113076rIQk0Yh6pNVQP70ygJ0pzJA12zcWu-BsYsZk7pVscYkLtAjRKmfpdpfqy5mOyRXKOkd7E-pBS_9ult4LxLndMeHpUH.png?w=54&thumb=true",
     "genre": "Demo",
@@ -2643,7 +2681,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA16864_00-KINGDOMHEARTS3TR"
   },
   {
-    "id": 169,
+    "id": 171,
     "title": "Tomb Raider: Definitive Edition",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/an2D6Z90tsMk8TLHYCcMvbqc.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2651,13 +2689,13 @@ window.PLAYSTATION_GAMES = [
     "description": "Tomb Raider: Definitive Edition e un'avventura incentrata su esplorazione, obiettivi narrativi e risoluzione di situazioni. Il giocatore avanza scoprendo ambienti, personaggi e sfide.",
     "screenshots": [],
     "gameplay": {
-      "title": "TOMB RAIDER: DEFINITIVE EDITION Full Walkthrough Gameplay – PS5 4K 60FPS No Commentary",
+      "title": "TOMB RAIDER: DEFINITIVE EDITION Full Walkthrough Gameplay - PS5 4K 60FPS No Commentary",
       "url": "https://www.youtube.com/watch?v=Cl1lqVBpFhg"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA00109_00-000000TOMBRAIDER"
   },
   {
-    "id": 170,
+    "id": 172,
     "title": "Worms W.M.D",
     "cover": "https://image.api.playstation.com/cdn/EP4064/CUSA04022_00/1Yehnig38IfIKE2ZJgy16dHTFF2oMJtr.jpg?w=1920&thumb=false",
     "genre": "Strategia",
@@ -2671,7 +2709,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-CUSA04022_00-WORMSWMD00000000"
   },
   {
-    "id": 171,
+    "id": 173,
     "title": "Unravel",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/0ZYmQIopGFSWV6bUBm4HwRMs.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2685,7 +2723,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA02532_00-UNRAVELUNRAVEL09"
   },
   {
-    "id": 172,
+    "id": 174,
     "title": "Injustice: Gods Among Us Ultimate Edition",
     "cover": "https://image.api.playstation.com/cdn/EP1018/CUSA00051_00/Gi06CD4cOwlR159Hwo8h3ffU8cHvauvS.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -2699,7 +2737,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT"
   },
   {
-    "id": 173,
+    "id": 175,
     "title": "Minecraft",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1020/91fe046f742042e3b31e57f7731dbe2226e1fd1e02a36223.jpg?w=1920&thumb=false",
     "genre": "Survival",
@@ -2713,7 +2751,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-CUSA00265_00-MINECRAFTPS40001"
   },
   {
-    "id": 174,
+    "id": 176,
     "title": "Uncharted™: L’Eredità Perduta",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2813/yUl2CGtMY06vuSD7n4PQjQkI.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2727,7 +2765,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07875_00-UNCHD4LOSTLEGACY"
   },
   {
-    "id": 175,
+    "id": 177,
     "title": "Uncharted™ 4: Fine di un ladro",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2620/IE1JWLbJBd5kCxTzxKvaCYBw.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2741,7 +2779,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00917_00-UNCHARTED4000000"
   },
   {
-    "id": 176,
+    "id": 178,
     "title": "Riptide GP2",
     "cover": "",
     "genre": "Corse",
@@ -2755,7 +2793,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
   {
-    "id": 177,
+    "id": 179,
     "title": "Beach Buggy Racing",
     "cover": "",
     "genre": "Corse",
@@ -2769,7 +2807,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
   {
-    "id": 178,
+    "id": 180,
     "title": "Riptide GP: Renegade",
     "cover": "",
     "genre": "Corse",
@@ -2783,7 +2821,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
   {
-    "id": 179,
+    "id": 181,
     "title": "NBA 2K20",
     "cover": "",
     "genre": "Sport",
@@ -2797,7 +2835,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA16386_00-NBA2K20000000000"
   },
   {
-    "id": 180,
+    "id": 182,
     "title": "Journey",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XrjdVwRXf9tzEaLQpmIanpzq.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -2811,7 +2849,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00470_00-JOURNEYPS4061115"
   },
   {
-    "id": 181,
+    "id": 183,
     "title": "Uncharted™: The Nathan Drake Collection",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/6JXslFDceEZUjTfwEamrXFTJ.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -2825,7 +2863,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA02343_00-UNCHARTEDTRILOGY"
   },
   {
-    "id": 182,
+    "id": 184,
     "title": "Spelunky",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202109/2907/tuaBj05YQY8wbMKHw48V5xHp.png?w=1920&thumb=false",
     "genre": "Platform",
@@ -2839,7 +2877,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4407-CUSA00491_00-SPELUNKY00000000"
   },
   {
-    "id": 183,
+    "id": 185,
     "title": "Genesis",
     "cover": "",
     "genre": "N.A.",
@@ -2853,7 +2891,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP5292-CUSA15653_00-0000000000000000"
   },
   {
-    "id": 184,
+    "id": 186,
     "title": "A KING'S TALE: FINAL FANTASY XV",
     "cover": "https://image.api.playstation.com/cdn/EP0082/CUSA05946_00/AgDEDrAu8utRHHFeGlNRB97oq0YTSiCy.jpg?w=1920&thumb=false",
     "genre": "RPG",
@@ -2867,7 +2905,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA05946_00-AKINGSTALEFFXV00"
   },
   {
-    "id": 185,
+    "id": 187,
     "title": "Brawlhalla",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202604/1018/c1edd2c2ada287c72633efe4cd2609150313ca5f63079099.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -2881,7 +2919,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE"
   },
   {
-    "id": 186,
+    "id": 188,
     "title": "Destiny 2",
     "cover": "",
     "genre": "Shooter",
@@ -2895,7 +2933,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA06172_00-DESTINYTHEGAME02"
   },
   {
-    "id": 187,
+    "id": 189,
     "title": "Fortnite",
     "cover": "",
     "genre": "Shooter",
@@ -2909,7 +2947,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA07669_00-FORTNITETESTING1"
   },
   {
-    "id": 188,
+    "id": 190,
     "title": "DEMO DI FIFA 20",
     "cover": "",
     "genre": "Demo",
@@ -2923,7 +2961,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA16384_00-FIFA2020DEMOGAME"
   },
   {
-    "id": 189,
+    "id": 191,
     "title": "HiQ Ace",
     "cover": "https://image.api.playstation.com/cdn/EP4396/CUSA10659_00/OPUKUOyBLbNY7LcSeLto26JN9efWrxUd.jpg?w=1920&thumb=false",
     "genre": "Arcade",
@@ -2937,7 +2975,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4396-CUSA10659_00-HIQACEGAMEEU0001"
   },
   {
-    "id": 190,
+    "id": 192,
     "title": "DEAD OR ALIVE 6: Core Fighters",
     "cover": "https://image.api.playstation.com/cdn/EP4108/CUSA12117_00/B7uAzuvYoHJxo4UD8jXhkPVp2OKXuJWk.jpg?w=1920&thumb=false",
     "genre": "Picchiaduro",
@@ -2951,7 +2989,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4108-CUSA12117_00-DOA6F2PGAME00000"
   },
   {
-    "id": 191,
+    "id": 193,
     "title": "eFootball PES 2020 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -2965,7 +3003,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA16507_00-PES2020DEMO00000"
   },
   {
-    "id": 192,
+    "id": 194,
     "title": "FIFA 19",
     "cover": "",
     "genre": "Sport",
@@ -2979,7 +3017,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA11608_00-FIFAFOOTBALL2019"
   },
   {
-    "id": 193,
+    "id": 195,
     "title": "DEMO DI FIFA 19",
     "cover": "",
     "genre": "Demo",
@@ -2993,7 +3031,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA12582_00-FIFA2019DEMOGAME"
   },
   {
-    "id": 194,
+    "id": 196,
     "title": "Fist of the North Star: Lost Paradise Demo",
     "cover": "https://image.api.playstation.com/cdn/EP0177/CUSA12788_00/IDIADoeBnTsIV3fWeklmALSyUmbkeEXy.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3007,7 +3045,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA12788_00-HOKUTOGOTOTRGB00"
   },
   {
-    "id": 195,
+    "id": 197,
     "title": "DAZN",
     "cover": "",
     "genre": "App",
@@ -3018,7 +3056,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP8819-CUSA04225_00-PERFORMGROUP2016"
   },
   {
-    "id": 196,
+    "id": 198,
     "title": "PRO EVOLUTION SOCCER 2019 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3032,7 +3070,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA12746_00-PES201900000DEMO"
   },
   {
-    "id": 197,
+    "id": 199,
     "title": "Now",
     "cover": "",
     "genre": "App",
@@ -3043,7 +3081,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4391-CUSA12336_00-NOW0TV0ITALY0NEW"
   },
   {
-    "id": 198,
+    "id": 200,
     "title": "Child of Light",
     "cover": "",
     "genre": "N.A.",
@@ -3057,7 +3095,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-NPEJ00305_00-B000000000001030"
   },
   {
-    "id": 199,
+    "id": 201,
     "title": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
     "cover": "https://image.api.playstation.com/cdn/EP0700/CUSA04944_00/s7lgLZCzXbzmPqGjjtHiYg4KTP2xOu2P.jpg?w=1920&thumb=false",
     "genre": "Arcade",
@@ -3071,7 +3109,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA04944_00-PACMANCE20000000"
   },
   {
-    "id": 200,
+    "id": 202,
     "title": "Pang Adventures",
     "cover": "https://image.api.playstation.com/vulcan/img/cfn/11307Zsm27L2kP5I2YtMO9tAliVrQNzhG4HCsoytQv0T3aPsqyZkbFSHlLCv8jM5RfG_yC_oQvc9tdHc1RMSarG0l0cz6ogn.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -3089,7 +3127,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1470-CUSA03650_00-PANGADVENTURES01"
   },
   {
-    "id": 201,
+    "id": 203,
     "title": "Everybody's Tennis™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0614/bsQnS6FNQNRzytU2zLrXKg1O.png?w=1920&thumb=false",
     "genre": "Sport",
@@ -3107,7 +3145,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA02270_00-SCES545350000001"
   },
   {
-    "id": 202,
+    "id": 204,
     "title": "Detroit: Become Human™",
     "cover": "https://image.api.playstation.com/cdn/EP9000/CUSA10345_00/KDoHnXaCMYh29SdlVI0C71L3zGpQmX5x.png?w=54&thumb=true",
     "genre": "Avventura",
@@ -3121,7 +3159,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10345_00-DETROITDEMO00001"
   },
   {
-    "id": 203,
+    "id": 205,
     "title": "Netflix",
     "cover": "",
     "genre": "App",
@@ -3132,7 +3170,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4350-CUSA00127_00-NETFLIXPOLLUX001"
   },
   {
-    "id": 204,
+    "id": 206,
     "title": "Need for Speed™ Payback",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2510/VPcR56CYKgWFbmxI8PtInnOl.png?w=1920&thumb=false",
     "genre": "Corse",
@@ -3146,7 +3184,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05986_00-NFS1800000000001"
   },
   {
-    "id": 205,
+    "id": 207,
     "title": "Wolfenstein® II: The New Colossus™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/irgbmjAa3kKbt2gZjwElko3i.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -3160,7 +3198,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA07377_00-COLOSSUSFULLGAME"
   },
   {
-    "id": 206,
+    "id": 208,
     "title": "FIFA 18",
     "cover": "",
     "genre": "Sport",
@@ -3174,7 +3212,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA07994_00-FIFAFOOTBALL2018"
   },
   {
-    "id": 207,
+    "id": 209,
     "title": "Trivial Pursuit Live!",
     "cover": "",
     "genre": "Puzzle",
@@ -3188,7 +3226,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00772_00-0000111122223333"
   },
   {
-    "id": 208,
+    "id": 210,
     "title": "MONOPOLY PLUS",
     "cover": "",
     "genre": "Puzzle",
@@ -3202,7 +3240,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00773_00-ASOBOMONOPOLY000"
   },
   {
-    "id": 209,
+    "id": 211,
     "title": "Pinball FX3",
     "cover": "",
     "genre": "Sport",
@@ -3216,7 +3254,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4042-CUSA04907_00-PINBALLFX3000000"
   },
   {
-    "id": 210,
+    "id": 212,
     "title": "NBA 2K18: Il Preludio",
     "cover": "",
     "genre": "Sport",
@@ -3230,7 +3268,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA09174_00-NBA2K18PRESEASON"
   },
   {
-    "id": 211,
+    "id": 213,
     "title": "DEMO DI FIFA 18",
     "cover": "",
     "genre": "Demo",
@@ -3244,7 +3282,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA08354_00-FIFA2018DEMOGAME"
   },
   {
-    "id": 212,
+    "id": 214,
     "title": "Bound Demo",
     "cover": "https://image.api.playstation.com/cdn/EP9000/CUSA07135_00/FnVhhGnAB9tg7sCOjAi2FlA0hKzcUsdt.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3258,7 +3296,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07135_00-BOUNDVRDEMO00001"
   },
   {
-    "id": 213,
+    "id": 215,
     "title": "Demo di KNACK™ 2",
     "cover": "https://image.api.playstation.com/cdn/EP9000/CUSA09687_00/9hPlVSwK76CRdqG65C98Ol1Z2HqeHglm.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3272,7 +3310,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA09687_00-KNACK20000000000"
   },
   {
-    "id": 214,
+    "id": 216,
     "title": "Prime Video",
     "cover": "",
     "genre": "App",
@@ -3283,7 +3321,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4183-CUSA00126_00-AIV00000000000EU"
   },
   {
-    "id": 215,
+    "id": 217,
     "title": "PRO EVOLUTION SOCCER 2018 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3297,7 +3335,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA09599_00-PES2018DEMO00000"
   },
   {
-    "id": 216,
+    "id": 218,
     "title": "PRO EVOLUTION SOCCER 2018 Online Beta",
     "cover": "",
     "genre": "N.A.",
@@ -3311,7 +3349,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA09007_00-PES2018OBT000000"
   },
   {
-    "id": 217,
+    "id": 219,
     "title": "Kung Fu Panda: Scontro finale delle leggende leggendarie",
     "cover": "",
     "genre": "N.A.",
@@ -3325,7 +3363,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4406-CUSA02591_00-KUNGFUPANDATOA00"
   },
   {
-    "id": 218,
+    "id": 220,
     "title": "Prey Demo: prima ora",
     "cover": "",
     "genre": "Demo",
@@ -3339,7 +3377,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA08458_00-PREYDEMO00000000"
   },
   {
-    "id": 219,
+    "id": 221,
     "title": "3on3 FreeStyle",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1906/0248591ba3b39b94b2f4d45fd4f22f36124e2b1b3d4838c3.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -3353,7 +3391,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1439-CUSA07069_00-3ON3FREESTYLE001"
   },
   {
-    "id": 220,
+    "id": 222,
     "title": "AdventurePop",
     "cover": "",
     "genre": "Avventura",
@@ -3367,7 +3405,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA05762_00-ADVENTUREPOPGAME"
   },
   {
-    "id": 221,
+    "id": 223,
     "title": "GRAVITY RUSH™2 DEMO",
     "cover": "https://image.api.playstation.com/cdn/EP9000/CUSA06760_00/RRg2RQRNHTUHzqxYjS6QAAcOD1c8P7Hc.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3381,7 +3419,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA06760_00-GR2EUKIOSK000000"
   },
   {
-    "id": 222,
+    "id": 224,
     "title": "Pro Evolution Soccer 2017",
     "cover": "",
     "genre": "N.A.",
@@ -3395,7 +3433,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA04957_00-PES2017000000000"
   },
   {
-    "id": 223,
+    "id": 225,
     "title": "Odin Sphere Leifthrasir DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3409,7 +3447,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1063-CUSA05318_00-ODINSPHERELEDEM0"
   },
   {
-    "id": 224,
+    "id": 226,
     "title": "Hatsune Miku: Project DIVA X Demo",
     "cover": "https://image.api.playstation.com/cdn/EP0177/CUSA05768_00/K4NUkSvIsg4YRezLt5mv6cmJURF2KhFb.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3423,7 +3461,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA05768_00-PJDX393PRPRTRIAL"
   },
   {
-    "id": 225,
+    "id": 227,
     "title": "PAC-MAN™ CHAMPIONSHIP EDITION 2 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3437,7 +3475,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA06359_00-PACMANCE20000001"
   },
   {
-    "id": 226,
+    "id": 228,
     "title": "Just Dance® 2017 Demo",
     "cover": "",
     "genre": "Demo",
@@ -3451,7 +3489,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA04822_00-JD2017PS4SCEEDMO"
   },
   {
-    "id": 227,
+    "id": 229,
     "title": "WORLD OF FINAL FANTASY Dungeon Demo",
     "cover": "https://image.api.playstation.com/cdn/EP0082/CUSA06046_00/nYoWy4LGayXlZRvwcopHw2qShBNvHW7g.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3465,7 +3503,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA06046_00-WORLDOFFFPS40000"
   },
   {
-    "id": 228,
+    "id": 230,
     "title": "SingStar™",
     "cover": "",
     "genre": "N.A.",
@@ -3479,7 +3517,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00033_00-SINGSTARE3XX2013"
   },
   {
-    "id": 229,
+    "id": 231,
     "title": "DEMO DI FIFA 17",
     "cover": "",
     "genre": "Demo",
@@ -3493,7 +3531,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05519_00-FIFA2017DEMOGAME"
   },
   {
-    "id": 230,
+    "id": 232,
     "title": "NBA 2K17: Il Preludio",
     "cover": "",
     "genre": "Sport",
@@ -3507,7 +3545,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA05035_00-NBA2K17000000000"
   },
   {
-    "id": 231,
+    "id": 233,
     "title": "PLATINUM DEMO – FINAL FANTASY XV",
     "cover": "",
     "genre": "Demo",
@@ -3521,7 +3559,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA04514_00-0000000000000001"
   },
   {
-    "id": 232,
+    "id": 234,
     "title": "Battlefield™ 1 Open Beta",
     "cover": "",
     "genre": "Shooter",
@@ -3535,7 +3573,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05244_00-TBETA00000000000"
   },
   {
-    "id": 233,
+    "id": 235,
     "title": "King's Quest",
     "cover": "https://image.api.playstation.com/cdn/EP0002/CUSA02014_00/2JkCALjeOlsjslhVgiR0nMS3CKxYeHeP.jpg?w=1920&thumb=false",
     "genre": "Avventura",
@@ -3549,7 +3587,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA02014_00-KINGSQUESTCHAPT1"
   },
   {
-    "id": 234,
+    "id": 236,
     "title": "DEAD OR ALIVE 5 Last Round",
     "cover": "https://image.api.playstation.com/cdn/EP4108/CUSA01601_00/Piqg302CBOl7eaDp4JNoeO2V5c8Jgykn.png?w=54&thumb=true",
     "genre": "Picchiaduro",
@@ -3563,7 +3601,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4108-CUSA01601_00-DOA5LR0000000000"
   },
   {
-    "id": 235,
+    "id": 237,
     "title": "Frozen Lampi Di Gemme -Battaglia di Neve",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1513/8d528da8722f66993f0547237e38b18155079e02a014328f.jpg?w=1920&thumb=false",
     "genre": "Rompicapi",
@@ -3577,7 +3615,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1006-CUSA02396_00-FFFSNOWBALLFIGHT"
   },
   {
-    "id": 236,
+    "id": 238,
     "title": "WRC 5 FIA World Rally Championship Demo",
     "cover": "",
     "genre": "Demo",
@@ -3591,7 +3629,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA03463_00-WRC5000000000000"
   },
   {
-    "id": 237,
+    "id": 239,
     "title": "Pro Evolution Soccer 2017 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3605,7 +3643,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA06176_00-PES2017DEMO00000"
   },
   {
-    "id": 238,
+    "id": 240,
     "title": "DOOM Demo",
     "cover": "https://image.api.playstation.com/cdn/EP1003/CUSA05655_00/k6HhgDK46eEr7I6Sgbb6hghjFBzffPig.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3619,7 +3657,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA05655_00-DOOMSINGLEPLAYER"
   },
   {
-    "id": 239,
+    "id": 241,
     "title": "Crunchyroll",
     "cover": "",
     "genre": "App",
@@ -3630,7 +3668,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP8805-CUSA02644_00-20150410XCRUNCHY"
   },
   {
-    "id": 240,
+    "id": 242,
     "title": "Pro Evolution Soccer 2016",
     "cover": "",
     "genre": "N.A.",
@@ -3644,7 +3682,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA02640_00-DIGIEXCBUNDLE002"
   },
   {
-    "id": 241,
+    "id": 243,
     "title": "Pro Evolution Soccer 2016 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3658,7 +3696,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA02989_00-PES2016HG0000000"
   },
   {
-    "id": 242,
+    "id": 244,
     "title": "Multiplayer.it",
     "cover": "",
     "genre": "App",
@@ -3669,7 +3707,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4462-CUSA00454_00-WEBMAF00000MULTI"
   },
   {
-    "id": 243,
+    "id": 245,
     "title": "Gamereactor",
     "cover": "",
     "genre": "App",
@@ -3680,7 +3718,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4545-CUSA01710_00-WEB00GAMEREACTOR"
   },
   {
-    "id": 244,
+    "id": 246,
     "title": "Dailymotion",
     "cover": "",
     "genre": "App",
@@ -3691,7 +3729,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4515-CUSA01161_00-00000DAILYMOTION"
   },
   {
-    "id": 245,
+    "id": 247,
     "title": "MUBI",
     "cover": "",
     "genre": "App",
@@ -3702,7 +3740,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4164-CUSA01196_00-WEBMAF000000MUBI"
   },
   {
-    "id": 246,
+    "id": 248,
     "title": "VEVO",
     "cover": "",
     "genre": "App",
@@ -3713,7 +3751,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4547-CUSA01692_00-WEBMAF000000VEVO"
   },
   {
-    "id": 247,
+    "id": 249,
     "title": "Lettore multimediale",
     "cover": "",
     "genre": "App",
@@ -3724,7 +3762,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/IP9100-CUSA02012_00-PS4MEDIAPLAYEREU"
   },
   {
-    "id": 248,
+    "id": 250,
     "title": "Metro: Last Light Redux",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/D7sZ8f8dfSlJtODirLNTvuBB.png?w=1920&thumb=false",
     "genre": "Shooter",
@@ -3738,7 +3776,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4062-CUSA00592_00-MLLREDUXDIGITAL1"
   },
   {
-    "id": 249,
+    "id": 251,
     "title": "Spotify",
     "cover": "",
     "genre": "App",
@@ -3749,7 +3787,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4950-CUSA01780_00-EU00000000000000"
   },
   {
-    "id": 250,
+    "id": 252,
     "title": "Hustle Kings™",
     "cover": "https://image.api.playstation.com/cdn/EP9000/CUSA00245_00/VV8uv5GahCj87H22Fj5Q2iAbnjkyXKPP.jpg?w=1920&thumb=false",
     "genre": "Sport",
@@ -3763,7 +3801,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00245_00-UHUSTLEKIN000001"
   },
   {
-    "id": 251,
+    "id": 253,
     "title": "Plex",
     "cover": "",
     "genre": "App",
@@ -3774,7 +3812,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4544-CUSA01703_00-WEBMAF000000PLEX"
   },
   {
-    "id": 252,
+    "id": 254,
     "title": "Pro Evolution Soccer 2015",
     "cover": "",
     "genre": "N.A.",
@@ -3788,7 +3826,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA01042_00-DIGITALEXCLUSIVE"
   },
   {
-    "id": 253,
+    "id": 255,
     "title": "SHAREfactory™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2100/E6wZhlNL2zvFPmPHVmUPWnH5.png?w=1920&thumb=false",
     "genre": "App",
@@ -3799,7 +3837,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/IP9100-CUSA00572_00-EURELE0000000100"
   },
   {
-    "id": 254,
+    "id": 256,
     "title": "PlayMemories Online",
     "cover": "",
     "genre": "App",
@@ -3810,7 +3848,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4288-CUSA00423_00-PLAYMEMORIES0001"
   },
   {
-    "id": 255,
+    "id": 257,
     "title": "YouTube",
     "cover": "",
     "genre": "App",
@@ -3821,7 +3859,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4381-CUSA01116_00-YOUTUBESCEE00000"
   },
   {
-    "id": 256,
+    "id": 258,
     "title": "Pro Evolution Soccer 2015 DEMO",
     "cover": "",
     "genre": "Demo",
@@ -3835,7 +3873,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA01331_00-PES2015HG0000000"
   },
   {
-    "id": 257,
+    "id": 259,
     "title": "DEMO DI FIFA 15",
     "cover": "",
     "genre": "Demo",
@@ -3849,7 +3887,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA00862_00-FIFA2015DEMOGAME"
   },
   {
-    "id": 258,
+    "id": 260,
     "title": "Blue Estate",
     "cover": "",
     "genre": "N.A.",
@@ -3863,7 +3901,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-CUSA00597_00-HSBLUEESTATEGAME"
   },
   {
-    "id": 259,
+    "id": 261,
     "title": "Thief Demo",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0517/c166ea6133806a6607845a4444aa17d6977c85ed72b5a2bb.png?w=1920&thumb=false",
     "genre": "Demo",
@@ -3877,7 +3915,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA00652_00-0000000THIEFDEMO"
   },
   {
-    "id": 260,
+    "id": 262,
     "title": "Tiny Brains",
     "cover": "",
     "genre": "N.A.",
@@ -3891,7 +3929,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA00165_00-TINYBRAINSGAME01"
   },
   {
-    "id": 261,
+    "id": 263,
     "title": "Trials Fusion™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/1523/RzgYci4cAbVYQw2uR9MpX1U6.jpg?w=1920&thumb=false",
     "genre": "Corse",
@@ -3905,7 +3943,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00230_00-TRIALSFUSION1111"
   },
   {
-    "id": 262,
+    "id": 264,
     "title": "Doki-Doki Universe™",
     "cover": "https://image.api.playstation.com/vulcan/img/rnd/202010/2621/bakOKkLS9pGZrvBpVNkLQNk7.png?w=1920&thumb=false",
     "genre": "Avventura",
@@ -3919,7 +3957,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00046_00-DDU0000000000000"
   },
   {
-    "id": 263,
+    "id": 265,
     "title": "Trine 2: Complete Story",
     "cover": "https://image.api.playstation.com/cdn/EP4029/CUSA00217_00/pqpKZNcqNqGfQGVLt4cPZd6uE1D3L3G4.png?w=54&thumb=true",
     "genre": "Avventura",
@@ -3933,7 +3971,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4029-CUSA00217_00-TRINE2COMPLETE00"
   },
   {
-    "id": 264,
+    "id": 266,
     "title": "Now TV",
     "cover": "",
     "genre": "App",
@@ -3944,7 +3982,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4439-CUSA00278_00-WEBMAF0SKYITALIA"
   },
   {
-    "id": 265,
+    "id": 267,
     "title": "Infinity",
     "cover": "",
     "genre": "App",
@@ -3955,7 +3993,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4463-CUSA00376_00-MEDIASETINFINITY"
   },
   {
-    "id": 266,
+    "id": 268,
     "title": "IGN",
     "cover": "",
     "genre": "App",
@@ -3966,7 +4004,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4436-CUSA00268_00-WEBMAF0000000IGN"
   },
   {
-    "id": 267,
+    "id": 269,
     "title": "VidZone",
     "cover": "",
     "genre": "App",
@@ -3977,7 +4015,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP4071-CUSA00235_00-0000000000000000"
   },
   {
-    "id": 268,
+    "id": 270,
     "title": "LEGO® MARVEL Super Heroes DEMO",
     "cover": "https://image.api.playstation.com/cdn/EP1018/CUSA00258_00/O1gpT9zRh5UZFbeDWwTJ24DHyyarDjAC.png?w=54&thumb=true",
     "genre": "Demo",
@@ -3991,7 +4029,7 @@ window.PLAYSTATION_GAMES = [
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00258_00-LEGOMARVELDEMO00"
   },
   {
-    "id": 269,
+    "id": 271,
     "title": "NBA LIVE 14 Demo",
     "cover": "",
     "genre": "Demo",

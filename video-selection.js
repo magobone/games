@@ -1,9 +1,9 @@
-function normalizeVideoText(value) {
+﻿function normalizeVideoText(value) {
   return String(value || "")
     .toLocaleLowerCase("it")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[®™:–—-]/g, " ")
+    .replace(/[\u00ae\u2122:\u2013\u2014-]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -22,15 +22,15 @@ function hasExactGameTitle(gameTitle, videoTitle) {
 function videoCandidateScore(gameTitle, candidate) {
   const title = candidate.title || "";
   const exactTitle = hasExactGameTitle(gameTitle, title) ? 1 : 0;
-  const platformMatch = /\b(ps5|ps4|playstation)\b/i.test(title) ? 1 : 0;
   const gameplayMatch = /\b(gameplay|walkthrough|playthrough|full game|no commentary|longplay)\b/i.test(title) ? 1 : 0;
   const durationSeconds = durationToSeconds(candidate.duration);
+  const platformMatch = /\b(ps5|ps4|playstation)\b/i.test(title) ? 1 : 0;
 
   return {
     exactTitle,
-    platformMatch,
     gameplayMatch,
-    durationSeconds
+    durationSeconds,
+    platformMatch
   };
 }
 
