@@ -1,5 +1,59 @@
 [
   {
+    "id": 272,
+    "title": "Sniper Elite: Resistance",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/b026676dfa9d7639fef041a9f0ed4c6d076e2ad3647eae1c.png?w=1920&thumb=false",
+    "genre": "Shooter",
+    "localPlayers": "NO",
+    "description": "Sparatutto tattico in terza persona ambientato nella Francia occupata durante la Seconda guerra mondiale. Il giocatore usa furtivita, fucili di precisione e tattiche di combattimento per completare missioni e sabotare le forze naziste.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/3039db9cec3d3809ecc5798f7a4c74dc9fc04a7067199e22.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/89bbe375f3400e1e890f3b7d7e57567d567908463091e99d.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/61e0f8f2f8402ac5652acc5603832f19f8220b1ed309ec3c.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Sniper Elite: Resistance - Gameplay Walkthrough - Part 1 - \"Missions 1-5\"",
+      "url": "https://www.youtube.com/watch?v=w_ydZGPBCdo"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/UP4363-PPSA17232_00-SNIPERELITERES00"
+  },
+  {
+    "id": 273,
+    "title": "MLB The Show 26",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2900/b16b482924f700bfcee9598394cd4ca5acf962724c93dfe4.jpg?w=1920&thumb=false",
+    "genre": "Sport",
+    "localPlayers": "SI",
+    "description": "Simulazione sportiva di baseball con modalita Road to the Show, Diamond Dynasty e Franchise. Il giocatore controlla battitori, lanciatori e squadre, affronta partite e costruisce la propria carriera o franchigia.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/1122/892e8791a4bdba91ef569d3752202a4dc2a33fac5dbd43cd.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/1122/230bf3a56006b9aea312de39094042a51a5b2b72a8a25d92.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/1122/580e6c1c34b9e44afe376ce9d610e33af32dccc3d229298c.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "MLB The Show 26 | Feature Premiere | Gameplay",
+      "url": "https://www.youtube.com/watch?v=C1e1ZwVhXbg"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/UP9000-PPSA30630_00-MLBTHESHOW26SHIP"
+  },
+  {
+    "id": 274,
+    "title": "Wobbly Life",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0810/l2VMZjLR9en9orx3nHGCaj8U.png?w=1920&thumb=false",
+    "genre": "Avventura",
+    "localPlayers": "SI",
+    "description": "Sandbox a mondo aperto basato sulla fisica, con minigiochi, lavori, veicoli, missioni e segreti. Il giocatore esplora l'isola, guadagna denaro e puo giocare da solo o in cooperativa locale e online fino a quattro persone.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202508/0714/3650ac7e207de17c9aa1e057339b9e5b405c97a427af26de.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202508/0714/b44f53cd0e854a7e1663d3ea5908708161c3a8972d1c95c5.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202508/0714/6d5fc87bf96131851634a38b4e50c1d18b1697b9f5054891.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Wobbly Life Gameplay Walkthrough Part 1 (No Commentary)",
+      "url": "https://www.youtube.com/watch?v=cPrbvXcNBvc"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/UP7742-PPSA29413_00-0632159817352246"
+  },
+  {
     "title": "Dying Light 2 Stay Human: Reloaded Edition",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202501/3115/420630164b84387c4355bacfe7fbd3a684716e703d573876.png?w=1920&thumb=false",
     "genre": "Survival",
