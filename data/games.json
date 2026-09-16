@@ -1,5 +1,23 @@
 [
   {
+    "id": 275,
+    "title": "Aniimo",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1003/b219d5d981f2c3d7582b8639e7d2fa06e94cb52e0f98439c.png?w=1920&thumb=false",
+    "genre": "RPG",
+    "localPlayers": "NO",
+    "description": "RPG open world gratuito basato sulla cattura di creature. Il giocatore esplora il continente di Idyll, cattura e colleziona gli Aniimo, crea legami per usare le loro abilita, affronta battaglie e collabora online con altri Pathfinder.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202606/0905/25a6b88b5964cec5da9482a0b0b5325690ce068df6f02fc6.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202603/1008/c228a3730623d717803e7c75e1dfff743a8a7c644918f6b5.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202603/1008/dbde91f3a73781d30a0ac16a555c1a9d46156d96d9e5ce61.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Aniimo | Gameplay Showcase",
+      "url": "https://www.youtube.com/watch?v=XHPS09hP7m4"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/concept/10018491"
+  },
+  {
     "id": 272,
     "title": "Sniper Elite: Resistance",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1309/b026676dfa9d7639fef041a9f0ed4c6d076e2ad3647eae1c.png?w=1920&thumb=false",
