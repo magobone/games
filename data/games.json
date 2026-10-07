@@ -1,5 +1,60 @@
 [
   {
+    "id": 276,
+    "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/ba6315e3f4b173134acc0b7cf9b0023534646b62462397b5.jpg?w=1920&thumb=false",
+    "genre": "Shooter",
+    "localPlayers": "SI",
+    "description": "Sparatutto d'azione in terza persona con grafica voxel, insetti giganti, robot e invasori alieni. Il giocatore recluta soldati, crea una squadra di quattro personaggi e affronta missioni per salvare la Terra, anche in cooperativa locale a schermo condiviso su PS4 e PS5 o online fino a quattro giocatori.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/300deb635be90e28eb7a377ee7d1ab853f4c16f1c54652d7.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/7c43e47af79086647345a75cd9ec2cbff31e758e3027e158.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/de4dcb62530aab61bc3ef9366fb0008ecfdb436ea24862fe.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 Gameplay 🐜 PS5 - Great co-op game",
+      "url": "https://www.youtube.com/watch?v=_dn-w3xghx4",
+      "duration": "8:08"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP3036-PPSA15928_00-EDFWORLDBROTHER2"
+  },
+  {
+    "id": 277,
+    "title": "F1® 25",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1521/80e6788c8f7efd41b3ad8ea2369ae05a451e75ab291ab357.png?w=1920&thumb=false",
+    "genre": "Corse",
+    "localPlayers": "SI",
+    "description": "Gioco ufficiale del campionato mondiale di Formula 1 2025, con gare, carriera, gestione della scuderia in My Team e storia Braking Point 3. Il giocatore guida monoposto sui circuiti del campionato, sviluppa la propria squadra e puo gareggiare in due in locale a schermo condiviso.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/2010/e23b7ef7beed3ae0f3aa081d2bd22364799001b4e91d90c8.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/2010/3f542466343c42c4935a86f015195c5d198c3d3c702c95ef.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202602/2010/9f083f721b5560d087dad80a9055e6d72fbf51792b454292.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "F1 25 - PS5 Gameplay",
+      "url": "https://www.youtube.com/watch?v=QpCVl3JJrd4"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/concept/10011830"
+  },
+  {
+    "id": 278,
+    "title": "Hunt: Showdown 1896",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202609/0209/ac26e6bd1b31fe6692cd668bfd978078ef75bf7a62a122e5.jpg?w=1920&thumb=false",
+    "genre": "Shooter",
+    "localPlayers": "NO",
+    "description": "Sparatutto online in prima persona a estrazione, ambientato in un mondo western infestato da creature soprannaturali. Il giocatore cerca indizi, caccia mostri e affronta altri cacciatori per recuperare le taglie e raggiungere un punto di fuga, da solo o in squadra.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202609/1113/000d783e6d04432152963a9be6cb6bd68091703a038a6233.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/c0d1d5bbcc6b29eab0d49ea6ba21d08826704b75418efc58.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202609/0708/b8c1aa4e739863c5f20a17ab1b85023d52e3be6f5195585b.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "9 EPIC Rounds Of Hunt: Showdown 1896!",
+      "url": "https://www.youtube.com/watch?v=cAXRqHkOc64"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP4291-PPSA16357_00-0286411811680806"
+  },
+  {
     "id": 275,
     "title": "Aniimo",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1003/b219d5d981f2c3d7582b8639e7d2fa06e94cb52e0f98439c.png?w=1920&thumb=false",
