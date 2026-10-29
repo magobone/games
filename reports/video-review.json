@@ -1,0 +1,1720 @@
+{
+  "date": "2026-10-29",
+  "catalogEntries": 281,
+  "videoLinks": 260,
+  "originalDurationsMeasured": 257,
+  "originalUnder10Minutes": 60,
+  "originalUnder20Minutes": 135,
+  "replacements": 43,
+  "method": "All 260 existing links checked against YouTube public player metadata. Candidate titles and uploaders verified via YouTube oEmbed; complete playthroughs/longplays prioritized. No video downloads.",
+  "limitations": [
+    "After the original audit, YouTube watch pages returned an unusual-traffic challenge. Further watch-page requests stopped; supported oEmbed metadata and independent indexed evidence were used for alternatives.",
+    "Exact duration is not available for every replacement. A missing after.seconds value is unknown, not zero; no guessed runtime is shown in the catalog.",
+    "Demo, beta, naturally short games, and localized title variants were reviewed individually. Not every short link has a verified replacement."
+  ],
+  "changes": [
+    {
+      "id": 275,
+      "game": "Aniimo",
+      "before": {
+        "title": "Aniimo | Gameplay Showcase",
+        "url": "https://www.youtube.com/watch?v=XHPS09hP7m4",
+        "seconds": 467,
+        "author": "Aniimo"
+      },
+      "after": {
+        "title": "Aniimo Gameplay Walkthrough Part 1 (iOS, Android, PC) - English",
+        "url": "https://www.youtube.com/watch?v=I6GYOKjVCMQ",
+        "author": "Techzamazing",
+        "seconds": null
+      },
+      "reason": "creator-instead-of-promotion",
+      "durationSource": null
+    },
+    {
+      "id": 6,
+      "game": "Warhammer 40,000: Darktide",
+      "before": {
+        "title": "Vale la pena giocare a Warhammer 40,000: Darktide? (Recensione per PS5)",
+        "url": "https://www.youtube.com/watch?v=K6ULV1QBTd8",
+        "seconds": 439,
+        "author": "DM Gaming"
+      },
+      "after": {
+        "title": "WARHAMMER 40,000 DARKTIDE Full Gameplay Walkthrough / No Commentary【FULL GAME】4K 60FPS Ultra HD",
+        "url": "https://www.youtube.com/watch?v=-V_r-jXHslc",
+        "author": "Gamer's Little Playground",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 9,
+      "game": "Nine Sols",
+      "before": {
+        "title": "Nine Sols - Launch Trailer | PS5 & PS4 Games",
+        "url": "https://www.youtube.com/watch?v=8AXi3ZZ6VS4",
+        "seconds": 79,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "NINE SOLS Full Gameplay Walkthrough / No Commentary【FULL GAME】4K UHD",
+        "url": "https://www.youtube.com/watch?v=vv9vNhosRfg",
+        "author": "Gamer's Little Playground",
+        "duration": "10:57:04",
+        "seconds": 39424
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": "https://www.m.yandex.com/video/preview/12003030599406795970"
+    },
+    {
+      "id": 23,
+      "game": "Tony Hawk's Pro Skater 1 + 2",
+      "before": {
+        "title": "Tony Hawk's Pro Skater 1 + 2 -- Gameplay (PS4)",
+        "url": "https://www.youtube.com/watch?v=-S76AHhBHKA",
+        "seconds": 470,
+        "author": "GamePlayStation"
+      },
+      "after": {
+        "title": "TONY HAWK'S PRO SKATER 1 + 2 FULL GAME - The BEST Skateboarding Game IS BACK",
+        "url": "https://www.youtube.com/watch?v=QWDvJQhkB0M",
+        "author": "TommyT999",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 24,
+      "game": "Crash Bandicoot™ 4: It's About Time",
+      "before": {
+        "title": "Crash Bandicoot 4: It’s About Time - Gameplay Launch Trailer | PS4",
+        "url": "https://www.youtube.com/watch?v=375dqL15O9E",
+        "seconds": 111,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "Crash Bandicoot 4: It's About Time - Full Game Walkthrough",
+        "url": "https://www.youtube.com/watch?v=KEFpXuZaszY",
+        "author": "ProsafiaGaming",
+        "duration": "5:31:29",
+        "seconds": 19889
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": "https://www.letsplayindex.com/channels/17666-prosafiagaming/videos/page-7"
+    },
+    {
+      "id": 26,
+      "game": "Diablo IV",
+      "before": {
+        "title": "Diablo IV - Season of Death Awakening Gameplay Trailer | PS5 & PS4 Games",
+        "url": "https://www.youtube.com/watch?v=kVP7x8gu_bY",
+        "seconds": 168,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "DIABLO 4 Gameplay Part 1 - FULL GAME Walkthrough DIABLO IV (No Commentary)",
+        "url": "https://www.youtube.com/watch?v=VzR-35O5YbA",
+        "author": "Anti-Hero Gaming",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 27,
+      "game": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "before": {
+        "title": "(PS5) Tony Hawk's Pro Skater 1 + 2 GAMEPLAY | Ultra Realistic Graphics  [4K HDR 60fps]",
+        "url": "https://www.youtube.com/watch?v=DlMJfEbxHTI",
+        "seconds": 543,
+        "author": "Joy Of Gaming"
+      },
+      "after": {
+        "title": "TONY HAWK'S PRO SKATER 1 + 2 FULL GAME - The BEST Skateboarding Game IS BACK",
+        "url": "https://www.youtube.com/watch?v=QWDvJQhkB0M",
+        "author": "TommyT999",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 28,
+      "game": "Crash Bandicoot 4: It's About Time",
+      "before": {
+        "title": "Crash Bandicoot 4: It's About Time (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
+        "url": "https://www.youtube.com/watch?v=Tf-aqCnu4Jw",
+        "seconds": 727,
+        "author": "FA GAMEZ"
+      },
+      "after": {
+        "title": "Crash Bandicoot 4: It's About Time - Full Game Walkthrough",
+        "url": "https://www.youtube.com/watch?v=KEFpXuZaszY",
+        "author": "ProsafiaGaming",
+        "duration": "5:31:29",
+        "seconds": 19889
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": "https://www.letsplayindex.com/channels/17666-prosafiagaming/videos/page-7"
+    },
+    {
+      "id": 30,
+      "game": "Plants vs. Zombies: Battle for Neighborville™",
+      "before": {
+        "title": "Plants vs  Zombies  Battle for Neighborville™ - PS5 Gameplay 4K 60FPS",
+        "url": "https://www.youtube.com/watch?v=ZvuoJwU7JIU",
+        "seconds": 567,
+        "author": "Dainghia25"
+      },
+      "after": {
+        "title": "PLANTS VS ZOMBIES BATTLE FOR NEIGHBORVILLE PS5 Gameplay Walkthrough FULL GAME - No Commentary",
+        "url": "https://www.youtube.com/watch?v=YTLMEMFZeDw",
+        "author": "BrickRock Gaming",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 31,
+      "game": "STAR WARS Jedi: Fallen Order™",
+      "before": {
+        "title": "Star Wars Jedi: Fallen Order (PS5) 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=C-tIJPaFF1I",
+        "seconds": 982,
+        "author": "FA GAMEZ"
+      },
+      "after": {
+        "title": "Star Wars Jedi: Fallen Order - Full Game Walkthrough (No Commentary)",
+        "url": "https://www.youtube.com/watch?v=en94jWUW_OE",
+        "author": "Full Playthroughs",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 34,
+      "game": "It Takes Two",
+      "before": {
+        "title": "It Takes Two (PS5) Gameplay HDR 4K 60FPS",
+        "url": "https://www.youtube.com/watch?v=sW-lpUtSGdo",
+        "seconds": 1158,
+        "author": "FA GAMEZ"
+      },
+      "after": {
+        "title": "IT TAKES TWO Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+        "url": "https://www.youtube.com/watch?v=11r97sZEIZQ",
+        "author": "Shirrako",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 48,
+      "game": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "before": {
+        "title": "TMNT: Teenage Mutant Ninja Turtles: The Cowabunga Collection PS5 Pro Gameplay Review [PS Plus]",
+        "url": "https://www.youtube.com/watch?v=f9gWBS_miCo",
+        "seconds": 1201,
+        "author": "Skycaptin5"
+      },
+      "after": {
+        "title": "Longplay of Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+        "url": "https://www.youtube.com/watch?v=5GY2y4FABS8",
+        "author": "LongplayArchive",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 49,
+      "game": "Killing Floor 3",
+      "before": {
+        "title": "Dovresti giocare a...Killing Floor 3? (Recensione PS5)",
+        "url": "https://www.youtube.com/watch?v=czgEZ2987BE",
+        "seconds": 438,
+        "author": "DM Gaming"
+      },
+      "after": {
+        "title": "1h de KILLING FLOOR 3 en DIFÍCIL | KILLING FLOOR 3 Gameplay Español",
+        "url": "https://www.youtube.com/watch?v=QR5NddYc7HU",
+        "author": "Más Menos Trece",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 52,
+      "game": "Virtua Fighter 5 Ultimate Showdown",
+      "before": {
+        "title": "Virtua Fighter 5: Ultimate Showdown - PS5 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=0Wa0JFyz8dU",
+        "seconds": 1100,
+        "author": "Rubhen925"
+      },
+      "after": {
+        "title": "Longplay of Virtua Fighter 5: Ultimate Showdown",
+        "url": "https://www.youtube.com/watch?v=Ti4onO9q70s",
+        "author": "LongplayArchive",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 53,
+      "game": "Tunic",
+      "before": {
+        "title": "Tunic PS5 Gameplay [4K 60FPS]",
+        "url": "https://www.youtube.com/watch?v=kfmqY9DwEfA",
+        "seconds": 934,
+        "author": "KingHans"
+      },
+      "after": {
+        "title": "TUNIC Full Game Walkthrough (No Commentary) - 100% Achievements",
+        "url": "https://www.youtube.com/watch?v=7ozwLHxw33Q",
+        "author": "Carrot Helper - 100% Walkthroughs | No Commentary",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 54,
+      "game": "THE KING OF FIGHTERS XV",
+      "before": {
+        "title": "The King of Fighters 15 (PS5) 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=_mN0eWHKduk",
+        "seconds": 245,
+        "author": "Dieison Games"
+      },
+      "after": {
+        "title": "King Of Fighters XV | FULL GAME Gameplay Walkthrough (All Story Modes)",
+        "url": "https://www.youtube.com/watch?v=CKn6EgrJdkM",
+        "author": "BlackAzuriteGaming",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 55,
+      "game": "Five Nights at Freddy's: Security Breach",
+      "before": {
+        "title": "Five Nights at Freddy’s: Security Breach - Gameplay Trailer | PS5",
+        "url": "https://www.youtube.com/watch?v=BY9-jWQQHgw",
+        "seconds": 126,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "FIVE NIGHTS AT FREDDY'S SECURITY BREACH Full Game Walkthrough - No Commentary (FNAF SB 100%)",
+        "url": "https://www.youtube.com/watch?v=ODZ6VQ1mdpk",
+        "author": "RabidRetrospectGames",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 59,
+      "game": "PAC-MAN WORLD Re-PAC",
+      "before": {
+        "title": "PAC-MAN WORLD Re-PAC (PS5) - Gameplay 4K | Part 1 - Buccaneer Beach | LEVEL 1-1",
+        "url": "https://www.youtube.com/watch?v=p_EWPZjdDQc",
+        "seconds": 732,
+        "author": "KPG Gaming Zone"
+      },
+      "after": {
+        "title": "PAC-MAN WORLD RE-PAC Gameplay Walkthrough FULL GAME (PC 4K 60FPS) - No Commentary",
+        "url": "https://www.youtube.com/watch?v=498Q8V39Beo",
+        "author": "fgw",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 63,
+      "game": "Mafia: Definitive Edition",
+      "before": {
+        "title": "MAFIA DEFINITIVE EDITION PS5 Gameplay ITA ► PROVIAMOLO SU PLAYSTATION 5",
+        "url": "https://www.youtube.com/watch?v=mmkXNpUpfeo",
+        "seconds": 869,
+        "author": "Falconero"
+      },
+      "after": {
+        "title": "Mafia: Definitive Edition – FULL GAME – No Commentary (4K 60FPS)",
+        "url": "https://www.youtube.com/watch?v=18DK7xd7DM0",
+        "author": "TheBaldMan",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 69,
+      "game": "Mortal Kombat X",
+      "before": {
+        "title": "(PS5) Mortal Kombat X Gameplay | Ultra High Graphics [4K HDR 60fps]",
+        "url": "https://www.youtube.com/watch?v=X0mkkCMScQc",
+        "seconds": 532,
+        "author": "Joy Of Gaming"
+      },
+      "after": {
+        "title": "MORTAL KOMBAT X Gameplay Walkthrough STORY FULL GAME [4K 60FPS] - No Commentary",
+        "url": "https://www.youtube.com/watch?v=tNE0a-O6jtg",
+        "author": "MKIceAndFire",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 75,
+      "game": "Alan Wake 2",
+      "before": {
+        "title": "ALAN WAKE 2: RECENSIONE con VOTO | il VERO HORROR?",
+        "url": "https://www.youtube.com/watch?v=rBOkM-8s_1Y",
+        "seconds": 1091,
+        "author": "PLAYERINSIDE"
+      },
+      "after": {
+        "title": "ALAN WAKE 2 PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)",
+        "url": "https://www.youtube.com/watch?v=A7lPTn_lSTk",
+        "author": "theRadBrad",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 79,
+      "game": "Nobody Saves the World",
+      "before": {
+        "title": "Nobody Saves the World - PlayStation 4 & 5 Announcement",
+        "url": "https://www.youtube.com/watch?v=4uG8BKgnh80",
+        "seconds": 70,
+        "author": "DrinkboxStudios"
+      },
+      "after": {
+        "title": "Nobody Saves The World - Full Game Walkthrough (Gameplay)",
+        "url": "https://www.youtube.com/watch?v=M_ahkvCC7qQ",
+        "author": "AJBRUN",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 82,
+      "game": "Cocoon",
+      "before": {
+        "title": "Gioco Cocoon PS5 Pro [Playstation Plus]",
+        "url": "https://www.youtube.com/watch?v=rc4TZrGc3n0",
+        "seconds": null,
+        "author": null
+      },
+      "after": {
+        "title": "COCOON - 100% Walkthrough - Full Game 🏆 All Puzzles, Trophies & Collectibles",
+        "url": "https://www.youtube.com/watch?v=ix6hYC7529k",
+        "author": "Trophy Tom",
+        "seconds": null
+      },
+      "reason": "replace-unavailable-or-unreadable",
+      "durationSource": null
+    },
+    {
+      "id": 93,
+      "game": "Death's Door",
+      "before": {
+        "title": "Death's Door- PS5 | 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=M2rlhXuuiXE",
+        "seconds": 612,
+        "author": "isM Prime"
+      },
+      "after": {
+        "title": "Death's Door - 100% Game Walkthrough",
+        "url": "https://www.youtube.com/watch?v=cIRHzCPKQE4",
+        "author": "Carrot Helper - 100% Walkthroughs | No Commentary",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 95,
+      "game": "HITMAN™ 2",
+      "before": {
+        "title": "Hitman 2 (PS5) 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=Ot4ly91AJXM",
+        "seconds": 1183,
+        "author": "FA GAMEZ"
+      },
+      "after": {
+        "title": "Hitman 2 - All Missions | FULL GAME Walkthrough No Commentary",
+        "url": "https://www.youtube.com/watch?v=di9GuV2A-2w",
+        "author": "Gamer Max Channel",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 99,
+      "game": "Control",
+      "before": {
+        "title": "Control - PS5 Combat Gameplay | 4K 60FPS",
+        "url": "https://www.youtube.com/watch?v=PB6AhqOOOoU",
+        "seconds": 843,
+        "author": "Ozone"
+      },
+      "after": {
+        "title": "CONTROL Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+        "url": "https://www.youtube.com/watch?v=5rzWHAv7Cu4",
+        "author": "Shirrako",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 118,
+      "game": "The Outlast Trials",
+      "before": {
+        "title": "The Outlast Trials PS4 vs PS5 vs PS5 Pro - Graphics Comparison - Framerate - 4k",
+        "url": "https://www.youtube.com/watch?v=iNP4BAj7qr0",
+        "seconds": 551,
+        "author": "Pixel Análise"
+      },
+      "after": {
+        "title": "THE OUTLAST TRIALS - FULL RELEASE | Full Game Walkthrough | No Commentary",
+        "url": "https://www.youtube.com/watch?v=CgI4ab_lLSQ",
+        "author": "The Game Archivist",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 119,
+      "game": "Endling",
+      "before": {
+        "title": "Endling - Extinction is Forever - Launch Trailer | PS4 Games",
+        "url": "https://www.youtube.com/watch?v=kiM2_XB_HZE",
+        "seconds": 70,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "Endling: Extinction Is Forever - Gameplay Walkthrough (FULL GAME)",
+        "url": "https://www.youtube.com/watch?v=-7p20rel4vM",
+        "author": "DanQ8000",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 122,
+      "game": "Viewfinder",
+      "before": {
+        "title": "Viewfinder - Announcement Trailer | PS5 Games",
+        "url": "https://www.youtube.com/watch?v=k_lIQ2EZRH8",
+        "seconds": 60,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "Viewfinder - Full Game Walkthrough (No Commentary) - 100% Achievements",
+        "url": "https://www.youtube.com/watch?v=y5Wz1EqzfBM",
+        "author": "Carrot Helper - 100% Walkthroughs | No Commentary",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 124,
+      "game": "ENDER LILIES : Quietus of the Knights",
+      "before": {
+        "title": "Ender Lilies: Quietus of the Knights PS5 Gameplay [Playstation Plus]",
+        "url": "https://www.youtube.com/watch?v=oNzHSq0Wtac",
+        "seconds": 600,
+        "author": "Skycaptin5"
+      },
+      "after": {
+        "title": "ENDER LILIES: Quietus of the Knights: Full Game [100%] (No Commentary Walkthrough)",
+        "url": "https://www.youtube.com/watch?v=c-ic-180oTM",
+        "author": "NeatPick",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 126,
+      "game": "TOEM",
+      "before": {
+        "title": "TOEM -- Gameplay (PS5)",
+        "url": "https://www.youtube.com/watch?v=4zcp6i3i2i0",
+        "seconds": 536,
+        "author": "GamePlayStation"
+      },
+      "after": {
+        "title": "TOEM - Full Game Walkthrough (No Commentary) - 100% Achievements",
+        "url": "https://www.youtube.com/watch?v=W79SQAS7gw8",
+        "author": "Carrot Helper - 100% Walkthroughs | No Commentary",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 130,
+      "game": "Dreams™",
+      "before": {
+        "title": "16 giochi per PS5 che tutti dovrebbero provare almeno una volta nella vita",
+        "url": "https://www.youtube.com/watch?v=iGFpHPBIJXw",
+        "seconds": null,
+        "author": null
+      },
+      "after": {
+        "title": "Art's Dream! - Dreams Gameplay Walkthrough Part 2",
+        "url": "https://www.youtube.com/watch?v=CxWDsAUdvv0",
+        "author": "Zebra Gamer",
+        "seconds": null
+      },
+      "reason": "replace-unavailable-or-unreadable",
+      "durationSource": null
+    },
+    {
+      "id": 131,
+      "game": "Sackboy: Una grande avventura",
+      "before": {
+        "title": "UN'ALTRA MERAVIGLIA SU PS5! (Forse) | Sackboy Una Grande Avventura",
+        "url": "https://www.youtube.com/watch?v=EPKLDDb9A34",
+        "seconds": 540,
+        "author": "PLAYERINSIDUE"
+      },
+      "after": {
+        "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+        "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+        "author": "CORE MEMORY UNLOCKED",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 135,
+      "game": "Sackboy: A Big Adventure",
+      "before": {
+        "title": "Sackboy: A Big Adventure (PS5) 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=ciUV29MmQIY",
+        "seconds": 461,
+        "author": "FA GAMEZ"
+      },
+      "after": {
+        "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+        "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+        "author": "CORE MEMORY UNLOCKED",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 136,
+      "game": "Sackboy™: Una grande avventura",
+      "before": {
+        "title": "UN'ALTRA MERAVIGLIA SU PS5! (Forse) | Sackboy Una Grande Avventura",
+        "url": "https://www.youtube.com/watch?v=EPKLDDb9A34",
+        "seconds": 540,
+        "author": "PLAYERINSIDUE"
+      },
+      "after": {
+        "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+        "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+        "author": "CORE MEMORY UNLOCKED",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 158,
+      "game": "Capcom Arcade Stadium",
+      "before": {
+        "title": "CAPCOM ARCADE STADIUM - PS5 GAMEPLAY ( 4K )",
+        "url": "https://www.youtube.com/watch?v=g0Ua4wC2i90",
+        "seconds": null,
+        "author": null
+      },
+      "after": {
+        "title": "Capcom Arcade Stadium Gameplay | Nintendo Switch",
+        "url": "https://www.youtube.com/watch?v=bpO5qz_uQS4",
+        "author": "Video Chums 🎮😄",
+        "seconds": null
+      },
+      "reason": "replace-unavailable-or-unreadable",
+      "durationSource": null
+    },
+    {
+      "id": 161,
+      "game": "The Witness",
+      "before": {
+        "title": "The Witness (PS5) - 4K 60FPS HDR Gameplay",
+        "url": "https://www.youtube.com/watch?v=njhrvUJOSNQ",
+        "seconds": 518,
+        "author": "Platine"
+      },
+      "after": {
+        "title": "100% Game Walkthrough - The Witness [All 523 Puzzles + 135 Environmental Puzzles + 49 Audio Logs]",
+        "url": "https://www.youtube.com/watch?v=nXqBLYuvFyk",
+        "author": "Carrot Helper - 100% Walkthroughs | No Commentary",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 163,
+      "game": "Ratchet & Clank™",
+      "before": {
+        "title": "RATCHET & CLANK RIFT APART [Walkthrough Gameplay ITA PS5 - PARTE 1] - LA NEXT GEN è QUI!",
+        "url": "https://www.youtube.com/watch?v=Q0GcxfPwMPk",
+        "seconds": 2020,
+        "author": "MikeShowSha"
+      },
+      "after": {
+        "title": "Ratchet and Clank PS4 - Full Game RYNO ONLY Walkthrough",
+        "url": "https://www.youtube.com/watch?v=V6wh0sX3Ig8",
+        "author": "ProsafiaGaming",
+        "seconds": null
+      },
+      "reason": "correct-game",
+      "durationSource": null
+    },
+    {
+      "id": 166,
+      "game": "Sherlock Holmes: The Devil's Daughter",
+      "before": {
+        "title": "Sherlock Holmes: The Devil's Daughter - Gameplay Walkthrough Video | PS4",
+        "url": "https://www.youtube.com/watch?v=pJYBcikP_wc",
+        "seconds": 699,
+        "author": "PlayStation"
+      },
+      "after": {
+        "title": "Sherlock Holmes: The Devil's Daughter | Full Game Walkthrough | No Commentary",
+        "url": "https://www.youtube.com/watch?v=HgiTaC5L1Es",
+        "author": "GAMESPUB",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 179,
+      "game": "Beach Buggy Racing",
+      "before": {
+        "title": "Using a PS5 Controller to play a mobile game || Beach Buggy Racing",
+        "url": "https://www.youtube.com/watch?v=DQrIXumbNQg",
+        "seconds": 295,
+        "author": "Edits with Flip"
+      },
+      "after": {
+        "title": "Beach Buggy Racing [Full Game | No Commentary] PS4",
+        "url": "https://www.youtube.com/watch?v=FDYr-ByF4yw",
+        "author": "Casual Racer Red",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 200,
+      "game": "Child of Light",
+      "before": {
+        "title": "Child of Light gameplay PS5",
+        "url": "https://www.youtube.com/watch?v=g3Ibq3qz5tQ",
+        "seconds": 472,
+        "author": "Game On"
+      },
+      "after": {
+        "title": "CHILD OF LIGHT - FULL GAME (NO COMMENTARY)",
+        "url": "https://www.youtube.com/watch?v=TIyv2NY2f1g",
+        "author": "ValhallaGamer95",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 207,
+      "game": "Wolfenstein® II: The New Colossus™",
+      "before": {
+        "title": "Wolfenstein 2 The New Colossus PS5 Pro Gameplay Review [Playstation Plus]",
+        "url": "https://www.youtube.com/watch?v=W-MI_-LuelM",
+        "seconds": 1201,
+        "author": "Skycaptin5"
+      },
+      "after": {
+        "title": "Wolfenstein II: The New Colossus (2017) – Full Game Walkthrough | 4K 60FPS | No Commentary",
+        "url": "https://www.youtube.com/watch?v=sKmLAfYx_Bc",
+        "author": "TrueGamingVault",
+        "seconds": null
+      },
+      "reason": "long-form-gameplay",
+      "durationSource": null
+    },
+    {
+      "id": 219,
+      "game": "Kung Fu Panda: Scontro finale delle leggende leggendarie",
+      "before": {
+        "title": "Kung Fu Panda Gameplay Ita #1 Il Sogno Del Guerriero Dragone",
+        "url": "https://www.youtube.com/watch?v=KAEeJE8XjDo",
+        "seconds": 901,
+        "author": "Master Game Official"
+      },
+      "after": {
+        "title": "Kung Fu Panda: Showdown of Legendary Legends - Full Game Walkthrough | 4K 60FPS | No Commentary",
+        "url": "https://www.youtube.com/watch?v=RZMzdELRdk8",
+        "author": "Geração Power Up",
+        "seconds": null
+      },
+      "reason": "correct-game",
+      "durationSource": null
+    }
+  ],
+  "remainingShort": [
+    {
+      "id": 276,
+      "game": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+      "url": "https://www.youtube.com/watch?v=_dn-w3xghx4",
+      "seconds": 488,
+      "author": "Video Chums 🎮😄",
+      "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 Gameplay 🐜 PS5 - Great co-op game",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 274,
+      "game": "Wobbly Life",
+      "url": "https://www.youtube.com/watch?v=cPrbvXcNBvc",
+      "seconds": 484,
+      "author": "Zerw Gameplay",
+      "title": "Wobbly Life Gameplay Walkthrough Part 1 (No Commentary)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 2,
+      "game": "Big Walk",
+      "url": "https://www.youtube.com/watch?v=Y-0rj_BcYsI",
+      "seconds": 1180,
+      "author": "noclip_2",
+      "title": "We Played BIG WALK and it's Wonderful - Exclusive Gameplay Demo",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 8,
+      "game": "Nickelodeon All-Star Brawl 2",
+      "url": "https://www.youtube.com/watch?v=XyKSDc8WuJ4",
+      "seconds": 956,
+      "author": "Rubhen925",
+      "title": "Nickelodeon All-Star Brawl 2 - PS5 4K 60FPS Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 10,
+      "game": "WUCHANG: Fallen Feathers",
+      "url": "https://www.youtube.com/watch?v=aapCGiANZMQ",
+      "seconds": 1073,
+      "author": "Rubhen925",
+      "title": "WUCHANG Fallen Feathers - PS5 4K 60FPS Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 11,
+      "game": "EA SPORTS FC 26",
+      "url": "https://www.youtube.com/watch?v=0DhlHlUX3eA",
+      "seconds": 1119,
+      "author": "Throneful",
+      "title": "EA SPORTS FC 26 Gameplay (PS5 UHD) [4K60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 12,
+      "game": "Roblox",
+      "url": "https://www.youtube.com/watch?v=BRVDkqLj2ZE",
+      "seconds": 482,
+      "author": "spllitz",
+      "title": "This is what Roblox looks like on PS5",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 13,
+      "game": "Piece Out : Chess Mate",
+      "url": "https://www.youtube.com/watch?v=-XkLSf0j2CA",
+      "seconds": 370,
+      "author": "SilentGhost Gaming",
+      "title": "PIECE OUT: CHESS MATE - New FREE & EASY 5 Minutes Platinum Game - Trophy Guide PS5",
+      "reason": "Short puzzle game: a complete trophy run can be brief."
+    },
+    {
+      "id": 19,
+      "game": "Monster Hunter Rise",
+      "url": "https://www.youtube.com/watch?v=XMNg7sjRwEc",
+      "seconds": 615,
+      "author": "KingHans",
+      "title": "Monster Hunter Rise PS5 Gameplay [4K 60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 20,
+      "game": "The Elder Scrolls Online: Tamriel Unlimited",
+      "url": "https://www.youtube.com/watch?v=UBcRy4lbcbM",
+      "seconds": 716,
+      "author": "Toby2B",
+      "title": "The Elder Scrolls Online: Tamriel Unlimited PS4 Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 25,
+      "game": "Call of Duty®: Black Ops Cold War",
+      "url": "https://www.youtube.com/watch?v=Rc2zC-Rt2UE",
+      "seconds": 1145,
+      "author": "FA GAMEZ",
+      "title": "Call of Duty: Black Ops Cold War (PS5) 4K HDR + Ray Tracing Gameplay - 2160p (UHD)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 32,
+      "game": "EA SPORTS™ UFC® 4",
+      "url": "https://www.youtube.com/watch?v=Lmfw9hapWf4",
+      "seconds": 735,
+      "author": "Throneful",
+      "title": "EA Sports UFC 4 Gameplay (PS5 UHD) [4K60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 35,
+      "game": "RocketArena",
+      "url": "https://www.youtube.com/watch?v=RoqaGEWu-HA",
+      "seconds": 282,
+      "author": "HavenDeVon",
+      "title": "RocketArena EASY WIN 🔥 (No Commentary) PS4/PS5/XBOX",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 37,
+      "game": "Battlefield™ 2042",
+      "url": "https://www.youtube.com/watch?v=TO2CdBPuFcQ",
+      "seconds": 1159,
+      "author": "Orbital Gameplay",
+      "title": "Battlefield 2042 Gameplay (PS5) 4K 60FPS | Incredible Graphics!",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 38,
+      "game": "Need For Speed™ Hot Pursuit Remastered",
+      "url": "https://www.youtube.com/watch?v=AJm-cwt0Ba8",
+      "seconds": 965,
+      "author": "Racing Video Games",
+      "title": "Need For Speed: Hot Pursuit on PS5 - 16 Minutes of Gameplay (Free Drive, Police Chases) 4K 60FPS",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 39,
+      "game": "GRID Legends",
+      "url": "https://www.youtube.com/watch?v=-_5BsgPKe0M",
+      "seconds": 615,
+      "author": "FA GAMEZ",
+      "title": "Grid Legends (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 40,
+      "game": "F1® 23",
+      "url": "https://www.youtube.com/watch?v=W0xj9pRVIls",
+      "seconds": 1121,
+      "author": "Throneful",
+      "title": "F1 23 Gameplay (PS5 UHD) [4K60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 43,
+      "game": "EA SPORTS™ WRC",
+      "url": "https://www.youtube.com/watch?v=vzGWwj6T1P4",
+      "seconds": 505,
+      "author": "World of PlayStation",
+      "title": "EA Sports WRC (IS AMAZING on PS5) - PS5 [4K 60FPS] Gameplay",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 46,
+      "game": "FINAL FANTASY VII REMAKE",
+      "url": "https://www.youtube.com/watch?v=BYR2D9JWrjg",
+      "seconds": 1011,
+      "author": "FA GAMEZ",
+      "title": "Final Fantasy 7 Remake Intergrade (PS5) 4K 60FPS HDR Gameplay -  (PS5 Version)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 47,
+      "game": "Shadow of the Tomb Raider",
+      "url": "https://www.youtube.com/watch?v=EHAu6tfV4t8",
+      "seconds": 1080,
+      "author": "FA GAMEZ",
+      "title": "Shadow of the Tomb Raider (PS5) 4K 60FPS HDR Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 50,
+      "game": "Team Sonic Racing",
+      "url": "https://www.youtube.com/watch?v=ILJbPdgYKUg",
+      "seconds": 785,
+      "author": "World of PlayStation",
+      "title": "Team Sonic Racing - PS5™ [4K 60FPS] Gameplay",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 58,
+      "game": "MY HERO ONE'S JUSTICE 2",
+      "url": "https://www.youtube.com/watch?v=J6VhsunOMQk",
+      "seconds": 1187,
+      "author": "4 Gamers Gaming",
+      "title": "My Hero One's Justice 2: PS5 4-Player Co-Op Gameplay | My Hero Academia",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 61,
+      "game": "Borderlands® 3",
+      "url": "https://www.youtube.com/watch?v=i1oAz1zfFLY",
+      "seconds": 825,
+      "author": "FA GAMEZ",
+      "title": "Borderlands 3 (PS5) 4K 60FPS HDR Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 73,
+      "game": "LEGO® Star Wars™: La Saga Degli Skywalker",
+      "url": "https://www.youtube.com/watch?v=DU6ht65_hoE",
+      "seconds": 485,
+      "author": "AleMiracle",
+      "title": "LEGO Star Wars: La Saga degli Skywalker - PROVATO! Gameplay ITA Recensione",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 78,
+      "game": "Remnant: From the Ashes",
+      "url": "https://www.youtube.com/watch?v=hYHQX19N_IQ",
+      "seconds": 890,
+      "author": "Kratos_3000",
+      "title": "Remnant: From the Ashes (PS5) 4K HDR gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 83,
+      "game": "Neon White",
+      "url": "https://www.youtube.com/watch?v=Cq62lMcM7zk",
+      "seconds": 749,
+      "author": "ChronoCache",
+      "title": "Neon White [PS4 Gameplay]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 85,
+      "game": "Planet Coaster",
+      "url": "https://www.youtube.com/watch?v=CnKifT5vOZ8",
+      "seconds": 579,
+      "author": "ChronoCache",
+      "title": "Planet Coaster [PS5 Gameplay]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 89,
+      "game": "Totally Accurate Battle Simulator",
+      "url": "https://www.youtube.com/watch?v=7dldYslBi54",
+      "seconds": 1094,
+      "author": "GamePlayStation",
+      "title": "Totally Accurate Battle Simulator -- Gameplay (PS5)",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 96,
+      "game": "DIRT 5™",
+      "url": "https://www.youtube.com/watch?v=Q8_FaIBDxYw",
+      "seconds": 945,
+      "author": "World of PlayStation",
+      "title": "DIRT 5 (WOW it looks AMAZING on PS5) - PS5 [4K 60FPS] Gameplay",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 98,
+      "game": "Tennis World Tour 2",
+      "url": "https://www.youtube.com/watch?v=uvoh2vMfu9U",
+      "seconds": 992,
+      "author": "AIRTON",
+      "title": "Tennis World Tour 2 - Gameplay PS5™ [4K 60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 100,
+      "game": "Ghostrunner",
+      "url": "https://www.youtube.com/watch?v=ekm0CDRc6CY",
+      "seconds": 399,
+      "author": "FA GAMEZ",
+      "title": "Ghostrunner (PS5) 4K 60FPS HDR Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 101,
+      "game": "Ghostrunner 2",
+      "url": "https://www.youtube.com/watch?v=qeSpUJWU6vM",
+      "seconds": 1036,
+      "author": "Rubhen925",
+      "title": "Ghostrunner 2 - PS5 4K 60FPS Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 104,
+      "game": "Curse of the Dead Gods",
+      "url": "https://www.youtube.com/watch?v=YL9l38JqOfM",
+      "seconds": 584,
+      "author": "Couch Coop",
+      "title": "Curse Of The Dead Gods PS5 Review",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 110,
+      "game": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "url": "https://www.youtube.com/watch?v=bXYsHe9q1qk",
+      "seconds": 790,
+      "author": "World of PlayStation",
+      "title": "Hot Wheels Unleashed 2: Turbocharged - PS5 [4K 60FPS] Gameplay",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 113,
+      "game": "Wreckfest",
+      "url": "https://www.youtube.com/watch?v=qNXYycaUxB4",
+      "seconds": 997,
+      "author": "World of PlayStation",
+      "title": "WRECKFEST - PS5 [4K 60FPS] Gameplay",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 115,
+      "game": "Minecraft Dungeons",
+      "url": "https://www.youtube.com/watch?v=t8M18fUBKNc",
+      "seconds": 1029,
+      "author": "GoroMode",
+      "title": "Minecraft Dungeons PS5 Gameplay (4K 60FPS HDR) - 2160p",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 120,
+      "game": "Deep Rock Galactic",
+      "url": "https://www.youtube.com/watch?v=-gJPqN7RASs",
+      "seconds": 615,
+      "author": "Scuzz MB",
+      "title": "PS5 Gameplay - 4K 60FPS | Deep Rock Galactic",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 127,
+      "game": "Among Us",
+      "url": "https://www.youtube.com/watch?v=KURuY-rZcjo",
+      "seconds": 330,
+      "author": "SIMPLYAMAZING",
+      "title": "Among Us - PS5 Gameplay!",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 129,
+      "game": "L’arena dei cacciatori - Leggende",
+      "url": "https://www.youtube.com/watch?v=gFfZM25CCf8",
+      "seconds": 378,
+      "author": "il canale di shu",
+      "title": "L’arena dei cacciatori - Leggende ps4",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 146,
+      "game": "Assassin's Creed® Origins",
+      "url": "https://www.youtube.com/watch?v=YQkbwIir3qk",
+      "seconds": 889,
+      "author": "Rubhen925",
+      "title": "Assassin's Creed Origins - PS5 Gameplay | Next Gen Update [4K HDR 60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 150,
+      "game": "Fall Guys: Ultimate Knockout",
+      "url": "https://www.youtube.com/watch?v=5HkN8D18al4",
+      "seconds": 688,
+      "author": "ARAN",
+      "title": "Fall Guys: Ultimate Knockout | PS5 Gameplay (4K 60FPS)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 155,
+      "game": "Sid Meier's Civilization VI",
+      "url": "https://www.youtube.com/watch?v=rCpkjQth1GA",
+      "seconds": 327,
+      "author": "JBxMachina",
+      "title": "Sid Meier's Civilization VI - ps5 loading times + gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 156,
+      "game": "Genshin Impact",
+      "url": "https://www.youtube.com/watch?v=HnIWB2BptL8",
+      "seconds": 643,
+      "author": "KingHans",
+      "title": "Genshin Impact PS5 Gameplay [4K 60FPS]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 157,
+      "game": "New Football Game Online Performance Test",
+      "url": "https://www.youtube.com/watch?v=wb1RYLDMSyU",
+      "seconds": 453,
+      "author": "Games I Play",
+      "title": "Konami New Football Game Online Performance Test PS5",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 159,
+      "game": "The Art of Horizon Zero Dawn™",
+      "url": "https://www.youtube.com/watch?v=qFaS4Ge3O4k",
+      "seconds": 5,
+      "author": "warrenwoodhouse",
+      "title": "THE ART OF HORIZON: ZERO DAWN (PS4) - \"Starting Up the App\" Walkthrough",
+      "reason": "Art application, not a gameplay title."
+    },
+    {
+      "id": 162,
+      "game": "Enter the Gungeon",
+      "url": "https://www.youtube.com/watch?v=W_baWje6mh8",
+      "seconds": 978,
+      "author": "Quenten5",
+      "title": "Enter the Gungeon Walkthrough Gameplay | No Commentary PS5",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 165,
+      "game": "Micro Machines World Series",
+      "url": "https://www.youtube.com/watch?v=0gJ2p2nbxHM",
+      "seconds": 194,
+      "author": "Brandnew Gameplay",
+      "title": "Micro Machines World Series PS4 Gameplay - full elimination race on a messy kitchen table",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 168,
+      "game": "eFootball PES 2021 SEASON UPDATE",
+      "url": "https://www.youtube.com/watch?v=ysVTRNwJnQw",
+      "seconds": 908,
+      "author": "IGN",
+      "title": "eFootball PES 2021 Season Update - Full Match Gameplay 4K",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 169,
+      "game": "Rocket League®",
+      "url": "https://www.youtube.com/watch?v=9QKL-OjhlxY",
+      "seconds": 729,
+      "author": "Kaneki",
+      "title": "PS5 Slim ASMR 😴 Rocket League Ranked 🏆 Satisfying 360 FPS 4K",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 172,
+      "game": "Worms W.M.D",
+      "url": "https://www.youtube.com/watch?v=up-u4jSlfk0",
+      "seconds": 981,
+      "author": "Solarxetic-",
+      "title": "Worms W.M.D (PS5) | A Rather Amusing Game Against Snakenator1 & Nitroboost245",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 173,
+      "game": "Unravel",
+      "url": "https://www.youtube.com/watch?v=j3hOtT3YdFc",
+      "seconds": 510,
+      "author": "Dainghia25",
+      "title": "Unravel - PS5 Gameplay 4K 60FPS",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 174,
+      "game": "Injustice: Gods Among Us Ultimate Edition",
+      "url": "https://www.youtube.com/watch?v=HFE6ae6TRyE",
+      "seconds": 119,
+      "author": "I like Ginger Cats",
+      "title": "Injustice: Gods Among Us Ultimate Edition on PS5 [4K Video]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 176,
+      "game": "Uncharted™: L’Eredità Perduta",
+      "url": "https://www.youtube.com/watch?v=fo5LCxjdJpc",
+      "seconds": 333,
+      "author": "DadoBax",
+      "title": "UNCHARTED LOST LEGACY • RECENSIONE (L'Eredità Perduta)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 180,
+      "game": "Riptide GP: Renegade",
+      "url": "https://www.youtube.com/watch?v=WQzYuchTazw",
+      "seconds": 152,
+      "author": "Games I Play",
+      "title": "Riptide GP: Renegade PS5 gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 181,
+      "game": "NBA 2K20",
+      "url": "https://www.youtube.com/watch?v=zO0Bcsdm0fs",
+      "seconds": 763,
+      "author": "Haidi Retro Gaming",
+      "title": "NBA 2K20 (PS4) / PlayStation 5 4K game boost enhanced gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 185,
+      "game": "Genesis",
+      "url": "https://www.youtube.com/watch?v=fYzNH2maTlY",
+      "seconds": 484,
+      "author": "BlackGoku",
+      "title": "PS5 Genesis Gameplay (4K)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 188,
+      "game": "Destiny 2",
+      "url": "https://www.youtube.com/watch?v=tVEevtQX5bw",
+      "seconds": 1146,
+      "author": "FA GAMEZ",
+      "title": "Destiny 2 (PS5) 4K 60FPS HDR Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 190,
+      "game": "DEMO DI FIFA 20",
+      "url": "https://www.youtube.com/watch?v=F4KpjBQ73S0",
+      "seconds": 801,
+      "author": "AleMiracle",
+      "title": "FIFA 20 DEMO Gameplay ITA - PROVIAMOLA! PS4 pro",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 191,
+      "game": "HiQ Ace",
+      "url": "https://www.youtube.com/watch?v=LGgUbnDtuCc",
+      "seconds": 233,
+      "author": "Hacon Plays",
+      "title": "HiQ Ace Unlimited - PS5 Gameplay - Level 1",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 192,
+      "game": "DEAD OR ALIVE 6: Core Fighters",
+      "url": "https://www.youtube.com/watch?v=eKVIWqFXT74",
+      "seconds": 602,
+      "author": "LANDERMAN XD",
+      "title": "DEAD OR ALIVE 6: Core Fighters PS5",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 195,
+      "game": "DEMO DI FIFA 19",
+      "url": "https://www.youtube.com/watch?v=R6a7gcBd9oA",
+      "seconds": 84,
+      "author": "PlayStation Italia",
+      "title": "FIFA19 | Trailer di annuncio | PS4",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 198,
+      "game": "PRO EVOLUTION SOCCER 2019 DEMO",
+      "url": "https://www.youtube.com/watch?v=8X3HtuaeV6I",
+      "seconds": 816,
+      "author": "Cycu1",
+      "title": "PRO EVOLUTION SOCCER 2019 DEMO Barcelona vs Liverpool PS4 Pro Gameplay",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 201,
+      "game": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
+      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA",
+      "seconds": 256,
+      "author": "I like Ginger Cats",
+      "title": "Pac-Man Championship Edition 2 on PS5 [4K Video]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 202,
+      "game": "Pang Adventures",
+      "url": "https://www.youtube.com/watch?v=AzmAofS3LMU",
+      "seconds": 165,
+      "author": "CRGame",
+      "title": "Pang adventures ps5 4k hdr 60fpf",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 203,
+      "game": "Everybody's Tennis™",
+      "url": "https://www.youtube.com/watch?v=vXOsyWWDeNU",
+      "seconds": 241,
+      "author": "I like Ginger Cats",
+      "title": "Everybody's Tennis on PS5 [4K Video]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 209,
+      "game": "Trivial Pursuit Live!",
+      "url": "https://www.youtube.com/watch?v=0BUiuL0f16M",
+      "seconds": 900,
+      "author": "Mike Gamer 286",
+      "title": "PS4 Trivial Pursuit Live! Gameplay Angezockt Teil 1",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 210,
+      "game": "MONOPOLY PLUS",
+      "url": "https://www.youtube.com/watch?v=s8ZFGqNT2Q0",
+      "seconds": 854,
+      "author": "BachhalGaming",
+      "title": "MONOPOLY PLUS Gameplay PS5 4K@60FPS",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 211,
+      "game": "Pinball FX3",
+      "url": "https://www.youtube.com/watch?v=OL_14iKseFs",
+      "seconds": 546,
+      "author": "Vortex Gaming 4K",
+      "title": "PINBALL FX3 ALIENS GAMEPLAY 4K PS5",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 212,
+      "game": "NBA 2K18: Il Preludio",
+      "url": "https://www.youtube.com/watch?v=jF5KW_LoL4E",
+      "seconds": 1017,
+      "author": "Luca Mariani Official",
+      "title": "NBA 2K18: Il Preludio Proviamolo gameplay ps4 ita.",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 213,
+      "game": "DEMO DI FIFA 18",
+      "url": "https://www.youtube.com/watch?v=u8l3PflR_2s",
+      "seconds": 751,
+      "author": "AleMiracle",
+      "title": "FIFA 18 DEMO Gameplay ITA - JUVENTUS Vs REAL MADRID - PS4 HD",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 215,
+      "game": "Demo di KNACK™ 2",
+      "url": "https://www.youtube.com/watch?v=vxQ6mm1NkTw",
+      "seconds": 851,
+      "author": "ANDADIMA",
+      "title": "KNACK 2 - IL MONASTERO - DEMO - PS4 GAMEPLAY ITA HD",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 217,
+      "game": "PRO EVOLUTION SOCCER 2018 DEMO",
+      "url": "https://www.youtube.com/watch?v=aSOG0detdWk",
+      "seconds": 1047,
+      "author": "H0ru5",
+      "title": "Pro Evolution Soccer 2018 DEMO PS4 - Brazil VS Germany -",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 218,
+      "game": "PRO EVOLUTION SOCCER 2018 Online Beta",
+      "url": "https://www.youtube.com/watch?v=ncDu6aciZ40",
+      "seconds": 23,
+      "author": "P.H.",
+      "title": "Gameplay PRO EVOLUTION SOCCER 2018 Online Beta PS4",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 221,
+      "game": "3on3 FreeStyle",
+      "url": "https://www.youtube.com/watch?v=bIUxBXQs1sc",
+      "seconds": 1025,
+      "author": "Section Plays",
+      "title": "3on3 FreeStyle 2024 - Multiplayer Gameplay (PS5)",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 222,
+      "game": "AdventurePop",
+      "url": "https://www.youtube.com/watch?v=eH_eKTsZhHo",
+      "seconds": 313,
+      "author": "VideoGameObsession",
+      "title": "AdventurePop [PS4 on PS5] A poor man's 🔘 Puzzle Bobble 🔘",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 224,
+      "game": "Pro Evolution Soccer 2017",
+      "url": "https://www.youtube.com/watch?v=bB-9e9WF4fI",
+      "seconds": 1091,
+      "author": "EBSOUZ Gaming",
+      "title": "Pro Evolution Soccer 2017 (PS5) - Barcelona vs Arsenal [4K 60 FPS HDR] - Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 226,
+      "game": "Hatsune Miku: Project DIVA X Demo",
+      "url": "https://www.youtube.com/watch?v=MzTxWeOSy1w",
+      "seconds": 1150,
+      "author": "El IngeGamer Jesus",
+      "title": "Hatsune Miku: Project Diva X DEMO | Gameplay | PlayStation 4",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 227,
+      "game": "PAC-MAN™ CHAMPIONSHIP EDITION 2 DEMO",
+      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA",
+      "seconds": 256,
+      "author": "I like Ginger Cats",
+      "title": "Pac-Man Championship Edition 2 on PS5 [4K Video]",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 228,
+      "game": "Just Dance® 2017 Demo",
+      "url": "https://www.youtube.com/watch?v=YXFF_PcTlw0",
+      "seconds": 223,
+      "author": "Nikitawrik",
+      "title": "Just Dance 2017 Demo [PS4] [Mobile V.] | Sorry",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 230,
+      "game": "SingStar™",
+      "url": "https://www.youtube.com/watch?v=o3qUpRB0CdI",
+      "seconds": 57,
+      "author": "PlayStation Europe",
+      "title": "SingStar Celebration | Gameplay Trailer | PS4",
+      "reason": "Promotional video remains: no independently verified replacement selected."
+    },
+    {
+      "id": 231,
+      "game": "DEMO DI FIFA 17",
+      "url": "https://www.youtube.com/watch?v=t6YP-RxDbQM",
+      "seconds": 762,
+      "author": "Gabboman",
+      "title": "CHI HA SPARATO A KOMPANY?! FIFA 17 DEMO [GAMEPLAY ITA]",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 232,
+      "game": "NBA 2K17: Il Preludio",
+      "url": "https://www.youtube.com/watch?v=5jD3BB_7dgw",
+      "seconds": 773,
+      "author": "AleMiracle",
+      "title": "NBA 2K17 ITA - La Mia Carriera Ep.2 - COLLEGE! - PRELUDIO GAMEPLAY ITA PS4",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 234,
+      "game": "Battlefield™ 1 Open Beta",
+      "url": "https://www.youtube.com/watch?v=_DLsubhxADo",
+      "seconds": 915,
+      "author": "Dacoco",
+      "title": "BATTLEFIELD 1 OPEN BETA MULTIPLAYER GAMEPLAY PS4",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 235,
+      "game": "King's Quest",
+      "url": "https://www.youtube.com/watch?v=eu7Zwy3ZCiA",
+      "seconds": 900,
+      "author": "I like Ginger Cats",
+      "title": "King's Quest Prologue on PS5 [4K Video]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 236,
+      "game": "DEAD OR ALIVE 5 Last Round",
+      "url": "https://www.youtube.com/watch?v=HvgBbJOgWIY",
+      "seconds": 65,
+      "author": "INSANE GAMING WITH TENCH GAMERZ",
+      "title": "Fight to Survive: DEAD OR ALIVE 5 Last Round PS5 Gameplay",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 238,
+      "game": "WRC 5 FIA World Rally Championship Demo",
+      "url": "https://www.youtube.com/watch?v=QOofbX_IdBo",
+      "seconds": 621,
+      "author": "VGFAQ",
+      "title": "WRC 5 FIA World Rally Championship Demo Gameplay Trailer (PlayStation 4/Xbox One/PC)",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 239,
+      "game": "Pro Evolution Soccer 2017 DEMO",
+      "url": "https://www.youtube.com/watch?v=UTPZbhc8MBU",
+      "seconds": 516,
+      "author": "Retro Rabbit",
+      "title": "Pro Evolution Soccer 2017 Demo Gameplay [HD|PS4]",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 240,
+      "game": "DOOM Demo",
+      "url": "https://www.youtube.com/watch?v=t_Hzl8yZ4_4",
+      "seconds": 919,
+      "author": "MrBusu",
+      "title": "DOOM Demo | PS4 | Full walkthrough",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 243,
+      "game": "Pro Evolution Soccer 2016 DEMO",
+      "url": "https://www.youtube.com/watch?v=hPLzEziHEqs",
+      "seconds": 25,
+      "author": "Racket",
+      "title": "AI Dive - Totti - Pro Evolution Soccer 2016 Demo (PS4)",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 252,
+      "game": "Hustle Kings™",
+      "url": "https://www.youtube.com/watch?v=s3Omh8-nH3g",
+      "seconds": 446,
+      "author": "PS5 GAMEPLAY 4K 60fps",
+      "title": "Hustle Kings PS5 Gameplay 4K 60fps Snooker Billiard game",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 258,
+      "game": "Pro Evolution Soccer 2015 DEMO",
+      "url": "https://www.youtube.com/watch?v=1Pfkap7iZJA",
+      "seconds": 668,
+      "author": "piep91",
+      "title": "Pro Evolution Soccer 2015 Demo - Gameplay PS4",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 259,
+      "game": "DEMO DI FIFA 15",
+      "url": "https://www.youtube.com/watch?v=0FnMUBndRw0",
+      "seconds": 895,
+      "author": "MatteTech",
+      "title": "Gameplay ITA Demo FIFA 15 PS4 - Novità e prime impressioni + prima partita UT w/LiveCommentary",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 261,
+      "game": "Thief Demo",
+      "url": "https://www.youtube.com/watch?v=wwKAp8XdQ74",
+      "seconds": 835,
+      "author": "RajmanGaming HD",
+      "title": "THIEF 'PS4 E3 2013 Demo Walkthrough' TRUE-HD QUALITY",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    },
+    {
+      "id": 262,
+      "game": "Tiny Brains",
+      "url": "https://www.youtube.com/watch?v=oPp7T2SWh2I",
+      "seconds": 1072,
+      "author": "Throneful",
+      "title": "Tiny Brains Gameplay (PS4 HD) [1080p]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 263,
+      "game": "Trials Fusion™",
+      "url": "https://www.youtube.com/watch?v=T48rjyKHMp0",
+      "seconds": 1192,
+      "author": "VideoGames Replay",
+      "title": "Trials Fusion (PS5) Gameplay 4K Part 1",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 264,
+      "game": "Doki-Doki Universe™",
+      "url": "https://www.youtube.com/watch?v=OJfagMUe_FU",
+      "seconds": 774,
+      "author": "I like Ginger Cats",
+      "title": "Doki-Doki Universe on PS5  [4K Video]",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 265,
+      "game": "Trine 2: Complete Story",
+      "url": "https://www.youtube.com/watch?v=f1PjXRkOTXc",
+      "seconds": 879,
+      "author": "MGT - Max Games Tech",
+      "title": "Trine 2: Complete Story PS4 gameplay | 4K TV",
+      "reason": "No sufficiently verified long-form replacement selected in this review."
+    },
+    {
+      "id": 271,
+      "game": "NBA LIVE 14 Demo",
+      "url": "https://www.youtube.com/watch?v=lkyBdsfCqZc",
+      "seconds": 303,
+      "author": "thewwedj",
+      "title": "NBA Live 14 Demo PS4 Gameplay",
+      "reason": "Demo/beta: verify an alternative for that exact edition, not the full game."
+    }
+  ],
+  "unresolvedMetadata": [],
+  "titleEquivalences": [
+    {
+      "ids": [
+        131,
+        136
+      ],
+      "canonical": "Sackboy: A Big Adventure",
+      "note": "Italian catalog titles refer to the same game."
+    },
+    {
+      "ids": [
+        219
+      ],
+      "canonical": "Kung Fu Panda: Showdown of Legendary Legends",
+      "note": "English title of Scontro finale delle leggende leggendarie; previous video concerned a different game."
+    },
+    {
+      "ids": [
+        163
+      ],
+      "canonical": "Ratchet and Clank (2016, PS4)",
+      "note": "Same game as Ratchet & Clank; removed the Rift Apart video."
+    },
+    {
+      "ids": [
+        54
+      ],
+      "canonical": "King of Fighters XV",
+      "note": "Uploader omits the leading article The."
+    }
+  ],
+  "verifiedDurationSources": {
+    "vv9vNhosRfg": {
+      "seconds": 39424,
+      "source": "https://www.m.yandex.com/video/preview/12003030599406795970"
+    },
+    "KEFpXuZaszY": {
+      "seconds": 19889,
+      "source": "https://www.letsplayindex.com/channels/17666-prosafiagaming/videos/page-7"
+    }
+  }
+}

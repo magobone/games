@@ -13,7 +13,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "DEAD ISLAND 2 Full Gameplay Walkthrough / No Commentary 【FULL GAME】4K 60FPS UHD",
-      "url": "https://www.youtube.com/watch?v=HJy16ptsQSA"
+      "url": "https://www.youtube.com/watch?v=HJy16ptsQSA",
+      "duration": "9:18:41",
+      "author": "Gamer's Little Playground"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500"
   },
@@ -31,7 +33,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Tomb Raider IV-VI Remastered (PS5) - Gameplay dos Três Jogos - Legendado e \"Dublado\" PT-BR",
-      "url": "https://www.youtube.com/watch?v=Nj2MPEqp6ac"
+      "url": "https://www.youtube.com/watch?v=Nj2MPEqp6ac",
+      "duration": "1:00:46",
+      "author": "PSX Brasil"
     },
     "storeUrl": "https://store.playstation.com/it-it/concept/10009064"
   },
@@ -49,7 +53,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Let's Play - Monster Train 2 - Roguelite Turn Based Strategy Deck Building Battler - Full Gameplay",
-      "url": "https://www.youtube.com/watch?v=tmGcyO8mTkA"
+      "url": "https://www.youtube.com/watch?v=tmGcyO8mTkA",
+      "duration": "4:36:01",
+      "author": "RonEmpire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP8909-PPSA25758_00-0047300101977880"
   },
@@ -68,7 +74,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2 Gameplay 🐜 PS5 - Great co-op game",
       "url": "https://www.youtube.com/watch?v=_dn-w3xghx4",
-      "duration": "8:08"
+      "duration": "8:08",
+      "author": "Video Chums 🎮😄"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3036-PPSA15928_00-EDFWORLDBROTHER2"
   },
@@ -86,7 +93,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "F1 25 - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=QpCVl3JJrd4"
+      "url": "https://www.youtube.com/watch?v=QpCVl3JJrd4",
+      "duration": "27:24",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/concept/10011830"
   },
@@ -104,7 +113,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "9 EPIC Rounds Of Hunt: Showdown 1896!",
-      "url": "https://www.youtube.com/watch?v=cAXRqHkOc64"
+      "url": "https://www.youtube.com/watch?v=cAXRqHkOc64",
+      "duration": "59:44",
+      "author": "REXNOR"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4291-PPSA16357_00-0286411811680806"
   },
@@ -121,8 +132,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202603/1008/dbde91f3a73781d30a0ac16a555c1a9d46156d96d9e5ce61.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Aniimo | Gameplay Showcase",
-      "url": "https://www.youtube.com/watch?v=XHPS09hP7m4"
+      "title": "Aniimo Gameplay Walkthrough Part 1 (iOS, Android, PC) - English",
+      "url": "https://www.youtube.com/watch?v=I6GYOKjVCMQ",
+      "author": "Techzamazing"
     },
     "storeUrl": "https://store.playstation.com/it-it/concept/10018491"
   },
@@ -140,7 +152,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Sniper Elite: Resistance - Gameplay Walkthrough - Part 1 - \"Missions 1-5\"",
-      "url": "https://www.youtube.com/watch?v=w_ydZGPBCdo"
+      "url": "https://www.youtube.com/watch?v=w_ydZGPBCdo",
+      "duration": "7:07:12",
+      "author": "DanQ8000"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP4363-PPSA17232_00-SNIPERELITERES00"
   },
@@ -158,7 +172,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "MLB The Show 26 | Feature Premiere | Gameplay",
-      "url": "https://www.youtube.com/watch?v=C1e1ZwVhXbg"
+      "url": "https://www.youtube.com/watch?v=C1e1ZwVhXbg",
+      "duration": "1:15:30",
+      "author": "Sony San Diego"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP9000-PPSA30630_00-MLBTHESHOW26SHIP"
   },
@@ -176,7 +192,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Wobbly Life Gameplay Walkthrough Part 1 (No Commentary)",
-      "url": "https://www.youtube.com/watch?v=cPrbvXcNBvc"
+      "url": "https://www.youtube.com/watch?v=cPrbvXcNBvc",
+      "duration": "8:04",
+      "author": "Zerw Gameplay"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP7742-PPSA29413_00-0632159817352246"
   },
@@ -194,7 +212,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "DYING LIGHT 2 STAY HUMAN: RELOADED EDITION playthrough (PS5 Live) - Part 1",
       "url": "https://www.youtube.com/watch?v=yYebOuciq0g",
-      "duration": "3:06:03"
+      "duration": "3:06:02",
+      "author": "VenomPagorn the Gamer"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2911-PPSA02262_00-DL2GAME0000000EU",
     "id": 1
@@ -213,7 +232,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "We Played BIG WALK and it's Wonderful - Exclusive Gameplay Demo",
       "url": "https://www.youtube.com/watch?v=Y-0rj_BcYsI",
-      "duration": "19:40"
+      "duration": "19:40",
+      "author": "noclip_2"
     },
     "storeUrl": "https://walk.game/",
     "id": 2
@@ -233,7 +253,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "Call of Duty Modern Warfare III Veteran/No Damage (Full Game)",
       "url": "https://www.youtube.com/watch?v=WtKUIqrEqeg",
-      "duration": "3:34:15"
+      "duration": "3:34:15",
+      "author": "Suvres"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA07950_00-CODMW3CROSSGEN01"
   },
@@ -252,7 +273,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "For The King 2 Full Gameplay Walkthrough Part - 1",
       "url": "https://www.youtube.com/watch?v=uQ1EO322jh0",
-      "duration": "3:10:15"
+      "duration": "3:10:15",
+      "author": "DualShot66"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4395-PPSA23123_00-FORTHEKING200000"
   },
@@ -271,7 +293,8 @@ window.PLAYSTATION_GAMES = [
     "gameplay": {
       "title": "CrossCode PS4 Gameplay - No commentary",
       "url": "https://www.youtube.com/watch?v=VPKlNZ5KYA8",
-      "duration": "56:51"
+      "duration": "56:50",
+      "author": "Arbor Daze"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0900-PPSA03234_00-6784308825320418"
   },
@@ -288,8 +311,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202409/1318/690d33dc7e97f020820892f75932a4840211aa821ae38c1e.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Vale la pena giocare a Warhammer 40,000: Darktide? (Recensione per PS5)",
-      "url": "https://www.youtube.com/watch?v=K6ULV1QBTd8"
+      "title": "WARHAMMER 40,000 DARKTIDE Full Gameplay Walkthrough / No Commentary【FULL GAME】4K 60FPS Ultra HD",
+      "url": "https://www.youtube.com/watch?v=-V_r-jXHslc",
+      "author": "Gamer's Little Playground"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4122-PPSA21255_00-0888672453602469"
   },
@@ -307,7 +331,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Grounded PS5 Gameplay Review",
-      "url": "https://www.youtube.com/watch?v=SzIyStE7xUg"
+      "url": "https://www.youtube.com/watch?v=SzIyStE7xUg",
+      "duration": "20:00",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6311-PPSA17008_00-OGUNQUIT00000000"
   },
@@ -325,7 +351,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Nickelodeon All-Star Brawl 2 - PS5 4K 60FPS Gameplay",
-      "url": "https://www.youtube.com/watch?v=XyKSDc8WuJ4"
+      "url": "https://www.youtube.com/watch?v=XyKSDc8WuJ4",
+      "duration": "15:56",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0281-PPSA16745_00-NALLSTARBRAWLTWO"
   },
@@ -342,8 +370,10 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202409/1810/532df3bdc79880f04e165b39d32e333279d7ef8f0f60fe04.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Nine Sols - Launch Trailer | PS5 & PS4 Games",
-      "url": "https://www.youtube.com/watch?v=8AXi3ZZ6VS4"
+      "title": "NINE SOLS Full Gameplay Walkthrough / No Commentary【FULL GAME】4K UHD",
+      "url": "https://www.youtube.com/watch?v=vv9vNhosRfg",
+      "author": "Gamer's Little Playground",
+      "duration": "10:57:04"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/JP4443-PPSA25414_00-0905368681809535"
   },
@@ -357,7 +387,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "WUCHANG Fallen Feathers - PS5 4K 60FPS Gameplay",
-      "url": "https://www.youtube.com/watch?v=aapCGiANZMQ"
+      "url": "https://www.youtube.com/watch?v=aapCGiANZMQ",
+      "duration": "17:53",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA09519_00-WUCHANGPS5000000"
   },
@@ -375,7 +407,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "EA SPORTS FC 26 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=0DhlHlUX3eA"
+      "url": "https://www.youtube.com/watch?v=0DhlHlUX3eA",
+      "duration": "18:39",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP0006-PPSA27360_00-26STANDARDBUNDLE"
   },
@@ -393,7 +427,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "This is what Roblox looks like on PS5",
-      "url": "https://www.youtube.com/watch?v=BRVDkqLj2ZE"
+      "url": "https://www.youtube.com/watch?v=BRVDkqLj2ZE",
+      "duration": "8:02",
+      "author": "spllitz"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP1821-PPSA10990_00-1887411884729257"
   },
@@ -411,7 +447,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "PIECE OUT: CHESS MATE - New FREE & EASY 5 Minutes Platinum Game - Trophy Guide PS5",
-      "url": "https://www.youtube.com/watch?v=-XkLSf0j2CA"
+      "url": "https://www.youtube.com/watch?v=-XkLSf0j2CA",
+      "duration": "6:10",
+      "author": "SilentGhost Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UB0928-PPSA36466_00-0275873473146060"
   },
@@ -429,7 +467,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Sword Art Online Fractured Daydream - PS5 4K 60FPS Gameplay",
-      "url": "https://www.youtube.com/watch?v=xKnl4c_IsZ8"
+      "url": "https://www.youtube.com/watch?v=xKnl4c_IsZ8",
+      "duration": "32:23",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA06568_00-SWORDARTONLINE07"
   },
@@ -447,7 +487,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Tomb Raider I-III Remastered (PS5) 4K 60FPS HDR Gameplay - (All 3 Games)",
-      "url": "https://www.youtube.com/watch?v=e0E182ALF6M"
+      "url": "https://www.youtube.com/watch?v=e0E182ALF6M",
+      "duration": "43:05",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1875-PPSA16902_00-TOMBRAIDER123224"
   },
@@ -465,7 +507,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "LORDS OF THE FALLEN 2.0 Gameplay Walkthrough FULL GAME [4K 60FPS PS5 PRO] - No Commentary",
-      "url": "https://www.youtube.com/watch?v=T8YQ92S1bjw"
+      "url": "https://www.youtube.com/watch?v=T8YQ92S1bjw",
+      "duration": "10:19:53",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4321-PPSA03641_00-0026114790873430"
   },
@@ -483,7 +527,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Slime Rancher 2 PS5 Pro Gameplay [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=cqikoGsoNNA"
+      "url": "https://www.youtube.com/watch?v=cqikoGsoNNA",
+      "duration": "20:01",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2149-PPSA20153_00-0225081361902222"
   },
@@ -501,7 +547,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "PGA TOUR 2K25 | First 30 Minutes Gameplay | PS5",
-      "url": "https://www.youtube.com/watch?v=YR2nwNNjxWA"
+      "url": "https://www.youtube.com/watch?v=YR2nwNNjxWA",
+      "duration": "32:50",
+      "author": "GameResource"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP1001-PPSA17952_00-PGATOUR2K25GBL00"
   },
@@ -519,7 +567,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Monster Hunter Rise PS5 Gameplay [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=XMNg7sjRwEc"
+      "url": "https://www.youtube.com/watch?v=XMNg7sjRwEc",
+      "duration": "10:15",
+      "author": "KingHans"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0102-PPSA08035_00-FULLGAME000000EU"
   },
@@ -533,7 +583,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "The Elder Scrolls Online: Tamriel Unlimited PS4 Gameplay",
-      "url": "https://www.youtube.com/watch?v=UBcRy4lbcbM"
+      "url": "https://www.youtube.com/watch?v=UBcRy4lbcbM",
+      "duration": "11:56",
+      "author": "Toby2B"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-PPSA02018_00-PENSTDFULL000000"
   },
@@ -547,7 +599,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "The Elder Scrolls Online PS5 Gameplay [4k 60fps Update] [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=J3bIVBx12uA"
+      "url": "https://www.youtube.com/watch?v=J3bIVBx12uA",
+      "duration": "20:00",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-PPSA02018_00-PENSTDFULL000000"
   },
@@ -561,7 +615,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Call of Duty Black Ops 4 - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=q_SRfIY_4fg"
+      "url": "https://www.youtube.com/watch?v=q_SRfIY_4fg",
+      "duration": "56:57",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA12446_00-CODBO4GAMEPSPLUS"
   },
@@ -578,8 +634,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/1260d86e8df334b743748c80fcd81b0553094463b9872291.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Tony Hawk's Pro Skater 1 + 2 -- Gameplay (PS4)",
-      "url": "https://www.youtube.com/watch?v=-S76AHhBHKA"
+      "title": "TONY HAWK'S PRO SKATER 1 + 2 FULL GAME - The BEST Skateboarding Game IS BACK",
+      "url": "https://www.youtube.com/watch?v=QWDvJQhkB0M",
+      "author": "TommyT999"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02177_00-TH12RTHEGAME0001"
   },
@@ -596,8 +653,10 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/4SB7ChaNGMFe7xrO5sroeq5H.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Crash Bandicoot 4: It’s About Time - Gameplay Launch Trailer | PS4",
-      "url": "https://www.youtube.com/watch?v=375dqL15O9E"
+      "title": "Crash Bandicoot 4: It's About Time - Full Game Walkthrough",
+      "url": "https://www.youtube.com/watch?v=KEFpXuZaszY",
+      "author": "ProsafiaGaming",
+      "duration": "5:31:29"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02433_00-CB4THEGAME000001"
   },
@@ -615,7 +674,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Call of Duty: Black Ops Cold War (PS5) 4K HDR + Ray Tracing Gameplay - 2160p (UHD)",
-      "url": "https://www.youtube.com/watch?v=Rc2zC-Rt2UE"
+      "url": "https://www.youtube.com/watch?v=Rc2zC-Rt2UE",
+      "duration": "19:05",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02050_00-CODCWTHEGAME0001"
   },
@@ -632,8 +693,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202506/2523/b3d96b7872be23435b555fd61ef26401e59da83f95211073.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Diablo IV - Season of Death Awakening Gameplay Trailer | PS5 & PS4 Games",
-      "url": "https://www.youtube.com/watch?v=kVP7x8gu_bY"
+      "title": "DIABLO 4 Gameplay Part 1 - FULL GAME Walkthrough DIABLO IV (No Commentary)",
+      "url": "https://www.youtube.com/watch?v=VzR-35O5YbA",
+      "author": "Anti-Hero Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA08595_00-DIVBASEGAME00000"
   },
@@ -650,8 +712,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202510/2217/1260d86e8df334b743748c80fcd81b0553094463b9872291.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "(PS5) Tony Hawk's Pro Skater 1 + 2 GAMEPLAY | Ultra Realistic Graphics  [4K HDR 60fps]",
-      "url": "https://www.youtube.com/watch?v=DlMJfEbxHTI"
+      "title": "TONY HAWK'S PRO SKATER 1 + 2 FULL GAME - The BEST Skateboarding Game IS BACK",
+      "url": "https://www.youtube.com/watch?v=QWDvJQhkB0M",
+      "author": "TommyT999"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02177_00-TH12RTHEGAME0001"
   },
@@ -668,8 +731,10 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202102/2418/4SB7ChaNGMFe7xrO5sroeq5H.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Crash Bandicoot 4: It's About Time (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
-      "url": "https://www.youtube.com/watch?v=Tf-aqCnu4Jw"
+      "title": "Crash Bandicoot 4: It's About Time - Full Game Walkthrough",
+      "url": "https://www.youtube.com/watch?v=KEFpXuZaszY",
+      "author": "ProsafiaGaming",
+      "duration": "5:31:29"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-PPSA02433_00-CB4THEGAME000001"
   },
@@ -683,7 +748,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Battlefield™ V (PS5) (4K) gameplay -Español- Parte 1",
-      "url": "https://www.youtube.com/watch?v=HGC0tI28FVM"
+      "url": "https://www.youtube.com/watch?v=HGC0tI28FVM",
+      "duration": "45:48",
+      "author": "CheWinki Gameplays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA08670_00-BATTLEFIELDV0000"
   },
@@ -700,8 +767,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/img/cfn/11307_uOHq6qK8Zb5AMZ1PsRVDgJ_j_Nw524em5NuchWd_ywfuhaYChGzgNrCusvmnWYJsTfbaHXXEuuAZzLtJLS96MU8K36.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Plants vs  Zombies  Battle for Neighborville™ - PS5 Gameplay 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=ZvuoJwU7JIU"
+      "title": "PLANTS VS ZOMBIES BATTLE FOR NEIGHBORVILLE PS5 Gameplay Walkthrough FULL GAME - No Commentary",
+      "url": "https://www.youtube.com/watch?v=YTLMEMFZeDw",
+      "author": "BrickRock Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA10852_00-PVZGW3BASEGAME00"
   },
@@ -714,8 +782,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Star Wars Jedi: Fallen Order (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=C-tIJPaFF1I"
+      "title": "Star Wars Jedi: Fallen Order - Full Game Walkthrough (No Commentary)",
+      "url": "https://www.youtube.com/watch?v=en94jWUW_OE",
+      "author": "Full Playthroughs"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA12529_00-RESPAWNSWBIRDDOG"
   },
@@ -729,7 +798,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "EA Sports UFC 4 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=Lmfw9hapWf4"
+      "url": "https://www.youtube.com/watch?v=Lmfw9hapWf4",
+      "duration": "12:15",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA14209_00-EASPORTSUFC4GAME"
   },
@@ -747,7 +818,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Need for Speed Heat Gameplay (PS5 UHD) [4K30FPS]",
-      "url": "https://www.youtube.com/watch?v=LAHR2DKD1Iw"
+      "url": "https://www.youtube.com/watch?v=LAHR2DKD1Iw",
+      "duration": "25:34",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA15090_00-NEEDFORSPEED2020"
   },
@@ -764,8 +837,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/gKHJyNgpI4lCRAAEtESWB6V9.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "It Takes Two (PS5) Gameplay HDR 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=sW-lpUtSGdo"
+      "title": "IT TAKES TWO Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+      "url": "https://www.youtube.com/watch?v=11r97sZEIZQ",
+      "author": "Shirrako"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA02343_00-ITTAKESTWORETAIL"
   },
@@ -779,7 +853,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "RocketArena EASY WIN 🔥 (No Commentary) PS4/PS5/XBOX",
-      "url": "https://www.youtube.com/watch?v=RoqaGEWu-HA"
+      "url": "https://www.youtube.com/watch?v=RoqaGEWu-HA",
+      "duration": "4:42",
+      "author": "HavenDeVon"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA18700_00-ROCKETARENAMATCH"
   },
@@ -797,7 +873,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Mass Effect Legendary Edition (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=a12VzJu4gBY"
+      "url": "https://www.youtube.com/watch?v=a12VzJu4gBY",
+      "duration": "24:34",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA19515_00-METR000000000000"
   },
@@ -815,7 +893,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Battlefield 2042 Gameplay (PS5) 4K 60FPS | Incredible Graphics!",
-      "url": "https://www.youtube.com/watch?v=TO2CdBPuFcQ"
+      "url": "https://www.youtube.com/watch?v=TO2CdBPuFcQ",
+      "duration": "19:19",
+      "author": "Orbital Gameplay"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA01465_00-KINGSTONGAME0000"
   },
@@ -833,7 +913,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Need For Speed: Hot Pursuit on PS5 - 16 Minutes of Gameplay (Free Drive, Police Chases) 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=AJm-cwt0Ba8"
+      "url": "https://www.youtube.com/watch?v=AJm-cwt0Ba8",
+      "duration": "16:05",
+      "author": "Racing Video Games"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA23265_00-NEEDFORSPEEDHPR0"
   },
@@ -847,7 +929,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Grid Legends (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
-      "url": "https://www.youtube.com/watch?v=-_5BsgPKe0M"
+      "url": "https://www.youtube.com/watch?v=-_5BsgPKe0M",
+      "duration": "10:15",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA03864_00-GRIDLEGPS5GAME00"
   },
@@ -865,7 +949,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "F1 23 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=W0xj9pRVIls"
+      "url": "https://www.youtube.com/watch?v=W0xj9pRVIls",
+      "duration": "18:41",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA09802_00-F12023PS5GAME000"
   },
@@ -883,7 +969,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "EA SPORTS FC 24 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=q1GQ0_x8Eqo"
+      "url": "https://www.youtube.com/watch?v=q1GQ0_x8Eqo",
+      "duration": "21:10",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA13385_00-24STANDARDBUNDLE"
   },
@@ -897,7 +985,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA 22 - FC Porto vs SL Benfica - Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=4CyzA_tG7Q4"
+      "url": "https://www.youtube.com/watch?v=4CyzA_tG7Q4",
+      "duration": "26:03",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA03176_00-FIFAFOOTBALL2022"
   },
@@ -915,7 +1005,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "EA Sports WRC (IS AMAZING on PS5) - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=vzGWwj6T1P4"
+      "url": "https://www.youtube.com/watch?v=vzGWwj6T1P4",
+      "duration": "8:25",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA06092_00-WRC2023PS5GAME00"
   },
@@ -929,7 +1021,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "IMMORTALS OF AVEUM PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)",
-      "url": "https://www.youtube.com/watch?v=vM-bmcdFXGE"
+      "url": "https://www.youtube.com/watch?v=vM-bmcdFXGE",
+      "duration": "1:11:10",
+      "author": "theRadBrad"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA08237_00-ARTEMISGAME00000"
   },
@@ -943,7 +1037,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NHL 24 [PS5 Gameplay]",
-      "url": "https://www.youtube.com/watch?v=ijj_QJNIKSk"
+      "url": "https://www.youtube.com/watch?v=ijj_QJNIKSk",
+      "duration": "22:54",
+      "author": "ChronoCache"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-PPSA11194_00-NHLPS5HOCKEY2024"
   },
@@ -961,7 +1057,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Final Fantasy 7 Remake Intergrade (PS5) 4K 60FPS HDR Gameplay - (Versione PS5)",
-      "url": "https://www.youtube.com/watch?v=BYR2D9JWrjg"
+      "url": "https://www.youtube.com/watch?v=BYR2D9JWrjg",
+      "duration": "16:51",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA07187_00-FFVIIREMAKE00000"
   },
@@ -975,7 +1073,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Shadow of the Tomb Raider (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=EHAu6tfV4t8"
+      "url": "https://www.youtube.com/watch?v=EHAu6tfV4t8",
+      "duration": "18:00",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA10872_00-SHADOWTOMBRAIDER"
   },
@@ -988,8 +1088,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Teenage Mutant Ninja Turtles: The Cowabunga Collection e un titolo PlayStation. Il giocatore affronta obiettivi, sfide o partite secondo le regole e le modalita previste dal gioco.",
     "screenshots": [],
     "gameplay": {
-      "title": "TMNT: Teenage Mutant Ninja Turtles: The Cowabunga Collection PS5 Pro Gameplay Review [PS Plus]",
-      "url": "https://www.youtube.com/watch?v=f9gWBS_miCo"
+      "title": "Longplay of Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "url": "https://www.youtube.com/watch?v=5GY2y4FABS8",
+      "author": "LongplayArchive"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-PPSA04490_00-TMNTCOWABUNGAXXX"
   },
@@ -1002,8 +1103,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Killing Floor 3 e uno shooter in cui il giocatore affronta nemici con armi, abilita e obiettivi di missione. Il focus e su combattimenti, movimento e progressione dell'equipaggiamento.",
     "screenshots": [],
     "gameplay": {
-      "title": "Dovresti giocare a...Killing Floor 3? (Recensione PS5)",
-      "url": "https://www.youtube.com/watch?v=czgEZ2987BE"
+      "title": "1h de KILLING FLOOR 3 en DIFÍCIL | KILLING FLOOR 3 Gameplay Español",
+      "url": "https://www.youtube.com/watch?v=QR5NddYc7HU",
+      "author": "Más Menos Trece"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0114-PPSA08427_00-KF3GAME000000001"
   },
@@ -1017,7 +1119,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Team Sonic Racing - PS5™ [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=ILJbPdgYKUg"
+      "url": "https://www.youtube.com/watch?v=ILJbPdgYKUg",
+      "duration": "13:05",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA11115_00-TEAMSONICRACING1"
   },
@@ -1035,7 +1139,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "[Longplay] [PS4] Sonic Colours Ultimate",
-      "url": "https://www.youtube.com/watch?v=DG43auJsGAs"
+      "url": "https://www.youtube.com/watch?v=DG43auJsGAs",
+      "duration": "3:16:30",
+      "author": "Maklocke"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA19351_00-SONICCOLORSULTIM"
   },
@@ -1048,8 +1154,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Virtua Fighter 5: Ultimate Showdown - PS5 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=0Wa0JFyz8dU"
+      "title": "Longplay of Virtua Fighter 5: Ultimate Showdown",
+      "url": "https://www.youtube.com/watch?v=Ti4onO9q70s",
+      "author": "LongplayArchive"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA27066_00-8130680201060660"
   },
@@ -1066,8 +1173,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202206/0301/1ZwFskWSSzjyGwjwU6sanb6N.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Tunic PS5 Gameplay [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=kfmqY9DwEfA"
+      "title": "TUNIC Full Game Walkthrough (No Commentary) - 100% Achievements",
+      "url": "https://www.youtube.com/watch?v=7ozwLHxw33Q",
+      "author": "Carrot Helper - 100% Walkthroughs | No Commentary"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0403-PPSA03055_00-8262565741901804"
   },
@@ -1084,8 +1192,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202107/2808/VdPf19BikBQ0C0Qk7DfNy3vY.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "The King of Fighters 15 (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=_mN0eWHKduk"
+      "title": "King Of Fighters XV | FULL GAME Gameplay Walkthrough (All Story Modes)",
+      "url": "https://www.youtube.com/watch?v=CKn6EgrJdkM",
+      "author": "BlackAzuriteGaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0576-PPSA02214_00-KOF15PS5000000EU"
   },
@@ -1102,8 +1211,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/img/rnd/202112/1602/G7EXBPO0MjKrOVlTTW5LbYcP.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Five Nights at Freddy’s: Security Breach - Gameplay Trailer | PS5",
-      "url": "https://www.youtube.com/watch?v=BY9-jWQQHgw"
+      "title": "FIVE NIGHTS AT FREDDY'S SECURITY BREACH Full Game Walkthrough - No Commentary (FNAF SB 100%)",
+      "url": "https://www.youtube.com/watch?v=ODZ6VQ1mdpk",
+      "author": "RabidRetrospectGames"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0634-PPSA04677_00-9725862811759774"
   },
@@ -1117,7 +1227,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LITTLE NIGHTMARES Gameplay Walkthrough FULL GAME 100%  [4K 60FPS PS5] - No Commentary",
-      "url": "https://www.youtube.com/watch?v=rK8icodDJr8"
+      "url": "https://www.youtube.com/watch?v=rK8icodDJr8",
+      "duration": "2:39:51",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA05952_00-LITTLENIGHTMARES"
   },
@@ -1135,7 +1247,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Code Vein PS5 Gameplay Walkthrough Part 1, No Commentary",
-      "url": "https://www.youtube.com/watch?v=hlccvXLe1mE"
+      "url": "https://www.youtube.com/watch?v=hlccvXLe1mE",
+      "duration": "56:11",
+      "author": "Gaming Freaks"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA10246_00-CODEVEIN00000000"
   },
@@ -1153,7 +1267,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "My Hero One's Justice 2: gameplay cooperativo per 4 giocatori su PS5 | My Hero Academia",
-      "url": "https://www.youtube.com/watch?v=J6VhsunOMQk"
+      "url": "https://www.youtube.com/watch?v=J6VhsunOMQk",
+      "duration": "19:47",
+      "author": "4 Gamers Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA16171_00-HEROGAME00000000"
   },
@@ -1170,8 +1286,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202208/0414/nM859UiDE5Z8uiAuPjVArZZM.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "PAC-MAN WORLD Re-PAC (PS5) - Gameplay 4K | Part 1 - Buccaneer Beach | LEVEL 1-1",
-      "url": "https://www.youtube.com/watch?v=p_EWPZjdDQc"
+      "title": "PAC-MAN WORLD RE-PAC Gameplay Walkthrough FULL GAME (PC 4K 60FPS) - No Commentary",
+      "url": "https://www.youtube.com/watch?v=498Q8V39Beo",
+      "author": "fgw"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA06398_00-PACMANWORLDRE007"
   },
@@ -1189,7 +1306,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Synduality Echo of Ada PS5 Pro Gameplay [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=hxUvpetMBu4"
+      "url": "https://www.youtube.com/watch?v=hxUvpetMBu4",
+      "duration": "20:01",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-PPSA07140_00-SYNDUALITYADA000"
   },
@@ -1207,7 +1326,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Borderlands 3 (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=i1oAz1zfFLY"
+      "url": "https://www.youtube.com/watch?v=i1oAz1zfFLY",
+      "duration": "13:45",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA01463_00-0000000OAKNGSIEE"
   },
@@ -1221,7 +1342,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "WWE 2K Battlegrounds - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=Cu2cvJai_MI"
+      "url": "https://www.youtube.com/watch?v=Cu2cvJai_MI",
+      "duration": "21:23",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA16911_00-WWEBATTLEGROUNDS"
   },
@@ -1238,8 +1361,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/RW5MpnR7eSpzVBCMUNDYCI95.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "MAFIA DEFINITIVE EDITION PS5 Gameplay ITA ► PROVIAMOLO SU PLAYSTATION 5",
-      "url": "https://www.youtube.com/watch?v=mmkXNpUpfeo"
+      "title": "Mafia: Definitive Edition – FULL GAME – No Commentary (4K 60FPS)",
+      "url": "https://www.youtube.com/watch?v=18DK7xd7DM0",
+      "author": "TheBaldMan"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA18100_00-MAFIAONEREMASTER"
   },
@@ -1253,7 +1377,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PGA TOUR 2K21 On The PS5... (DualSense Gameplay)",
-      "url": "https://www.youtube.com/watch?v=9Jm3k_EBvy4"
+      "url": "https://www.youtube.com/watch?v=9Jm3k_EBvy4",
+      "duration": "28:20",
+      "author": "TheApexHound"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA19467_00-00000PGATOUR2K21"
   },
@@ -1267,7 +1393,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Tiny Tina's Wonderland's: Assault On Dragon Keep  PS4 Gameplay Pt 1",
-      "url": "https://www.youtube.com/watch?v=r3rm8fpL6G0"
+      "url": "https://www.youtube.com/watch?v=r3rm8fpL6G0",
+      "duration": "2:00:54",
+      "author": "Godfrey007"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA30036_00-000PAWPAWSIEEPS4"
   },
@@ -1281,7 +1409,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA 2K23 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=g5rvu34CrAE"
+      "url": "https://www.youtube.com/watch?v=g5rvu34CrAE",
+      "duration": "32:24",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA07170_00-NBA2K23CROSSBUY0"
   },
@@ -1295,7 +1425,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA 2K25 - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=pFLXh-wjvFI"
+      "url": "https://www.youtube.com/watch?v=pFLXh-wjvFI",
+      "duration": "42:26",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-PPSA22121_00-NBA2K25STANDARD0"
   },
@@ -1309,7 +1441,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fallout 76 - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=ZeXhnRsoG18"
+      "url": "https://www.youtube.com/watch?v=ZeXhnRsoG18",
+      "duration": "1:01:02",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA12054_00-PRJMTN0000000000"
   },
@@ -1322,8 +1456,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Mortal Kombat X e un picchiaduro in cui il giocatore sceglie un combattente e sfida uno o piu avversari. La partita ruota attorno a mosse, combo, tempismo e controllo dell'arena.",
     "screenshots": [],
     "gameplay": {
-      "title": "(PS5) Mortal Kombat X Gameplay | Ultra High Graphics [4K HDR 60fps]",
-      "url": "https://www.youtube.com/watch?v=X0mkkCMScQc"
+      "title": "MORTAL KOMBAT X Gameplay Walkthrough STORY FULL GAME [4K 60FPS] - No Commentary",
+      "url": "https://www.youtube.com/watch?v=tNE0a-O6jtg",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00970_00-MORTALKOMBATX000"
   },
@@ -1337,7 +1472,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Injustice 2 - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=twulMFfItiw"
+      "url": "https://www.youtube.com/watch?v=twulMFfItiw",
+      "duration": "1:04:19",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA05459_00-INJUSTICE2000000"
   },
@@ -1351,7 +1488,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LEGO Harry Potter Collection Years 1-7 Saga Remastered PS5 - 2 Full Games 100% Longplay Walkthrough",
-      "url": "https://www.youtube.com/watch?v=GwKmJa-tbE4"
+      "url": "https://www.youtube.com/watch?v=GwKmJa-tbE4",
+      "duration": "30:32:43",
+      "author": "LizAndErikSeries"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA05935_00-HARRYPOTTER17000"
   },
@@ -1365,7 +1504,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LEGO DC Super Villains - Full Game Walkthrough (PS5) 4K",
-      "url": "https://www.youtube.com/watch?v=L6HEt6dT4sU"
+      "url": "https://www.youtube.com/watch?v=L6HEt6dT4sU",
+      "duration": "7:42:46",
+      "author": "Ozone"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA11550_00-LEGODCVILLAINS00"
   },
@@ -1379,7 +1520,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LEGO Star Wars: La Saga degli Skywalker - PROVATO! Gameplay ITA Recensione",
-      "url": "https://www.youtube.com/watch?v=DU6ht65_hoE"
+      "url": "https://www.youtube.com/watch?v=DU6ht65_hoE",
+      "duration": "8:05",
+      "author": "AleMiracle"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-PPSA01865_00-LEGOSWTSS0000000"
   },
@@ -1393,7 +1536,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "SUICIDE SQUAD: KILL THE JUSTICE LEAGUE [Walkthrough Gameplay ITA PS5 - PARTE 1] - SUPEREROI CATTIVI",
-      "url": "https://www.youtube.com/watch?v=bOBiArGXmBI"
+      "url": "https://www.youtube.com/watch?v=bOBiArGXmBI",
+      "duration": "42:51",
+      "author": "MikeShowSha"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-PPSA03913_00-SUICIDESQUADKTJL"
   },
@@ -1406,8 +1551,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Alan Wake 2 e un'avventura incentrata su esplorazione, obiettivi narrativi e risoluzione di situazioni. Il giocatore avanza scoprendo ambienti, personaggi e sfide.",
     "screenshots": [],
     "gameplay": {
-      "title": "ALAN WAKE 2: RECENSIONE con VOTO | il VERO HORROR?",
-      "url": "https://www.youtube.com/watch?v=rBOkM-8s_1Y"
+      "title": "ALAN WAKE 2 PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)",
+      "url": "https://www.youtube.com/watch?v=A7lPTn_lSTk",
+      "author": "theRadBrad"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-PPSA02572_00-ALANWAKE20000000"
   },
@@ -1425,7 +1571,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Guida al gameplay di OPERATION TANGO per PS5 - Parte 1 - MISSIONE 1 e 2 (PS5 4K 60fps)",
-      "url": "https://www.youtube.com/watch?v=nvSbgAo-u9M"
+      "url": "https://www.youtube.com/watch?v=nvSbgAo-u9M",
+      "duration": "38:53",
+      "author": "GameRiot"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1482-PPSA03315_00-3899031076458834"
   },
@@ -1439,7 +1587,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LIES OF P PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)",
-      "url": "https://www.youtube.com/watch?v=AYciSf2ZxxI"
+      "url": "https://www.youtube.com/watch?v=AYciSf2ZxxI",
+      "duration": "1:00:20",
+      "author": "theRadBrad"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1672-PPSA10621_00-9137597337715830"
   },
@@ -1453,7 +1603,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Remnant: From the Ashes (PS5) 4K HDR gameplay",
-      "url": "https://www.youtube.com/watch?v=hYHQX19N_IQ"
+      "url": "https://www.youtube.com/watch?v=hYHQX19N_IQ",
+      "duration": "14:50",
+      "author": "Kratos_3000"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1965-CUSA13830_00-REMNANTEU0000001"
   },
@@ -1470,8 +1622,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202203/1620/FOiRbnmTCBmFjUOWQrOulXCv.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Nobody Saves the World - PlayStation 4 & 5 Announcement",
-      "url": "https://www.youtube.com/watch?v=4uG8BKgnh80"
+      "title": "Nobody Saves The World - Full Game Walkthrough (Gameplay)",
+      "url": "https://www.youtube.com/watch?v=M_ahkvCC7qQ",
+      "author": "AJBRUN"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2145-PPSA03333_00-9677515631057326"
   },
@@ -1485,7 +1638,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Stardew Valley PS5 Pro Gameplay [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=vY8hkMIbQqc"
+      "url": "https://www.youtube.com/watch?v=vY8hkMIbQqc",
+      "duration": "20:02",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2319-CUSA26625_00-2010147637670638"
   },
@@ -1503,7 +1658,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Stray (PS5) 4K 60FPS HDR Gameplay - (Full Game)",
-      "url": "https://www.youtube.com/watch?v=pBvezl-975I"
+      "url": "https://www.youtube.com/watch?v=pBvezl-975I",
+      "duration": "3:23:13",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA02101_00-STRAYSIEE0000000"
   },
@@ -1520,8 +1677,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202307/2618/b663da9a5e0dff0de76cfbea9bb4aa4a7bbce09d899e1293.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Gioco Cocoon PS5 Pro [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=rc4TZrGc3n0"
+      "title": "COCOON - 100% Walkthrough - Full Game 🏆 All Puzzles, Trophies & Collectibles",
+      "url": "https://www.youtube.com/watch?v=ix6hYC7529k",
+      "author": "Trophy Tom"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA08766_00-COCOONSIEE000000"
   },
@@ -1539,7 +1697,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Neon White [PS4 Gameplay]",
-      "url": "https://www.youtube.com/watch?v=Cq62lMcM7zk"
+      "url": "https://www.youtube.com/watch?v=Cq62lMcM7zk",
+      "duration": "12:29",
+      "author": "ChronoCache"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2333-PPSA09865_00-NEONWHITESIEE000"
   },
@@ -1557,7 +1717,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Jurassic World Evolution 2 Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=UjYYRzUVZFg"
+      "url": "https://www.youtube.com/watch?v=UjYYRzUVZFg",
+      "duration": "38:59",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2377-PPSA03286_00-JWEVOLUTION2AAAA"
   },
@@ -1575,7 +1737,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Planet Coaster [PS5 Gameplay]",
-      "url": "https://www.youtube.com/watch?v=CnKifT5vOZ8"
+      "url": "https://www.youtube.com/watch?v=CnKifT5vOZ8",
+      "duration": "9:39",
+      "author": "ChronoCache"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2377-PPSA01735_00-PLANETCOASTER000"
   },
@@ -1593,7 +1757,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "La guida DEFINITIVA per principianti a DayZ su console | 2025 (XBOX/PLAYSTATION)",
-      "url": "https://www.youtube.com/watch?v=X2QpktEZDKQ"
+      "url": "https://www.youtube.com/watch?v=X2QpktEZDKQ",
+      "duration": "26:36",
+      "author": "RECEDINGMAN"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2601-CUSA05645_00-DAYZ000000000001"
   },
@@ -1611,7 +1777,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "High on Life - PS5 Gameplay 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=1g_oKPRiOq8"
+      "url": "https://www.youtube.com/watch?v=1g_oKPRiOq8",
+      "duration": "30:15",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2886-PPSA15389_00-0937721911272224"
   },
@@ -1625,7 +1793,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Arcadegeddon -- Gameplay (PS5)",
-      "url": "https://www.youtube.com/watch?v=R1EV5Fv9C2w"
+      "url": "https://www.youtube.com/watch?v=R1EV5Fv9C2w",
+      "duration": "22:01",
+      "author": "GamePlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2954-PPSA04022_00-8279782818643551"
   },
@@ -1643,7 +1813,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Totally Accurate Battle Simulator -- Gameplay (PS5)",
-      "url": "https://www.youtube.com/watch?v=7dldYslBi54"
+      "url": "https://www.youtube.com/watch?v=7dldYslBi54",
+      "duration": "18:14",
+      "author": "GamePlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3316-PPSA06082_00-3954245925658330"
   },
@@ -1657,7 +1829,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "The Stanley Parable Ultra Deluxe - 32 Minutes of PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=2VOyTgiMPLw"
+      "url": "https://www.youtube.com/watch?v=2VOyTgiMPLw",
+      "duration": "32:00",
+      "author": "PS360HD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3470-PPSA06655_00-9027839365467214"
   },
@@ -1675,7 +1849,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "The Stanley Parable Ultra Deluxe - 32 Minutes of PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=2VOyTgiMPLw"
+      "url": "https://www.youtube.com/watch?v=2VOyTgiMPLw",
+      "duration": "32:00",
+      "author": "PS360HD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3470-PPSA06655_00-9027839365467214"
   },
@@ -1689,7 +1865,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Trek to Yomi - PS5 Gameplay [4K HDR]",
-      "url": "https://www.youtube.com/watch?v=4uWwgFlaAd4"
+      "url": "https://www.youtube.com/watch?v=4uWwgFlaAd4",
+      "duration": "25:43",
+      "author": "AIRTON"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA02629_00-6357334589461052"
   },
@@ -1706,8 +1884,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202109/2601/XeksCI5URfTCp71HmWghTmlr.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Death's Door- PS5 | 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=M2rlhXuuiXE"
+      "title": "Death's Door - 100% Game Walkthrough",
+      "url": "https://www.youtube.com/watch?v=cIRHzCPKQE4",
+      "author": "Carrot Helper - 100% Walkthroughs | No Commentary"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA05304_00-6835793700949814"
   },
@@ -1721,7 +1900,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Trek to Yomi - PS5 Gameplay [4K HDR]",
-      "url": "https://www.youtube.com/watch?v=4uWwgFlaAd4"
+      "url": "https://www.youtube.com/watch?v=4uWwgFlaAd4",
+      "duration": "25:43",
+      "author": "AIRTON"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-PPSA02629_00-6357334589461052"
   },
@@ -1734,8 +1915,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Hitman 2 (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=Ot4ly91AJXM"
+      "title": "Hitman 2 - All Missions | FULL GAME Walkthrough No Commentary",
+      "url": "https://www.youtube.com/watch?v=di9GuV2A-2w",
+      "author": "Gamer Max Channel"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3969-CUSA12414_00-HITMANSTANDARD00"
   },
@@ -1749,7 +1931,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "DIRT 5 (WOW it looks AMAZING on PS5) - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=Q8_FaIBDxYw"
+      "url": "https://www.youtube.com/watch?v=Q8_FaIBDxYw",
+      "duration": "15:45",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA16194_00-FULLGAME00000000"
   },
@@ -1763,7 +1947,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "DIRT5 - PS5 Gameplay [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=w3d0hmaJL3I"
+      "url": "https://www.youtube.com/watch?v=w3d0hmaJL3I",
+      "duration": "21:34",
+      "author": "Мах HARDY"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA16194_00-FULLGAME00000000"
   },
@@ -1780,7 +1966,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Tennis World Tour 2 - Gameplay PS5™ [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=uvoh2vMfu9U"
+      "url": "https://www.youtube.com/watch?v=uvoh2vMfu9U",
+      "duration": "16:32",
+      "author": "AIRTON"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA23445_00-TWT2SIEE00000000"
   },
@@ -1797,8 +1985,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/v4eULBxG8qIBQm2nJj3XDeeo.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Control - PS5 Combat Gameplay | 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=PB6AhqOOOoU"
+      "title": "CONTROL Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+      "url": "https://www.youtube.com/watch?v=5rzWHAv7Cu4",
+      "author": "Shirrako"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA11454_00-CONTROLUEBUNDLE0"
   },
@@ -1812,7 +2001,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Ghostrunner (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=ekm0CDRc6CY"
+      "url": "https://www.youtube.com/watch?v=ekm0CDRc6CY",
+      "duration": "6:39",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA03685_00-GHOSTRUNNERPS500"
   },
@@ -1830,7 +2021,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Ghostrunner 2 - PS5 4K 60FPS Gameplay",
-      "url": "https://www.youtube.com/watch?v=qeSpUJWU6vM"
+      "url": "https://www.youtube.com/watch?v=qeSpUJWU6vM",
+      "duration": "17:16",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-PPSA09912_00-GHOSTRUNNER2EU00"
   },
@@ -1844,7 +2037,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Worms Rumble Gameplay (PS5 UHD) [4K60FPS]",
-      "url": "https://www.youtube.com/watch?v=zQaAQzFYsEw"
+      "url": "https://www.youtube.com/watch?v=zQaAQzFYsEw",
+      "duration": "26:56",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-CUSA23465_00-WORMSRUMBLE00000"
   },
@@ -1862,7 +2057,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Overcooked! All You Can Eat - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=Ewj95C8_OFE"
+      "url": "https://www.youtube.com/watch?v=Ewj95C8_OFE",
+      "duration": "20:36",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-PPSA01528_00-0538983162460184"
   },
@@ -1876,7 +2073,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Curse Of The Dead Gods PS5 Review",
-      "url": "https://www.youtube.com/watch?v=YL9l38JqOfM"
+      "url": "https://www.youtube.com/watch?v=YL9l38JqOfM",
+      "duration": "9:44",
+      "author": "Couch Coop"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-CUSA19401_00-0000000CURSEGAME"
   },
@@ -1894,7 +2093,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Evil West (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
-      "url": "https://www.youtube.com/watch?v=_whubwiHpXw"
+      "url": "https://www.youtube.com/watch?v=_whubwiHpXw",
+      "duration": "39:41",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02371_00-EVILWESTGAME0000"
   },
@@ -1912,7 +2113,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "A Plague Tale: Innocence (PS5) 4K 60FPS HDR Gameplay - (Full Game)",
-      "url": "https://www.youtube.com/watch?v=WsBGSzUqiJA"
+      "url": "https://www.youtube.com/watch?v=WsBGSzUqiJA",
+      "duration": "6:26:44",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02387_00-APLAGUETALEGAME0"
   },
@@ -1926,7 +2129,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "A Plague Tale: Requiem (PS5) 4K 60FPS HDR Gameplay - (Full Game)",
-      "url": "https://www.youtube.com/watch?v=aX1ncET8M_M"
+      "url": "https://www.youtube.com/watch?v=aX1ncET8M_M",
+      "duration": "9:37:00",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-PPSA02785_00-APLAGUEOUTBURST0"
   },
@@ -1944,7 +2149,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Oddworld Soulstorm Enhanced Edition (PS5) HDR 4k/60FPS Gameplay (PS5 Optimized)",
-      "url": "https://www.youtube.com/watch?v=LBNMznAmjq4"
+      "url": "https://www.youtube.com/watch?v=LBNMznAmjq4",
+      "duration": "20:00",
+      "author": "Ultimate Gamerz"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4134-PPSA02259_00-4683460980396423"
   },
@@ -1958,7 +2165,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Hot Wheels Unleashed (PS5) Gameplay 4K HDR 60FPS",
-      "url": "https://www.youtube.com/watch?v=NlgF2uex8BY"
+      "url": "https://www.youtube.com/watch?v=NlgF2uex8BY",
+      "duration": "22:02",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4356-PPSA02325_00-HWUPSPLUS0000000"
   },
@@ -1976,7 +2185,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Hot Wheels Unleashed 2: Turbocharged - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=bXYsHe9q1qk"
+      "url": "https://www.youtube.com/watch?v=bXYsHe9q1qk",
+      "duration": "13:10",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4356-PPSA09285_00-HWU2TURBOCHARGED"
   },
@@ -1990,7 +2201,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Biomutant - PS4 PRO Gameplay Walkthrough",
-      "url": "https://www.youtube.com/watch?v=MFFrnwlyRjs"
+      "url": "https://www.youtube.com/watch?v=MFFrnwlyRjs",
+      "duration": "25:10",
+      "author": "GameVerzuz"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA06254_00-BIOMUTANTEUPS500"
   },
@@ -2004,7 +2217,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Kingdoms of Amalur: Re-Reckoning - Gameplay su PS5 [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=c4s5yK3Ldbc"
+      "url": "https://www.youtube.com/watch?v=c4s5yK3Ldbc",
+      "duration": "27:11",
+      "author": "KingHans"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-CUSA17245_00-KOARECKONINGDEEU"
   },
@@ -2018,7 +2233,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "WRECKFEST - PS5 [4K 60FPS] Gameplay",
-      "url": "https://www.youtube.com/watch?v=qNXYycaUxB4"
+      "url": "https://www.youtube.com/watch?v=qNXYycaUxB4",
+      "duration": "16:37",
+      "author": "World of PlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA03309_00-WRECKFESTPS5EU00"
   },
@@ -2032,7 +2249,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "ALONE IN THE DARK PS5 Walkthrough Gameplay Part 1 - INTRO (FULL GAME)",
-      "url": "https://www.youtube.com/watch?v=g9M1qIgkhxU"
+      "url": "https://www.youtube.com/watch?v=g9M1qIgkhxU",
+      "duration": "1:09:39",
+      "author": "theRadBrad"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4389-PPSA08135_00-ALONEINTHEDARKEU"
   },
@@ -2050,7 +2269,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Minecraft Dungeons PS5 Gameplay (4K 60FPS HDR) - 2160p",
-      "url": "https://www.youtube.com/watch?v=t8M18fUBKNc"
+      "url": "https://www.youtube.com/watch?v=t8M18fUBKNc",
+      "duration": "17:09",
+      "author": "GoroMode"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-CUSA18797_00-DUNGEONSPS400000"
   },
@@ -2068,7 +2289,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Minecraft Legends - 65 Minutes of PS5 Gameplay (No Commentary - 4K 60FPS)",
-      "url": "https://www.youtube.com/watch?v=ra-D9XDOM6I"
+      "url": "https://www.youtube.com/watch?v=ra-D9XDOM6I",
+      "duration": "1:05:30",
+      "author": "aWiibo"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-PPSA05510_00-1296939562310362"
   },
@@ -2086,7 +2309,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Minecraft Legends - 65 Minutes of PS5 Gameplay (No Commentary - 4K 60FPS)",
-      "url": "https://www.youtube.com/watch?v=ra-D9XDOM6I"
+      "url": "https://www.youtube.com/watch?v=ra-D9XDOM6I",
+      "duration": "1:05:30",
+      "author": "aWiibo"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-PPSA05510_00-1296939562310362"
   },
@@ -2099,8 +2324,9 @@ window.PLAYSTATION_GAMES = [
     "description": "The Outlast Trials e un survival in cui il giocatore raccoglie risorse, costruisce strumenti o rifugi e cerca di restare vivo. Esplorazione, gestione dei pericoli e miglioramento dell'equipaggiamento sono centrali.",
     "screenshots": [],
     "gameplay": {
-      "title": "The Outlast Trials PS4 vs PS5 vs PS5 Pro - Graphics Comparison - Framerate - 4k",
-      "url": "https://www.youtube.com/watch?v=iNP4BAj7qr0"
+      "title": "THE OUTLAST TRIALS - FULL RELEASE | Full Game Walkthrough | No Commentary",
+      "url": "https://www.youtube.com/watch?v=CgI4ab_lLSQ",
+      "author": "The Game Archivist"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4467-PPSA05004_00-3353269409144813"
   },
@@ -2117,8 +2343,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202205/1910/WoE0mTSZqODXuwaDji0zMaVS.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Endling - Extinction is Forever - Launch Trailer | PS4 Games",
-      "url": "https://www.youtube.com/watch?v=kiM2_XB_HZE"
+      "title": "Endling: Extinction Is Forever - Gameplay Walkthrough (FULL GAME)",
+      "url": "https://www.youtube.com/watch?v=-7p20rel4vM",
+      "author": "DanQ8000"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4539-PPSA08509_00-9431509967463596"
   },
@@ -2132,7 +2359,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PS5 Gameplay - 4K 60FPS | Deep Rock Galactic",
-      "url": "https://www.youtube.com/watch?v=-gJPqN7RASs"
+      "url": "https://www.youtube.com/watch?v=-gJPqN7RASs",
+      "duration": "10:15",
+      "author": "Scuzz MB"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4837-CUSA15094_00-DRGFULLGAME00000"
   },
@@ -2150,7 +2379,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "GOAT SIMULATOR 3 | PS5 Gameplay (4K 60FPS)",
-      "url": "https://www.youtube.com/watch?v=vfYPAX0DG0I"
+      "url": "https://www.youtube.com/watch?v=vfYPAX0DG0I",
+      "duration": "29:12",
+      "author": "BenedictPlays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4837-PPSA04158_00-GS3MAINGAMEPACK0"
   },
@@ -2167,8 +2398,9 @@ window.PLAYSTATION_GAMES = [
       "https://image.api.playstation.com/vulcan/ap/rnd/202306/0613/0696ca1661acad43059747f53ea550a763799bf192452dd5.jpg?w=440&thumb=false"
     ],
     "gameplay": {
-      "title": "Viewfinder - Announcement Trailer | PS5 Games",
-      "url": "https://www.youtube.com/watch?v=k_lIQ2EZRH8"
+      "title": "Viewfinder - Full Game Walkthrough (No Commentary) - 100% Achievements",
+      "url": "https://www.youtube.com/watch?v=y5Wz1EqzfBM",
+      "author": "Carrot Helper - 100% Walkthroughs | No Commentary"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP5360-CUSA36827_00-VIEWFINDER0004EU"
   },
@@ -2186,7 +2418,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Psychonauts 2 PS5 Pro Gameplay Review [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=4WYC1mirUTc"
+      "url": "https://www.youtube.com/watch?v=4WYC1mirUTc",
+      "duration": "20:02",
+      "author": "Skycaptin5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6311-CUSA27146_00-PSYCHONAUTS2SIEE"
   },
@@ -2199,8 +2433,9 @@ window.PLAYSTATION_GAMES = [
     "description": "ENDER LILIES : Quietus of the Knights e un titolo PlayStation. Il giocatore affronta obiettivi, sfide o partite secondo le regole e le modalita previste dal gioco.",
     "screenshots": [],
     "gameplay": {
-      "title": "Ender Lilies: Quietus of the Knights PS5 Gameplay [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=oNzHSq0Wtac"
+      "title": "ENDER LILIES: Quietus of the Knights: Full Game [100%] (No Commentary Walkthrough)",
+      "url": "https://www.youtube.com/watch?v=c-ic-180oTM",
+      "author": "NeatPick"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6491-CUSA26116_00-5324402993694470"
   },
@@ -2214,7 +2449,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Steelrising (PS5) 4K 60FPS HDR Gameplay - (PS5 Version)",
-      "url": "https://www.youtube.com/watch?v=XjRgAot9XL0"
+      "url": "https://www.youtube.com/watch?v=XjRgAot9XL0",
+      "duration": "52:51",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6665-PPSA05063_00-STR0000000000000"
   },
@@ -2227,8 +2464,9 @@ window.PLAYSTATION_GAMES = [
     "description": "TOEM e un'avventura incentrata su esplorazione, obiettivi narrativi e risoluzione di situazioni. Il giocatore avanza scoprendo ambienti, personaggi e sfide.",
     "screenshots": [],
     "gameplay": {
-      "title": "TOEM -- Gameplay (PS5)",
-      "url": "https://www.youtube.com/watch?v=4zcp6i3i2i0"
+      "title": "TOEM - Full Game Walkthrough (No Commentary) - 100% Achievements",
+      "url": "https://www.youtube.com/watch?v=W79SQAS7gw8",
+      "author": "Carrot Helper - 100% Walkthroughs | No Commentary"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6986-PPSA04353_00-1052093850159805"
   },
@@ -2242,7 +2480,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Among Us - Gameplay per PS5!",
-      "url": "https://www.youtube.com/watch?v=KURuY-rZcjo"
+      "url": "https://www.youtube.com/watch?v=KURuY-rZcjo",
+      "duration": "5:30",
+      "author": "SIMPLYAMAZING"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP7028-PPSA03596_00-AMONGUS5SIEE0001"
   },
@@ -2256,7 +2496,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Jusant - Full Game Gameplay Walkthrough (PS5)",
-      "url": "https://www.youtube.com/watch?v=rpSXYp9ARk8"
+      "url": "https://www.youtube.com/watch?v=rpSXYp9ARk8",
+      "duration": "3:10:12",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP8091-PPSA10264_00-4648066903011525"
   },
@@ -2270,7 +2512,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "L’arena dei cacciatori - Leggende ps4",
-      "url": "https://www.youtube.com/watch?v=gFfZM25CCf8"
+      "url": "https://www.youtube.com/watch?v=gFfZM25CCf8",
+      "duration": "6:18",
+      "author": "il canale di shu"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP8266-PPSA02692_00-2168430897232498"
   },
@@ -2283,8 +2527,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Dreams™ e una simulazione gestionale o creativa. Il giocatore costruisce, organizza o controlla sistemi complessi cercando di raggiungere obiettivi di crescita o efficienza.",
     "screenshots": [],
     "gameplay": {
-      "title": "16 giochi per PS5 che tutti dovrebbero provare almeno una volta nella vita",
-      "url": "https://www.youtube.com/watch?v=iGFpHPBIJXw"
+      "title": "Art's Dream! - Dreams Gameplay Walkthrough Part 2",
+      "url": "https://www.youtube.com/watch?v=CxWDsAUdvv0",
+      "author": "Zebra Gamer"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA04301_00-DREAMS0000000000"
   },
@@ -2297,8 +2542,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Sackboy: Una grande avventura e un platform basato su salti, movimento preciso e superamento di livelli. Il giocatore evita ostacoli, sconfigge nemici e raggiunge obiettivi di percorso.",
     "screenshots": [],
     "gameplay": {
-      "title": "UN'ALTRA MERAVIGLIA SU PS5! (Forse) | Sackboy Una Grande Avventura",
-      "url": "https://www.youtube.com/watch?v=EPKLDDb9A34"
+      "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+      "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+      "author": "CORE MEMORY UNLOCKED"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
@@ -2312,7 +2558,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "DAYS GONE REMASTERED Gameplay Walkthrough FULL GAME [4K 60FPS PS5 PRO] - No Commentary",
-      "url": "https://www.youtube.com/watch?v=AHIMD1xdQUY"
+      "url": "https://www.youtube.com/watch?v=AHIMD1xdQUY",
+      "duration": "18:23:41",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE"
   },
@@ -2326,7 +2574,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Concrete Genie 20 Minutes of Gameplay - PS5 4K",
-      "url": "https://www.youtube.com/watch?v=P5cHzUMPFlk"
+      "url": "https://www.youtube.com/watch?v=P5cHzUMPFlk",
+      "duration": "21:51",
+      "author": "FP Good Game"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA11875_00-CONCRETEGENIE000"
   },
@@ -2353,8 +2603,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Sackboy: A Big Adventure e un platform basato su salti, movimento preciso e superamento di livelli. Il giocatore evita ostacoli, sconfigge nemici e raggiunge obiettivi di percorso.",
     "screenshots": [],
     "gameplay": {
-      "title": "Sackboy: A Big Adventure (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=ciUV29MmQIY"
+      "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+      "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+      "author": "CORE MEMORY UNLOCKED"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
@@ -2367,8 +2618,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Sackboy™: Una grande avventura e un platform basato su salti, movimento preciso e superamento di livelli. Il giocatore evita ostacoli, sconfigge nemici e raggiunge obiettivi di percorso.",
     "screenshots": [],
     "gameplay": {
-      "title": "UN'ALTRA MERAVIGLIA SU PS5! (Forse) | Sackboy Una Grande Avventura",
-      "url": "https://www.youtube.com/watch?v=EPKLDDb9A34"
+      "title": "SACKBOY A Big Adventure - FULL GAME Walkthrough Longplay",
+      "url": "https://www.youtube.com/watch?v=cwAXQIYA0_w",
+      "author": "CORE MEMORY UNLOCKED"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01288_00-SACKBOYADVENTURE"
   },
@@ -2396,7 +2648,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "LEGO HORIZON ADVENTURES Gameplay Walkthrough FULL GAME [4K 60FPS PS5 PRO] - No Commentary",
-      "url": "https://www.youtube.com/watch?v=FXf4MnQbjhg"
+      "url": "https://www.youtube.com/watch?v=FXf4MnQbjhg",
+      "duration": "4:38:34",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA14632_00-LEGOHZNADVENTURE"
   },
@@ -2410,7 +2664,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Sea of Blood Walkthrough | Dragon Age The Veilguard PS5 Pro Gameplay 4K HDR",
-      "url": "https://www.youtube.com/watch?v=chInZHHHUnM"
+      "url": "https://www.youtube.com/watch?v=chInZHHHUnM",
+      "duration": "34:55",
+      "author": "FP Good Game"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/UP0006-PPSA01390_00-DRAGON4STANDBUND"
   },
@@ -2424,7 +2680,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Infinity Nikki - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=wex84LB9u9s"
+      "url": "https://www.youtube.com/watch?v=wex84LB9u9s",
+      "duration": "1:40:00",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/HB0901-PPSA26357_00-PRODUCTIONGLOBAL"
   },
@@ -2438,7 +2696,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "STELLAR BLADE ► PROVIAMO LA DEMO ★ PS5 Gameplay ITA",
-      "url": "https://www.youtube.com/watch?v=J540mB2tCWI"
+      "url": "https://www.youtube.com/watch?v=J540mB2tCWI",
+      "duration": "32:48",
+      "author": "Falconero"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA18488_00-STELLARBLADEDEMO"
   },
@@ -2452,7 +2712,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FINAL FANTASY VII REBIRTH Demo - PS5 Gameplay UE5 4K 60FPS HQ",
-      "url": "https://www.youtube.com/watch?v=L35L8njglRM"
+      "url": "https://www.youtube.com/watch?v=L35L8njglRM",
+      "duration": "32:35",
+      "author": "BLOGDOT.TV"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-PPSA08668_00-0886721485938168"
   },
@@ -2466,7 +2728,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "eFootball 2026 PS5 Pro Next Gen Gameplay 4K HDR 60FPS",
-      "url": "https://www.youtube.com/watch?v=lXUCtIGnC3I"
+      "url": "https://www.youtube.com/watch?v=lXUCtIGnC3I",
+      "duration": "21:07",
+      "author": "FP Good Game"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-PPSA03073_00-EFOOTBALL0000000"
   },
@@ -2484,7 +2748,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "HORIZON FORBIDDEN WEST PS5 Gameplay 4K HDR ULTRA HD (Fidelity Mode)",
-      "url": "https://www.youtube.com/watch?v=igl_5sssWjQ"
+      "url": "https://www.youtube.com/watch?v=igl_5sssWjQ",
+      "duration": "23:48",
+      "author": "Shirrako"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-PPSA01521_00-FORBIDDENWESTPS5"
   },
@@ -2498,7 +2764,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "RISE OF THE TOMB RAIDER (PS5) Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
-      "url": "https://www.youtube.com/watch?v=Jyz-I1j1hIE"
+      "url": "https://www.youtube.com/watch?v=Jyz-I1j1hIE",
+      "duration": "5:12:21",
+      "author": "Shirrako"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA05716_00-RISEOFTOMBRAIDER"
   },
@@ -2512,7 +2780,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Assassin's Creed Origins - PS5 Gameplay | Next Gen Update [4K HDR 60FPS]",
-      "url": "https://www.youtube.com/watch?v=YQkbwIir3qk"
+      "url": "https://www.youtube.com/watch?v=YQkbwIir3qk",
+      "duration": "14:49",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA05625_00-GAMEACEMPIRE0000"
   },
@@ -2526,7 +2796,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "The Witcher 3 Wild Hunt Walkthrough PART 1 (PS4) Gameplay No Commentary [1080p] TRUE-HD QUALITY",
-      "url": "https://www.youtube.com/watch?v=t_iBHLpI-c8"
+      "url": "https://www.youtube.com/watch?v=t_iBHLpI-c8",
+      "duration": "1:02:04",
+      "author": "RajmanGaming HD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4497-PPSA10408_00-00000000000000N1"
   },
@@ -2544,7 +2816,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Red Dead Redemption 2 - Gioco PS5 HDR 4K 2160P (RDR2 PS5) Pt.2",
-      "url": "https://www.youtube.com/watch?v=bSYGrExlbu8"
+      "url": "https://www.youtube.com/watch?v=bSYGrExlbu8",
+      "duration": "20:59",
+      "author": "Ultimate Gamerz"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1004-CUSA08519_00-REDEMPTIONFULL02"
   },
@@ -2558,7 +2832,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "30 Minutes of Gameplay The Dark Pictures Anthology Man of Medan - PS5 4K (No Commentary)",
-      "url": "https://www.youtube.com/watch?v=W7vBQ7Dr0EY"
+      "url": "https://www.youtube.com/watch?v=W7vBQ7Dr0EY",
+      "duration": "30:47",
+      "author": "FP Good Game"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA14102_00-SMGDARKPICTURESA"
   },
@@ -2572,7 +2848,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fall Guys: Ultimate Knockout | PS5 Gameplay (4K 60FPS)",
-      "url": "https://www.youtube.com/watch?v=5HkN8D18al4"
+      "url": "https://www.youtube.com/watch?v=5HkN8D18al4",
+      "duration": "11:28",
+      "author": "ARAN"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA29237_00-FALLGUYS00000000"
   },
@@ -2586,7 +2864,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fall Guys 2025 - Multiplayer Gameplay (PS5)",
-      "url": "https://www.youtube.com/watch?v=93yWT6cQQUY"
+      "url": "https://www.youtube.com/watch?v=93yWT6cQQUY",
+      "duration": "22:53",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA29237_00-FALLGUYS00000000"
   },
@@ -2600,7 +2880,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Rayman Legends (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=WgFCr1ME9xo"
+      "url": "https://www.youtube.com/watch?v=WgFCr1ME9xo",
+      "duration": "22:21",
+      "author": "Dieison Games"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00031_00-RAYMANLEGENDS001"
   },
@@ -2614,7 +2896,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "GTA 5 (Grand Theft Auto V) - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=GpeNQnbDMtc"
+      "url": "https://www.youtube.com/watch?v=GpeNQnbDMtc",
+      "duration": "49:16",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1004-CUSA00411_00-PREMIUMPACKOGGW1"
   },
@@ -2628,7 +2912,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "GOD OF WAR PS5 [Walkthrough Gameplay ITA PS5 - PARTE 1] - Pronti per il RAGNAROK",
-      "url": "https://www.youtube.com/watch?v=Kdvq6OwH1CY"
+      "url": "https://www.youtube.com/watch?v=Kdvq6OwH1CY",
+      "duration": "32:47",
+      "author": "MikeShowShaLIVE"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07410_00-0000000GODOFWARN"
   },
@@ -2642,7 +2928,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Sid Meier's Civilization VI - ps5 loading times + gameplay",
-      "url": "https://www.youtube.com/watch?v=rCpkjQth1GA"
+      "url": "https://www.youtube.com/watch?v=rCpkjQth1GA",
+      "duration": "5:27",
+      "author": "JBxMachina"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA15381_00-CIV6BASE00000000"
   },
@@ -2656,7 +2944,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Genshin Impact PS5 Gameplay [4K 60FPS]",
-      "url": "https://www.youtube.com/watch?v=HnIWB2BptL8"
+      "url": "https://www.youtube.com/watch?v=HnIWB2BptL8",
+      "duration": "10:43",
+      "author": "KingHans"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP6261-PPSA02584_00-OSRELSIEEGENSHIN"
   },
@@ -2670,7 +2960,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Konami New Football Game Online Performance Test PS5",
-      "url": "https://www.youtube.com/watch?v=wb1RYLDMSyU"
+      "url": "https://www.youtube.com/watch?v=wb1RYLDMSyU",
+      "duration": "7:33",
+      "author": "Games I Play"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA26885_00-NFGOPT0000000000"
   },
@@ -2683,8 +2975,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Capcom Arcade Stadium e un titolo PlayStation. Il giocatore affronta obiettivi, sfide o partite secondo le regole e le modalita previste dal gioco.",
     "screenshots": [],
     "gameplay": {
-      "title": "CAPCOM ARCADE STADIUM - PS5 GAMEPLAY ( 4K )",
-      "url": "https://www.youtube.com/watch?v=g0Ua4wC2i90"
+      "title": "Capcom Arcade Stadium Gameplay | Nintendo Switch",
+      "url": "https://www.youtube.com/watch?v=bpO5qz_uQS4",
+      "author": "Video Chums 🎮😄"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0102-CUSA26272_00-CAS0000000000001"
   },
@@ -2702,7 +2995,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "THE ART OF HORIZON: ZERO DAWN (PS4) - \"Starting Up the App\" Walkthrough",
-      "url": "https://www.youtube.com/watch?v=qFaS4Ge3O4k"
+      "url": "https://www.youtube.com/watch?v=qFaS4Ge3O4k",
+      "duration": "0:05",
+      "author": "warrenwoodhouse"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10211_00-HRZCE00000000000"
   },
@@ -2720,7 +3015,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Horizon Zero Dawn Complete Edition PS5 FULL GAME Gameplay Walkthrough (No Commentary)",
-      "url": "https://www.youtube.com/watch?v=vmkylVBlrr8"
+      "url": "https://www.youtube.com/watch?v=vmkylVBlrr8",
+      "duration": "11:00:56",
+      "author": "DRAVSZOO - Games Channel"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10211_00-HRZCE00000000000"
   },
@@ -2733,8 +3030,9 @@ window.PLAYSTATION_GAMES = [
     "description": "The Witness e un gioco puzzle o rompicapo. Il giocatore deve osservare scenari, capire regole e risolvere enigmi per avanzare.",
     "screenshots": [],
     "gameplay": {
-      "title": "The Witness (PS5) - 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=njhrvUJOSNQ"
+      "title": "100% Game Walkthrough - The Witness [All 523 Puzzles + 135 Environmental Puzzles + 49 Audio Logs]",
+      "url": "https://www.youtube.com/watch?v=nXqBLYuvFyk",
+      "author": "Carrot Helper - 100% Walkthroughs | No Commentary"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP8932-CUSA04263_00-THEWITNESSPS4PS4"
   },
@@ -2748,7 +3046,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Enter the Gungeon Walkthrough Gameplay | No Commentary PS5",
-      "url": "https://www.youtube.com/watch?v=W_baWje6mh8"
+      "url": "https://www.youtube.com/watch?v=W_baWje6mh8",
+      "duration": "16:18",
+      "author": "Quenten5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3643-CUSA01659_00-0000000000000000"
   },
@@ -2761,8 +3061,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Ratchet & Clank™ e un platform basato su salti, movimento preciso e superamento di livelli. Il giocatore evita ostacoli, sconfigge nemici e raggiunge obiettivi di percorso.",
     "screenshots": [],
     "gameplay": {
-      "title": "RATCHET & CLANK RIFT APART [Walkthrough Gameplay ITA PS5 - PARTE 1] - LA NEXT GEN è QUI!",
-      "url": "https://www.youtube.com/watch?v=Q0GcxfPwMPk"
+      "title": "Ratchet and Clank PS4 - Full Game RYNO ONLY Walkthrough",
+      "url": "https://www.youtube.com/watch?v=V6wh0sX3Ig8",
+      "author": "ProsafiaGaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA01073_00-RCPS400000000000"
   },
@@ -2776,7 +3077,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Spirit of the North: Enhanced Edition - Full Game Gameplay Walkthrough (PS5, 4K)",
-      "url": "https://www.youtube.com/watch?v=fu-y_X6rEg4"
+      "url": "https://www.youtube.com/watch?v=fu-y_X6rEg4",
+      "duration": "3:25:23",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP3751-CUSA17576_00-SPIRITNORTH00001"
   },
@@ -2790,7 +3093,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Micro Machines World Series PS4 Gameplay - full elimination race on a messy kitchen table",
-      "url": "https://www.youtube.com/watch?v=0gJ2p2nbxHM"
+      "url": "https://www.youtube.com/watch?v=0gJ2p2nbxHM",
+      "duration": "3:14",
+      "author": "Brandnew Gameplay"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4001-CUSA07400_00-MICROMACHINES000"
   },
@@ -2803,8 +3108,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Sherlock Holmes: The Devil's Daughter - Gameplay Walkthrough Video | PS4",
-      "url": "https://www.youtube.com/watch?v=pJYBcikP_wc"
+      "title": "Sherlock Holmes: The Devil's Daughter | Full Game Walkthrough | No Commentary",
+      "url": "https://www.youtube.com/watch?v=HgiTaC5L1Es",
+      "author": "GAMESPUB"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA03773_00-SHERLOCKHOLMESDD"
   },
@@ -2829,7 +3135,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "eFootball PES 2021 Season Update - Full Match Gameplay 4K",
-      "url": "https://www.youtube.com/watch?v=ysVTRNwJnQw"
+      "url": "https://www.youtube.com/watch?v=ysVTRNwJnQw",
+      "duration": "15:08",
+      "author": "IGN"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA18740_00-PES2021CLE004PRE"
   },
@@ -2843,7 +3151,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PS5 Slim ASMR 😴 Rocket League Ranked 🏆 Satisfying 360 FPS 4K",
-      "url": "https://www.youtube.com/watch?v=9QKL-OjhlxY"
+      "url": "https://www.youtube.com/watch?v=9QKL-OjhlxY",
+      "duration": "12:09",
+      "author": "Kaneki"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01"
   },
@@ -2857,7 +3167,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Kingdom Hearts 3 - Full Demo Gameplay [PS4]",
-      "url": "https://www.youtube.com/watch?v=-nFkeLE3mi8"
+      "url": "https://www.youtube.com/watch?v=-nFkeLE3mi8",
+      "duration": "2:48:31",
+      "author": "Kiddvirus53"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA16864_00-KINGDOMHEARTS3TR"
   },
@@ -2871,7 +3183,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "TOMB RAIDER: DEFINITIVE EDITION Full Walkthrough Gameplay - PS5 4K 60FPS No Commentary",
-      "url": "https://www.youtube.com/watch?v=Cl1lqVBpFhg"
+      "url": "https://www.youtube.com/watch?v=Cl1lqVBpFhg",
+      "duration": "6:59:53",
+      "author": "PLAYGAMES"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA00109_00-000000TOMBRAIDER"
   },
@@ -2885,7 +3199,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Worms W.M.D (PS5) | A Rather Amusing Game Against Snakenator1 & Nitroboost245",
-      "url": "https://www.youtube.com/watch?v=up-u4jSlfk0"
+      "url": "https://www.youtube.com/watch?v=up-u4jSlfk0",
+      "duration": "16:21",
+      "author": "Solarxetic-"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4064-CUSA04022_00-WORMSWMD00000000"
   },
@@ -2899,7 +3215,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Unravel - PS5 Gameplay 4K 60FPS",
-      "url": "https://www.youtube.com/watch?v=j3hOtT3YdFc"
+      "url": "https://www.youtube.com/watch?v=j3hOtT3YdFc",
+      "duration": "8:30",
+      "author": "Dainghia25"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA02532_00-UNRAVELUNRAVEL09"
   },
@@ -2913,7 +3231,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Injustice: Gods Among Us Ultimate Edition on PS5 [4K Video]",
-      "url": "https://www.youtube.com/watch?v=HFE6ae6TRyE"
+      "url": "https://www.youtube.com/watch?v=HFE6ae6TRyE",
+      "duration": "1:59",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00051_00-INJUSTICEULTIMAT"
   },
@@ -2927,7 +3247,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gameplay di MINECRAFT per PS5",
-      "url": "https://www.youtube.com/watch?v=LXaRLLHN8d8"
+      "url": "https://www.youtube.com/watch?v=LXaRLLHN8d8",
+      "duration": "21:10",
+      "author": "GameRiot"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4433-CUSA00265_00-MINECRAFTPS40001"
   },
@@ -2941,7 +3263,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "UNCHARTED LOST LEGACY • RECENSIONE (L'Eredità Perduta)",
-      "url": "https://www.youtube.com/watch?v=fo5LCxjdJpc"
+      "url": "https://www.youtube.com/watch?v=fo5LCxjdJpc",
+      "duration": "5:33",
+      "author": "DadoBax"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07875_00-UNCHD4LOSTLEGACY"
   },
@@ -2955,7 +3279,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Uncharted 4: Fine di un ladro Gameplay Naufragio 1/2 #15 [PS4]",
-      "url": "https://www.youtube.com/watch?v=cJc_FE2lyag"
+      "url": "https://www.youtube.com/watch?v=cJc_FE2lyag",
+      "duration": "33:31",
+      "author": "Jedixs Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00917_00-UNCHARTED4000000"
   },
@@ -2969,7 +3295,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Riptide GP2 ::: Hard Core Gamer | Etzibear.PS5",
-      "url": "https://www.youtube.com/watch?v=k5MnSUWZCnE"
+      "url": "https://www.youtube.com/watch?v=k5MnSUWZCnE",
+      "duration": "36:02",
+      "author": "The Place Of Etzibear"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
@@ -2982,8 +3310,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Beach Buggy Racing e un titolo corse disponibile nella libreria. Il giocatore affronta obiettivi, sfide o partite secondo le regole del gioco.",
     "screenshots": [],
     "gameplay": {
-      "title": "Using a PS5 Controller to play a mobile game || Beach Buggy Racing",
-      "url": "https://www.youtube.com/watch?v=DQrIXumbNQg"
+      "title": "Beach Buggy Racing [Full Game | No Commentary] PS4",
+      "url": "https://www.youtube.com/watch?v=FDYr-ByF4yw",
+      "author": "Casual Racer Red"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
@@ -2997,7 +3326,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Riptide GP: Renegade PS5 gameplay",
-      "url": "https://www.youtube.com/watch?v=WQzYuchTazw"
+      "url": "https://www.youtube.com/watch?v=WQzYuchTazw",
+      "duration": "2:32",
+      "author": "Games I Play"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0786-NPEJ00498_00-VUTRIPLEPACK0000"
   },
@@ -3011,7 +3342,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA 2K20 (PS4) / PlayStation 5 4K game boost enhanced gameplay",
-      "url": "https://www.youtube.com/watch?v=zO0Bcsdm0fs"
+      "url": "https://www.youtube.com/watch?v=zO0Bcsdm0fs",
+      "duration": "12:43",
+      "author": "Haidi Retro Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA16386_00-NBA2K20000000000"
   },
@@ -3025,7 +3358,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Journey (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=QNFsBB54auc"
+      "url": "https://www.youtube.com/watch?v=QNFsBB54auc",
+      "duration": "20:38",
+      "author": "Dieison Games"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00470_00-JOURNEYPS4061115"
   },
@@ -3039,7 +3374,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "UNCHARTED THE NATHAN DRAKE COLLECTION Gameplay Walkthrough FULL GAME [4K 60FPS PS5] - No Commentary",
-      "url": "https://www.youtube.com/watch?v=17qTCKkK6U8"
+      "url": "https://www.youtube.com/watch?v=17qTCKkK6U8",
+      "duration": "14:52:01",
+      "author": "MKIceAndFire"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA02343_00-UNCHARTEDTRILOGY"
   },
@@ -3053,7 +3390,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Spelunky Walkthrough Gameplay | No Commentary PS5 [4K HDR 60FPS]",
-      "url": "https://www.youtube.com/watch?v=DGTfbdCT4qk"
+      "url": "https://www.youtube.com/watch?v=DGTfbdCT4qk",
+      "duration": "27:04",
+      "author": "Quenten5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4407-CUSA00491_00-SPELUNKY00000000"
   },
@@ -3067,7 +3406,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PS5 Genesis Gameplay (4K)",
-      "url": "https://www.youtube.com/watch?v=fYzNH2maTlY"
+      "url": "https://www.youtube.com/watch?v=fYzNH2maTlY",
+      "duration": "8:04",
+      "author": "BlackGoku"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP5292-CUSA15653_00-0000000000000000"
   },
@@ -3081,7 +3422,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "A King's Tale: Final Fantasy XV Full Game Longplay (4K 60FPS PS5 Pro No Commentary)",
-      "url": "https://www.youtube.com/watch?v=QXU4DmOr3WI"
+      "url": "https://www.youtube.com/watch?v=QXU4DmOr3WI",
+      "duration": "1:05:30",
+      "author": "CinePlay Chronicles"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA05946_00-AKINGSTALEFFXV00"
   },
@@ -3095,7 +3438,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Brawlhalla | PS5 Gameplay 4K 60FPS (NO COMMENTARY)",
-      "url": "https://www.youtube.com/watch?v=RW0PpubCVkg"
+      "url": "https://www.youtube.com/watch?v=RW0PpubCVkg",
+      "duration": "30:34",
+      "author": "Murat in Game"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0953-CUSA05330_00-BRAWLHALLAEUROPE"
   },
@@ -3109,7 +3454,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Destiny 2 (PS5) 4K 60FPS HDR Gameplay",
-      "url": "https://www.youtube.com/watch?v=tVEevtQX5bw"
+      "url": "https://www.youtube.com/watch?v=tVEevtQX5bw",
+      "duration": "19:06",
+      "author": "FA GAMEZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA06172_00-DESTINYTHEGAME02"
   },
@@ -3123,7 +3470,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fortnite (PS5) 4K 60FPS HDR Gameplay (Chapter 4 Season 5)",
-      "url": "https://www.youtube.com/watch?v=HQNmN4nGUZM"
+      "url": "https://www.youtube.com/watch?v=HQNmN4nGUZM",
+      "duration": "24:19",
+      "author": "Dieison Games"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1464-CUSA07669_00-FORTNITETESTING1"
   },
@@ -3137,7 +3486,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA 20 DEMO Gameplay ITA - PROVIAMOLA! PS4 pro",
-      "url": "https://www.youtube.com/watch?v=F4KpjBQ73S0"
+      "url": "https://www.youtube.com/watch?v=F4KpjBQ73S0",
+      "duration": "13:21",
+      "author": "AleMiracle"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA16384_00-FIFA2020DEMOGAME"
   },
@@ -3151,7 +3502,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "HiQ Ace Unlimited - PS5 Gameplay - Level 1",
-      "url": "https://www.youtube.com/watch?v=LGgUbnDtuCc"
+      "url": "https://www.youtube.com/watch?v=LGgUbnDtuCc",
+      "duration": "3:53",
+      "author": "Hacon Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4396-CUSA10659_00-HIQACEGAMEEU0001"
   },
@@ -3165,7 +3518,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "DEAD OR ALIVE 6: Core Fighters PS5",
-      "url": "https://www.youtube.com/watch?v=eKVIWqFXT74"
+      "url": "https://www.youtube.com/watch?v=eKVIWqFXT74",
+      "duration": "10:02",
+      "author": "LANDERMAN XD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4108-CUSA12117_00-DOA6F2PGAME00000"
   },
@@ -3179,7 +3534,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "eFootball PES 2020 PS4",
-      "url": "https://www.youtube.com/watch?v=a30AjNcQ-Vk"
+      "url": "https://www.youtube.com/watch?v=a30AjNcQ-Vk",
+      "duration": "21:27",
+      "author": "BroGameTime"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA16507_00-PES2020DEMO00000"
   },
@@ -3193,7 +3550,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA 19 - Real Madrid vs. Barcellona - Finale della UEFA Champions League | PS5™ [4K60]",
-      "url": "https://www.youtube.com/watch?v=lAGtpxluzQc"
+      "url": "https://www.youtube.com/watch?v=lAGtpxluzQc",
+      "duration": "27:32",
+      "author": "MJ7"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA11608_00-FIFAFOOTBALL2019"
   },
@@ -3207,7 +3566,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA19 | Trailer di annuncio | PS4",
-      "url": "https://www.youtube.com/watch?v=R6a7gcBd9oA"
+      "url": "https://www.youtube.com/watch?v=R6a7gcBd9oA",
+      "duration": "1:24",
+      "author": "PlayStation Italia"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA12582_00-FIFA2019DEMOGAME"
   },
@@ -3221,7 +3582,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fist of the North Star Lost Paradise Demo PS4 Gameplay (No Commentary)",
-      "url": "https://www.youtube.com/watch?v=jkldVrxL4C4"
+      "url": "https://www.youtube.com/watch?v=jkldVrxL4C4",
+      "duration": "40:38",
+      "author": "Jero Darko"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA12788_00-HOKUTOGOTOTRGB00"
   },
@@ -3246,7 +3609,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PRO EVOLUTION SOCCER 2019 DEMO Barcelona vs Liverpool PS4 Pro Gameplay",
-      "url": "https://www.youtube.com/watch?v=8X3HtuaeV6I"
+      "url": "https://www.youtube.com/watch?v=8X3HtuaeV6I",
+      "duration": "13:36",
+      "author": "Cycu1"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA12746_00-PES201900000DEMO"
   },
@@ -3270,8 +3635,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Child of Light gameplay PS5",
-      "url": "https://www.youtube.com/watch?v=g3Ibq3qz5tQ"
+      "title": "CHILD OF LIGHT - FULL GAME (NO COMMENTARY)",
+      "url": "https://www.youtube.com/watch?v=TIyv2NY2f1g",
+      "author": "ValhallaGamer95"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-NPEJ00305_00-B000000000001030"
   },
@@ -3285,7 +3651,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pac-Man Championship Edition 2 on PS5 [4K Video]",
-      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA"
+      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA",
+      "duration": "4:16",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA04944_00-PACMANCE20000000"
   },
@@ -3303,7 +3671,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Pang adventures ps5 4k hdr 60fpf",
-      "url": "https://www.youtube.com/watch?v=AzmAofS3LMU"
+      "url": "https://www.youtube.com/watch?v=AzmAofS3LMU",
+      "duration": "2:45",
+      "author": "CRGame"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1470-CUSA03650_00-PANGADVENTURES01"
   },
@@ -3321,7 +3691,9 @@ window.PLAYSTATION_GAMES = [
     ],
     "gameplay": {
       "title": "Everybody's Tennis on PS5 [4K Video]",
-      "url": "https://www.youtube.com/watch?v=vXOsyWWDeNU"
+      "url": "https://www.youtube.com/watch?v=vXOsyWWDeNU",
+      "duration": "4:01",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA02270_00-SCES545350000001"
   },
@@ -3335,7 +3707,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Detroit: Become Human - Gameplay on PS5 (4K)",
-      "url": "https://www.youtube.com/watch?v=_kjIIQTJLKk"
+      "url": "https://www.youtube.com/watch?v=_kjIIQTJLKk",
+      "duration": "25:57",
+      "author": "Rubhen925"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA10345_00-DETROITDEMO00001"
   },
@@ -3360,7 +3734,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Need for Speed Payback - PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=2thB6YtfP1s"
+      "url": "https://www.youtube.com/watch?v=2thB6YtfP1s",
+      "duration": "23:06",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05986_00-NFS1800000000001"
   },
@@ -3373,8 +3749,9 @@ window.PLAYSTATION_GAMES = [
     "description": "Wolfenstein® II: The New Colossus™ e uno shooter in cui il giocatore affronta nemici con armi, abilita e obiettivi di missione. Il focus e su combattimenti, movimento e progressione dell'equipaggiamento.",
     "screenshots": [],
     "gameplay": {
-      "title": "Wolfenstein 2 The New Colossus PS5 Pro Gameplay Review [Playstation Plus]",
-      "url": "https://www.youtube.com/watch?v=W-MI_-LuelM"
+      "title": "Wolfenstein II: The New Colossus (2017) – Full Game Walkthrough | 4K 60FPS | No Commentary",
+      "url": "https://www.youtube.com/watch?v=sKmLAfYx_Bc",
+      "author": "TrueGamingVault"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA07377_00-COLOSSUSFULLGAME"
   },
@@ -3388,7 +3765,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA 18 -- Gameplay (PS4)",
-      "url": "https://www.youtube.com/watch?v=fTYVC-RSQ2Q"
+      "url": "https://www.youtube.com/watch?v=fTYVC-RSQ2Q",
+      "duration": "33:28",
+      "author": "GamePlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA07994_00-FIFAFOOTBALL2018"
   },
@@ -3402,7 +3781,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PS4 Trivial Pursuit Live! Gameplay Angezockt Teil 1",
-      "url": "https://www.youtube.com/watch?v=0BUiuL0f16M"
+      "url": "https://www.youtube.com/watch?v=0BUiuL0f16M",
+      "duration": "15:00",
+      "author": "Mike Gamer 286"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00772_00-0000111122223333"
   },
@@ -3416,7 +3797,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "MONOPOLY PLUS Gameplay PS5 4K@60FPS",
-      "url": "https://www.youtube.com/watch?v=s8ZFGqNT2Q0"
+      "url": "https://www.youtube.com/watch?v=s8ZFGqNT2Q0",
+      "duration": "14:14",
+      "author": "BachhalGaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00773_00-ASOBOMONOPOLY000"
   },
@@ -3430,7 +3813,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PINBALL FX3 ALIENS GAMEPLAY 4K PS5",
-      "url": "https://www.youtube.com/watch?v=OL_14iKseFs"
+      "url": "https://www.youtube.com/watch?v=OL_14iKseFs",
+      "duration": "9:06",
+      "author": "Vortex Gaming 4K"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4042-CUSA04907_00-PINBALLFX3000000"
   },
@@ -3444,7 +3829,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA 2K18: Il Preludio Proviamolo gameplay ps4 ita.",
-      "url": "https://www.youtube.com/watch?v=jF5KW_LoL4E"
+      "url": "https://www.youtube.com/watch?v=jF5KW_LoL4E",
+      "duration": "16:57",
+      "author": "Luca Mariani Official"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA09174_00-NBA2K18PRESEASON"
   },
@@ -3458,7 +3845,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FIFA 18 DEMO Gameplay ITA - JUVENTUS Vs REAL MADRID - PS4 HD",
-      "url": "https://www.youtube.com/watch?v=u8l3PflR_2s"
+      "url": "https://www.youtube.com/watch?v=u8l3PflR_2s",
+      "duration": "12:31",
+      "author": "AleMiracle"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA08354_00-FIFA2018DEMOGAME"
   },
@@ -3472,7 +3861,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "(PS5) DEATH BOUND DEMO GAMEPLAY WALKTHROUGH [4K HDR]",
-      "url": "https://www.youtube.com/watch?v=NkYiqX5Hia0"
+      "url": "https://www.youtube.com/watch?v=NkYiqX5Hia0",
+      "duration": "1:06:03",
+      "author": "Tarnished Blade"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA07135_00-BOUNDVRDEMO00001"
   },
@@ -3486,7 +3877,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "KNACK 2 - IL MONASTERO - DEMO - PS4 GAMEPLAY ITA HD",
-      "url": "https://www.youtube.com/watch?v=vxQ6mm1NkTw"
+      "url": "https://www.youtube.com/watch?v=vxQ6mm1NkTw",
+      "duration": "14:11",
+      "author": "ANDADIMA"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA09687_00-KNACK20000000000"
   },
@@ -3511,7 +3904,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pro Evolution Soccer 2018 DEMO PS4 - Brazil VS Germany -",
-      "url": "https://www.youtube.com/watch?v=aSOG0detdWk"
+      "url": "https://www.youtube.com/watch?v=aSOG0detdWk",
+      "duration": "17:27",
+      "author": "H0ru5"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA09599_00-PES2018DEMO00000"
   },
@@ -3525,7 +3920,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gameplay PRO EVOLUTION SOCCER 2018 Online Beta PS4",
-      "url": "https://www.youtube.com/watch?v=ncDu6aciZ40"
+      "url": "https://www.youtube.com/watch?v=ncDu6aciZ40",
+      "duration": "0:23",
+      "author": "P.H."
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA09007_00-PES2018OBT000000"
   },
@@ -3538,8 +3935,9 @@ window.PLAYSTATION_GAMES = [
     "description": "© 2026 Sony Interactive Entertainment Europe Ltd. Tutti i diritti riservati.",
     "screenshots": [],
     "gameplay": {
-      "title": "Kung Fu Panda Gameplay Ita #1 Il Sogno Del Guerriero Dragone",
-      "url": "https://www.youtube.com/watch?v=KAEeJE8XjDo"
+      "title": "Kung Fu Panda: Showdown of Legendary Legends - Full Game Walkthrough | 4K 60FPS | No Commentary",
+      "url": "https://www.youtube.com/watch?v=RZMzdELRdk8",
+      "author": "Geração Power Up"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4406-CUSA02591_00-KUNGFUPANDATOA00"
   },
@@ -3553,7 +3951,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Prey Demo: prima ora - some preview gameplay - PS4 Pro",
-      "url": "https://www.youtube.com/watch?v=b4kefHm0Ha4"
+      "url": "https://www.youtube.com/watch?v=b4kefHm0Ha4",
+      "duration": "28:24",
+      "author": "Consolelab1"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA08458_00-PREYDEMO00000000"
   },
@@ -3567,7 +3967,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "3on3 FreeStyle 2024 - Multiplayer Gameplay (PS5)",
-      "url": "https://www.youtube.com/watch?v=bIUxBXQs1sc"
+      "url": "https://www.youtube.com/watch?v=bIUxBXQs1sc",
+      "duration": "17:05",
+      "author": "Section Plays"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1439-CUSA07069_00-3ON3FREESTYLE001"
   },
@@ -3581,7 +3983,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "AdventurePop [PS4 on PS5] A poor man's 🔘 Puzzle Bobble 🔘",
-      "url": "https://www.youtube.com/watch?v=eH_eKTsZhHo"
+      "url": "https://www.youtube.com/watch?v=eH_eKTsZhHo",
+      "duration": "5:13",
+      "author": "VideoGameObsession"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA05762_00-ADVENTUREPOPGAME"
   },
@@ -3595,7 +3999,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gravity Rush 2 Demo - PS4 Full Playthrough! Commentary!",
-      "url": "https://www.youtube.com/watch?v=XrWSInZ7ec0"
+      "url": "https://www.youtube.com/watch?v=XrWSInZ7ec0",
+      "duration": "21:48",
+      "author": "LemonEatingKow"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA06760_00-GR2EUKIOSK000000"
   },
@@ -3609,7 +4015,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pro Evolution Soccer 2017 (PS5) - Barcelona vs Arsenal [4K 60 FPS HDR] - Gameplay",
-      "url": "https://www.youtube.com/watch?v=bB-9e9WF4fI"
+      "url": "https://www.youtube.com/watch?v=bB-9e9WF4fI",
+      "duration": "18:11",
+      "author": "EBSOUZ Gaming"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA04957_00-PES2017000000000"
   },
@@ -3623,7 +4031,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Odin Sphere Leifthrasir (DEMO VERSION) - 60 Minute Playthrough [PS4]",
-      "url": "https://www.youtube.com/watch?v=I5HnFrXTZZY"
+      "url": "https://www.youtube.com/watch?v=I5HnFrXTZZY",
+      "duration": "1:03:09",
+      "author": "justonegamr"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1063-CUSA05318_00-ODINSPHERELEDEM0"
   },
@@ -3637,7 +4047,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Hatsune Miku: Project Diva X DEMO | Gameplay | PlayStation 4",
-      "url": "https://www.youtube.com/watch?v=MzTxWeOSy1w"
+      "url": "https://www.youtube.com/watch?v=MzTxWeOSy1w",
+      "duration": "19:10",
+      "author": "El IngeGamer Jesus"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0177-CUSA05768_00-PJDX393PRPRTRIAL"
   },
@@ -3651,7 +4063,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pac-Man Championship Edition 2 on PS5 [4K Video]",
-      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA"
+      "url": "https://www.youtube.com/watch?v=yvzJr_--UaA",
+      "duration": "4:16",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0700-CUSA06359_00-PACMANCE20000001"
   },
@@ -3665,7 +4079,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Just Dance 2017 Demo [PS4] [Mobile V.] | Sorry",
-      "url": "https://www.youtube.com/watch?v=YXFF_PcTlw0"
+      "url": "https://www.youtube.com/watch?v=YXFF_PcTlw0",
+      "duration": "3:43",
+      "author": "Nikitawrik"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA04822_00-JD2017PS4SCEEDMO"
   },
@@ -3679,7 +4095,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "World of Final Fantasy - Dungeon Demo (PS4 - No Commentary)",
-      "url": "https://www.youtube.com/watch?v=yHzeW9PcEiQ"
+      "url": "https://www.youtube.com/watch?v=yHzeW9PcEiQ",
+      "duration": "1:03:40",
+      "author": "MJGHD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA06046_00-WORLDOFFFPS40000"
   },
@@ -3693,7 +4111,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "SingStar Celebration | Gameplay Trailer | PS4",
-      "url": "https://www.youtube.com/watch?v=o3qUpRB0CdI"
+      "url": "https://www.youtube.com/watch?v=o3qUpRB0CdI",
+      "duration": "0:57",
+      "author": "PlayStation Europe"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00033_00-SINGSTARE3XX2013"
   },
@@ -3707,7 +4127,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "CHI HA SPARATO A KOMPANY?! FIFA 17 DEMO [GAMEPLAY ITA]",
-      "url": "https://www.youtube.com/watch?v=t6YP-RxDbQM"
+      "url": "https://www.youtube.com/watch?v=t6YP-RxDbQM",
+      "duration": "12:42",
+      "author": "Gabboman"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05519_00-FIFA2017DEMOGAME"
   },
@@ -3721,7 +4143,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA 2K17 ITA - La Mia Carriera Ep.2 - COLLEGE! - PRELUDIO GAMEPLAY ITA PS4",
-      "url": "https://www.youtube.com/watch?v=5jD3BB_7dgw"
+      "url": "https://www.youtube.com/watch?v=5jD3BB_7dgw",
+      "duration": "12:53",
+      "author": "AleMiracle"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1001-CUSA05035_00-NBA2K17000000000"
   },
@@ -3735,7 +4159,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "FINAL FANTASY XV - PLATINUM DEMO - PS4 - FULL PLAYTHROUGH - 1080P 60FPS",
-      "url": "https://www.youtube.com/watch?v=MZkiPY12rAU"
+      "url": "https://www.youtube.com/watch?v=MZkiPY12rAU",
+      "duration": "47:07",
+      "author": "LSB"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA04514_00-0000000000000001"
   },
@@ -3749,7 +4175,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "BATTLEFIELD 1 OPEN BETA MULTIPLAYER GAMEPLAY PS4",
-      "url": "https://www.youtube.com/watch?v=_DLsubhxADo"
+      "url": "https://www.youtube.com/watch?v=_DLsubhxADo",
+      "duration": "15:15",
+      "author": "Dacoco"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA05244_00-TBETA00000000000"
   },
@@ -3763,7 +4191,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "King's Quest Prologue on PS5 [4K Video]",
-      "url": "https://www.youtube.com/watch?v=eu7Zwy3ZCiA"
+      "url": "https://www.youtube.com/watch?v=eu7Zwy3ZCiA",
+      "duration": "15:00",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0002-CUSA02014_00-KINGSQUESTCHAPT1"
   },
@@ -3777,7 +4207,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Fight to Survive: DEAD OR ALIVE 5 Last Round PS5 Gameplay",
-      "url": "https://www.youtube.com/watch?v=HvgBbJOgWIY"
+      "url": "https://www.youtube.com/watch?v=HvgBbJOgWIY",
+      "duration": "1:05",
+      "author": "INSANE GAMING WITH TENCH GAMERZ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4108-CUSA01601_00-DOA5LR0000000000"
   },
@@ -3791,7 +4223,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Frozen Lampi Di Gemme -Battaglia di Neve - PS4 - Parte 1",
-      "url": "https://www.youtube.com/watch?v=Uv_LmNFC55w"
+      "url": "https://www.youtube.com/watch?v=Uv_LmNFC55w",
+      "duration": "30:25",
+      "author": "Marcodrums Games"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1006-CUSA02396_00-FFFSNOWBALLFIGHT"
   },
@@ -3805,7 +4239,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "WRC 5 FIA World Rally Championship Demo Gameplay Trailer (PlayStation 4/Xbox One/PC)",
-      "url": "https://www.youtube.com/watch?v=QOofbX_IdBo"
+      "url": "https://www.youtube.com/watch?v=QOofbX_IdBo",
+      "duration": "10:21",
+      "author": "VGFAQ"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4008-CUSA03463_00-WRC5000000000000"
   },
@@ -3819,7 +4255,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pro Evolution Soccer 2017 Demo Gameplay [HD|PS4]",
-      "url": "https://www.youtube.com/watch?v=UTPZbhc8MBU"
+      "url": "https://www.youtube.com/watch?v=UTPZbhc8MBU",
+      "duration": "8:36",
+      "author": "Retro Rabbit"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA06176_00-PES2017DEMO00000"
   },
@@ -3833,7 +4271,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "DOOM Demo | PS4 | Full walkthrough",
-      "url": "https://www.youtube.com/watch?v=t_Hzl8yZ4_4"
+      "url": "https://www.youtube.com/watch?v=t_Hzl8yZ4_4",
+      "duration": "15:19",
+      "author": "MrBusu"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1003-CUSA05655_00-DOOMSINGLEPLAYER"
   },
@@ -3858,7 +4298,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pro Evolution Soccer 2016 -- Gameplay (PS4)",
-      "url": "https://www.youtube.com/watch?v=k-GVxhnHcOg"
+      "url": "https://www.youtube.com/watch?v=k-GVxhnHcOg",
+      "duration": "24:30",
+      "author": "GamePlayStation"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA02640_00-DIGIEXCBUNDLE002"
   },
@@ -3872,7 +4314,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "AI Dive - Totti - Pro Evolution Soccer 2016 Demo (PS4)",
-      "url": "https://www.youtube.com/watch?v=hPLzEziHEqs"
+      "url": "https://www.youtube.com/watch?v=hPLzEziHEqs",
+      "duration": "0:25",
+      "author": "Racket"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA02989_00-PES2016HG0000000"
   },
@@ -3952,7 +4396,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gameplay di Metro Last Light Redux per PS5 in 4K Ultra HD (acquisito su PS5)",
-      "url": "https://www.youtube.com/watch?v=KodbNK3ttI8"
+      "url": "https://www.youtube.com/watch?v=KodbNK3ttI8",
+      "duration": "35:12",
+      "author": "lolmetwice"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4062-CUSA00592_00-MLLREDUXDIGITAL1"
   },
@@ -3977,7 +4423,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Hustle Kings PS5 Gameplay 4K 60fps Snooker Billiard game",
-      "url": "https://www.youtube.com/watch?v=s3Omh8-nH3g"
+      "url": "https://www.youtube.com/watch?v=s3Omh8-nH3g",
+      "duration": "7:26",
+      "author": "PS5 GAMEPLAY 4K 60fps"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00245_00-UHUSTLEKIN000001"
   },
@@ -4002,7 +4450,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "PES 15 nel gameplay PS5 del 2022 (Nostalgia 🥺)",
-      "url": "https://www.youtube.com/watch?v=pM70VM3B2Ck"
+      "url": "https://www.youtube.com/watch?v=pM70VM3B2Ck",
+      "duration": "20:24",
+      "author": "Nad Noddy"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA01042_00-DIGITALEXCLUSIVE"
   },
@@ -4049,7 +4499,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Pro Evolution Soccer 2015 Demo - Gameplay PS4",
-      "url": "https://www.youtube.com/watch?v=1Pfkap7iZJA"
+      "url": "https://www.youtube.com/watch?v=1Pfkap7iZJA",
+      "duration": "11:08",
+      "author": "piep91"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0101-CUSA01331_00-PES2015HG0000000"
   },
@@ -4063,7 +4515,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gameplay ITA Demo FIFA 15 PS4 - Novità e prime impressioni + prima partita UT w/LiveCommentary",
-      "url": "https://www.youtube.com/watch?v=0FnMUBndRw0"
+      "url": "https://www.youtube.com/watch?v=0FnMUBndRw0",
+      "duration": "14:55",
+      "author": "MatteTech"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA00862_00-FIFA2015DEMOGAME"
   },
@@ -4077,7 +4531,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Gameplay di Blue Estate - Parte 1 | Giochi per PS5 e PS4 | 4K HDR | GIOCO CASUALE DEL GIORNO 780",
-      "url": "https://www.youtube.com/watch?v=kcM6y3W0ivo"
+      "url": "https://www.youtube.com/watch?v=kcM6y3W0ivo",
+      "duration": "43:28",
+      "author": "Lutfi “Lutfinator82496” Barakat"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4133-CUSA00597_00-HSBLUEESTATEGAME"
   },
@@ -4091,7 +4547,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "THIEF 'PS4 E3 2013 Demo Walkthrough' TRUE-HD QUALITY",
-      "url": "https://www.youtube.com/watch?v=wwKAp8XdQ74"
+      "url": "https://www.youtube.com/watch?v=wwKAp8XdQ74",
+      "duration": "13:55",
+      "author": "RajmanGaming HD"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0082-CUSA00652_00-0000000THIEFDEMO"
   },
@@ -4105,7 +4563,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Tiny Brains Gameplay (PS4 HD) [1080p]",
-      "url": "https://www.youtube.com/watch?v=oPp7T2SWh2I"
+      "url": "https://www.youtube.com/watch?v=oPp7T2SWh2I",
+      "duration": "17:52",
+      "author": "Throneful"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4040-CUSA00165_00-TINYBRAINSGAME01"
   },
@@ -4119,7 +4579,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Trials Fusion (PS5) Gameplay 4K Part 1",
-      "url": "https://www.youtube.com/watch?v=T48rjyKHMp0"
+      "url": "https://www.youtube.com/watch?v=T48rjyKHMp0",
+      "duration": "19:52",
+      "author": "VideoGames Replay"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0001-CUSA00230_00-TRIALSFUSION1111"
   },
@@ -4133,7 +4595,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Doki-Doki Universe on PS5  [4K Video]",
-      "url": "https://www.youtube.com/watch?v=OJfagMUe_FU"
+      "url": "https://www.youtube.com/watch?v=OJfagMUe_FU",
+      "duration": "12:54",
+      "author": "I like Ginger Cats"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP9000-CUSA00046_00-DDU0000000000000"
   },
@@ -4147,7 +4611,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Trine 2: Complete Story PS4 gameplay | 4K TV",
-      "url": "https://www.youtube.com/watch?v=f1PjXRkOTXc"
+      "url": "https://www.youtube.com/watch?v=f1PjXRkOTXc",
+      "duration": "14:39",
+      "author": "MGT - Max Games Tech"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP4029-CUSA00217_00-TRINE2COMPLETE00"
   },
@@ -4205,7 +4671,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "Lego Marvel Super Heroes Demo PS4 Gameplay (No Commentary)",
-      "url": "https://www.youtube.com/watch?v=B5jT6N5cfvE"
+      "url": "https://www.youtube.com/watch?v=B5jT6N5cfvE",
+      "duration": "30:46",
+      "author": "Jero Darko"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP1018-CUSA00258_00-LEGOMARVELDEMO00"
   },
@@ -4219,7 +4687,9 @@ window.PLAYSTATION_GAMES = [
     "screenshots": [],
     "gameplay": {
       "title": "NBA Live 14 Demo PS4 Gameplay",
-      "url": "https://www.youtube.com/watch?v=lkyBdsfCqZc"
+      "url": "https://www.youtube.com/watch?v=lkyBdsfCqZc",
+      "duration": "5:03",
+      "author": "thewwedj"
     },
     "storeUrl": "https://store.playstation.com/it-it/product/EP0006-CUSA00232_00-NBALIVE14EASPRTS"
   }
