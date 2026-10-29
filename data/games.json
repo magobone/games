@@ -1,5 +1,59 @@
 [
   {
+    "id": 279,
+    "title": "Dead Island 2",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/IEo9RDMLk0ZBQWhbZMN5lV2p.jpg?w=1920&thumb=false",
+    "genre": "Azione",
+    "localPlayers": "NO",
+    "description": "Action RPG in prima persona ambientato in una Los Angeles invasa dagli zombie. Il giocatore sceglie un sopravvissuto, esplora la citta, raccoglie e modifica armi e affronta combattimenti brutali, da solo o in cooperativa online fino a tre giocatori.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/epmQKWj9FRlRaULWJFzzMowV.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/yX0xnKJ9obu8ngUfKpti4AIJ.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/GbtCiyn1F0ynDRaFvRw9kQKg.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "DEAD ISLAND 2 Full Gameplay Walkthrough / No Commentary 【FULL GAME】4K 60FPS UHD",
+      "url": "https://www.youtube.com/watch?v=HJy16ptsQSA"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP4062-PPSA03099_00-DI2MAINSIEEPS500"
+  },
+  {
+    "id": 280,
+    "title": "Tomb Raider IV-VI Remastered",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1221/85006e3582d8b415bf4b7b2aa884c8ddf2f1a7d5d7d2083e.jpg?w=1920&thumb=false",
+    "genre": "Avventura",
+    "localPlayers": "NO",
+    "description": "Raccolta rimasterizzata di Tomb Raider: The Last Revelation, Chronicles e The Angel of Darkness. Il giocatore guida Lara Croft tra tombe, enigmi, salti e combattimenti, con grafica aggiornata e la possibilita di alternarla a quella originale.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/d75cc9c02e5e70fb787caeb4eeb319263bac845200f030d8.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/10022143ea901b29421ccbc393e9ecb7fe002bd79e9aca9a.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202501/2822/a2a22bcd6289ad93fe749d7440ce2f0f298f87b74279c33f.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Tomb Raider IV-VI Remastered (PS5) - Gameplay dos Três Jogos - Legendado e \"Dublado\" PT-BR",
+      "url": "https://www.youtube.com/watch?v=Nj2MPEqp6ac"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/concept/10009064"
+  },
+  {
+    "id": 281,
+    "title": "Monster Train 2",
+    "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1214/39dbb65f6a8bc2ab1f71271b3403f5df6f8f3f0879a299da.png?w=1920&thumb=false",
+    "genre": "Strategia",
+    "localPlayers": "NO",
+    "description": "Deckbuilder roguelike strategico in cui angeli e demoni si alleano contro i Titani. Il giocatore combina clan, costruisce un mazzo di carte, schiera unita sui tre piani del treno e potenzia incantesimi ed equipaggiamenti per difendere la propria Pira.",
+    "screenshots": [
+      "https://image.api.playstation.com/vulcan/ap/rnd/202505/0912/d13cab675f03099d6bd8a06cd63e885db160557b516510d8.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202505/0912/991e8b6e85d4725226da823ad6ecec043a6c661c247d4339.jpg?w=440&thumb=false",
+      "https://image.api.playstation.com/vulcan/ap/rnd/202505/0912/62bd0ec8071d4dcff6a9ee467eee6f131e7433b0885c09c3.jpg?w=440&thumb=false"
+    ],
+    "gameplay": {
+      "title": "Let's Play - Monster Train 2 - Roguelite Turn Based Strategy Deck Building Battler - Full Gameplay",
+      "url": "https://www.youtube.com/watch?v=tmGcyO8mTkA"
+    },
+    "storeUrl": "https://store.playstation.com/it-it/product/EP8909-PPSA25758_00-0047300101977880"
+  },
+  {
     "id": 276,
     "title": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
     "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/ba6315e3f4b173134acc0b7cf9b0023534646b62462397b5.jpg?w=1920&thumb=false",
